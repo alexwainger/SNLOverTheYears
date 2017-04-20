@@ -1,0 +1,65 @@
+---
+title: "EDAV Homework 4"
+author: "Alex Wainger (atw2131)"
+date: "March 26, 2017"
+output: html_notebook
+---
+
+<style type="text/css">
+body, td {
+   font-size: 16px;
+}
+</style>
+
+### Introduction
+Since its inception in 1975, SNL has had a vast range of celebrity hosts and musical guests. Inspired by a [FiveThirtyEight article](https://fivethirtyeight.com/datalab/every-guest-jon-stewart-ever-had-on-the-daily-show/) on Jon Stewart's guests over the years, I wanted to take a closer look at who has been featured on the show over the last 40+ years, and how the makeup of the guests have changed over time. Like they did at 538, I scraped [3](https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_episodes_(seasons_1%E2%80%9315)#Episodes) [Wikipedia](https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_episodes_(seasons_16%E2%80%9330)#Episodes) [articles](https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_episodes) to get a listing of the name, date, season, and episode number of every host and musical guest SNL has ever had. I then used Google's Knowledge Graph API to get a one-word description of what each person or group does. The Wikipedia tables of hosts and musical guests also had links to the person or group's own Wikipedia page, so I also went to each of those and scraped birthdays and genres, when applicable (i.e. bands don't have birthdays and politicians don't have genres). The scraper used to generate the dataset can be run by anyone and will be included in the final handin, as will the generated datasets.
+
+### Project Roadmap
+Because I am working alone, I'll use this space to map out the steps I need to take over the next few weeks. I've already scraped the majority of the data I will need (though after doing some of the analysis below, I may want to scrape some data on the Billboard top 40 or some other measure of the popularity of music so that I can compare SNL's musical guests to the national trends and see if they are ahead or behind the times, or just operating on their own plane). The next steps for me are:
+
+1. Further cleaning of the data. Looking at the bar charts of different host/musical guest descriptions, it's clear that there were some issues with the Knowledge Graph not identifying the correct entity, so I'll probably have to go through and clean some of those up further. Because the Knowledge Graph gives me back a Wikipedia link, I should check and make sure that the Wikipedia link from Google matches the one I have from scraping, and if it doesn't, flag that entry as one to do by hand.
+2. Before creating these first visualizations, I wasn't expecting singer-songwriter and actor/actress to stand out so highly above the rest of the descriptions. Before I go further down the rabbit hole, it might be worthwhile to collect some additional data that can help me identify interesting patterns over time. As I mentioned above, I may scrape Billboard top 40 data to compare with musical guest genres. I could do a similar study for the hosts, as most of them are actors, so potentially scraping data on the genres that each actor typically appears in and visualizing how those have changed over time.
+3. Once I have a sufficient amount of data, I really want to focus on the change over time of all these variables. Though I was kind of surprised by the overall number of actors, I think the more interesting patterns likely lie in the dataset being a timeseries. I'll focus my exploration on the differences in the variables over time, though I'm sure I'll come across some interesting overall patterns.
+
+### Early Visualizations
+```{r}
+hosts = read.csv("data/hosts3.csv")
+musical_guests = read.csv("data/musical_guests3.csv")
+```
+
+```{r, fig.height=9}
+library(ggplot2)
+library(dplyr)
+music_descriptions = musical_guests %>% group_by(description) %>% summarise(Freq = n())
+ggplot(data = music_descriptions) + geom_bar(aes(x=reorder(description, Freq), y=Freq), stat="Identity") +
+  coord_flip() + theme(text = element_text(size=22)) + 
+  labs(title="Musical Guest Description Frequencies", x="Description")
+```
+
+```{r, fig.height=9}
+host_descriptions = hosts %>% group_by(description) %>% summarise(Freq = n())
+ggplot(data = host_descriptions) + geom_bar(aes(x=reorder(description, Freq), y=Freq), stat="Identity") +
+  coord_flip() + theme(text = element_text(size=25)) + 
+  labs(title="Host Description Frequencies", x="Description")
+```
+Both of these bar graphs show the distribution of the different descriptions of hosts and musical guests. You can see many of the descriptions with just a single observation were probably misclassified by Google Knowledge Graph and will have to be re-categorized.
+
+```{r, fig.height=9}
+library(tidyr)
+genre_freqs <- musical_guests %>% mutate(genres = strsplit(as.character(genres), ",")) %>%
+  unnest(genres) %>% group_by(genres) %>% summarise(Freq = n()) %>% filter(Freq > 10)
+ggplot(data = genre_freqs) + geom_bar(aes(x=reorder(genres, Freq), y=Freq), stat="Identity") +
+  coord_flip() + theme(text = element_text(size=25)) + 
+  labs(title="Musical Genre Frequencies", x="Description")
+```
+This bar chart of the musical genre frequencies is a bit more interesting! I only plotted genres that appeared at least 10 times in the dataset, as otherwise there were over 400. There's a pretty diverse group at the top, made up of R&B, Pop, Rock, and Soul, and it will definitely be interesting to see how the presence of these genres changes over time.
+
+```{r}
+birthdays <- as.POSIXct(hosts$bday, format='%Y-%m-%d')
+show_dates <- as.POSIXct(hosts$date, format='%Y-%m-%d')
+diffs <- difftime(show_dates,birthdays,units="days") / 365
+df <- data.frame(diffs)
+ggplot(data = df, aes(x=diffs)) + geom_histogram(binwidth = 3, aes(y = ..density..)) + 
+  geom_density(bw = 3) + labs(title="Distribution of Host Age at Time of Performance", x = "Age in years")
+```
+This last graph shows the distribution of host age at the time that they performed. We can see that it looks very normal, with a slight tail on the right side, as the oldest performers were over 40 years older than the average host (around 35).

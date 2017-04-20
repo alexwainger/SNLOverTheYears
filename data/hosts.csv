@@ -1,0 +1,848 @@
+season,epnumInSeason,epnum,date,name,wikilink,description,types,bday,genres,gender
+1,1,1,1975-10-11,George Carlin,/wiki/George_Carlin,Comedian,"Person,Thing",1937-05-12,"Character comedy,observational comedy,word play,satire,political satire,black comedy,surreal humor,sarcasm,blue comedy",Male
+1,2,2,1975-10-18,Paul Simon,/wiki/Paul_Simon,Musician,"Person,Thing",1941-10-13,"Folk,rock,pop,world",Male
+1,3,3,1975-10-25,Rob Reiner,/wiki/Rob_Reiner,Actor,"Person,Thing",1947-03-06,,Male
+1,4,4,1975-11-08,Candice Bergen,/wiki/Candice_Bergen,Actress,"Thing,Person",1946-05-09,,Female
+1,5,5,1975-11-15,Robert Klein,/wiki/Robert_Klein,Stand-up comedian,"Thing,Person",1942-02-08,"Observational comedy,improvisational comedy,satire,Political satire,musical comedy",Male
+1,6,6,1975-11-22,Lily Tomlin,/wiki/Lily_Tomlin,Actress,"Person,Thing",1939-09-01,"Observational comedy,Improvisational comedy",Female
+1,7,7,1975-12-13,Richard Pryor,/wiki/Richard_Pryor,Stand-up comedian,"Person,Thing",1940-12-01,"Political satire,Observational comedy,Black comedy,Improvisational comedy,character comedy",Male
+1,8,8,1975-12-20,Candice Bergen,/wiki/Candice_Bergen,Actress,"Thing,Person",1946-05-09,,Female
+1,9,9,1976-01-10,Elliott Gould,/wiki/Elliott_Gould,Actor,"Thing,Person",1938-08-29,,Male
+1,10,10,1976-01-17,Buck Henry,/wiki/Buck_Henry,Actor,"Person,Thing",1930-12-09,,Male
+1,11,11,1976-01-24,Peter Cook,/wiki/Peter_Cook,Actor,"Thing,Person",1937-11-17,,Male
+1,11,11,1976-01-24,Dudley Moore,/wiki/Dudley_Moore,Actor,"Thing,Person",1935-04-19,,Male
+1,12,12,1976-01-31,Dick Cavett,/wiki/Dick_Cavett,Television personality,"Person,Thing",1936-11-19,,Male
+1,13,13,1976-02-14,Peter Boyle,/wiki/Peter_Boyle,Character actor,"Thing,Person",1935-10-18,,Male
+1,14,14,1976-02-21,Desi Arnaz,/wiki/Desi_Arnaz,Musician,"Person,Thing",1917-03-02,,Male
+1,15,15,1976-02-28,Jill Clayburgh,/wiki/Jill_Clayburgh,Actress,"Person,Thing",1944-04-30,,Female
+1,16,16,1976-03-13,Anthony Perkins,/wiki/Anthony_Perkins,Actor,"Thing,Person",1932-04-04,,Male
+1,17,17,1976-04-17,Ron Nessen,/wiki/Ron_Nessen,Former White House Press Secretary,"Person,Thing",1934-05-25,,Male
+1,18,18,1976-04-24,Raquel Welch,/wiki/Raquel_Welch,Actress,"Person,Thing",1940-09-05,,Female
+1,19,19,1976-05-08,Madeline Kahn,/wiki/Madeline_Kahn,Actress,"Person,Thing",1942-09-29,,Female
+1,20,20,1976-05-15,Dyan Cannon,/wiki/Dyan_Cannon,Film actress,"Thing,Person",1937-01-04,,Female
+1,21,21,1976-05-22,Buck Henry,/wiki/Buck_Henry,Actor,"Person,Thing",1930-12-09,,Male
+1,22,22,1976-05-29,Elliott Gould,/wiki/Elliott_Gould,Actor,"Thing,Person",1938-08-29,,Male
+1,23,23,1976-07-24,Louise Lasser,/wiki/Louise_Lasser,Actress,"Thing,Person",1939-04-11,,Female
+1,24,24,1976-07-31,Kris Kristofferson,/wiki/Kris_Kristofferson,Singer-songwriter,"Person,Thing",1936-06-22,"Country,outlaw country,folk,rock,gospel",Male
+2,1,25,1976-09-18,Lily Tomlin,/wiki/Lily_Tomlin,Actress,"Person,Thing",1939-09-01,"Observational comedy,Improvisational comedy",Female
+2,2,26,1976-09-25,Norman Lear,/wiki/Norman_Lear,Television writer,"Thing,Person",1922-07-27,,Male
+2,3,27,1976-10-02,Eric Idle,/wiki/Eric_Idle,Comedian,"Thing,Person",1943-03-29,,Male
+2,4,28,1976-10-16,Karen Black,/wiki/Karen_Black,Actress,"Person,Thing",1939-07-01,,Female
+2,5,29,1976-10-23,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+2,6,30,1976-10-30,Buck Henry,/wiki/Buck_Henry,Actor,"Person,Thing",1930-12-09,,Male
+2,7,31,1976-11-13,Dick Cavett,/wiki/Dick_Cavett,Television personality,"Person,Thing",1936-11-19,,Male
+2,8,32,1976-11-20,Paul Simon,/wiki/Paul_Simon,Musician,"Person,Thing",1941-10-13,"Folk,rock,pop,world",Male
+2,9,33,1976-11-27,Jodie Foster,/wiki/Jodie_Foster,Actress,"Person,Thing",1962-11-19,,Female
+2,10,34,1976-12-11,Candice Bergen,/wiki/Candice_Bergen,Actress,"Thing,Person",1946-05-09,,Female
+2,11,35,1977-01-15,Ralph Nader,/wiki/Ralph_Nader,Activist,"Person,Thing",1934-02-27,,Male
+2,12,36,1977-01-22,Ruth Gordon,/wiki/Ruth_Gordon,Model,"Person,Thing",1896-10-30,,Female
+2,13,37,1977-01-29,Fran Tarkenton,/wiki/Fran_Tarkenton,Football quarterback,"Thing,Person",1940-02-03,,Male
+2,14,38,1977-02-26,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+2,15,39,1977-03-12,Sissy Spacek,/wiki/Sissy_Spacek,Actress,"Thing,Person",1949-12-25,,Female
+2,16,40,1977-03-19,Broderick Crawford,/wiki/Broderick_Crawford,Film actor,"Thing,Person",1911-12-09,,Male
+2,17,41,1977-03-26,Jack Burns,/wiki/Jack_Burns,Comedian,"Thing,Person",1933-11-15,,Male
+2,18,42,1977-04-09,Julian Bond,/wiki/Julian_Bond,Social activist,"Thing,Person",1940-01-14,,Male
+2,19,43,1977-04-16,Elliott Gould,/wiki/Elliott_Gould,Actor,"Thing,Person",1938-08-29,,Male
+2,20,44,1977-04-23,Eric Idle,/wiki/Eric_Idle,Comedian,"Thing,Person",1943-03-29,,Male
+2,21,45,1977-05-14,Shelley Duvall,/wiki/Shelley_Duvall,Actress,"Thing,Person",1949-07-07,,Female
+2,22,46,1977-05-21,Buck Henry,/wiki/Buck_Henry,Actor,"Person,Thing",1930-12-09,,Male
+3,1,47,1977-09-24,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+3,2,48,1977-10-08,Madeline Kahn,/wiki/Madeline_Kahn,Actress,"Person,Thing",1942-09-29,,Female
+3,3,49,1977-10-15,Hugh Hefner,/wiki/Hugh_Hefner,Publisher,"Thing,Person",1926-04-09,,Male
+3,4,50,1977-10-29,Charles Grodin,/wiki/Charles_Grodin,Actor,"Thing,Person",1935-04-21,,Male
+3,5,51,1977-11-12,Ray Charles,/wiki/Ray_Charles,Singer-songwriter,"Thing,Person",1930-09-23,"R&B,soul,blues,gospel,country,jazz,pop,rock and roll",Male
+3,6,52,1977-11-19,Buck Henry,/wiki/Buck_Henry,Actor,"Person,Thing",1930-12-09,,Male
+3,7,53,1977-12-10,Mary Kay Place,/wiki/Mary_Kay_Place,Actress,"Person,Thing",1947-09-23,,Female
+3,8,54,1977-12-17,Miskel Spillman,/wiki/Miskel_Spillman,,"Person,Thing",1897-09-08,,Female
+3,9,55,1978-01-21,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+3,10,56,1978-01-28,Robert Klein,/wiki/Robert_Klein,Stand-up comedian,"Thing,Person",1942-02-08,"Observational comedy,improvisational comedy,satire,Political satire,musical comedy",Male
+3,11,57,1978-02-18,Chevy Chase,/wiki/Chevy_Chase,Actor,"Person,Thing",1943-10-08,"Sketch comedy,improvisational comedy,physical comedy,slapstick",Male
+3,12,58,1978-02-25,O. J. Simpson,/wiki/O._J._Simpson,Football running back,"Person,Thing",1947-07-09,,Male
+3,13,59,1978-03-11,Art Garfunkel,/wiki/Art_Garfunkel,Singer,"Thing,Person",1941-11-05,"Folk,rock,pop",Male
+3,14,60,1978-03-18,Jill Clayburgh,/wiki/Jill_Clayburgh,Actress,"Person,Thing",1944-04-30,,Female
+3,15,61,1978-03-25,Christopher Lee,/wiki/Christopher_Lee,Character actor,"Thing,Person",1922-05-27,,Male
+3,16,62,1978-04-08,Michael Palin,/wiki/Michael_Palin,Comedian,"Thing,Person",1943-05-05,,Male
+3,17,63,1978-04-15,Michael Sarrazin,/wiki/Michael_Sarrazin,Film actor,"Person,Thing",1940-05-22,,Male
+3,18,64,1978-04-22,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+3,19,65,1978-05-13,Richard Dreyfuss,/wiki/Richard_Dreyfuss,Actor,"Thing,Person",1947-10-29,,Male
+3,20,66,1978-05-20,Buck Henry,/wiki/Buck_Henry,Actor,"Person,Thing",1930-12-09,,Male
+4,1,67,1978-10-07,The Rolling Stones,/wiki/The_Rolling_Stones,Rock band,"MusicGroup,Thing",,"Rock,blues",
+4,2,68,1978-10-14,Fred Willard,/wiki/Fred_Willard,Actor,"Thing,Person",1939-09-18,,Male
+4,3,69,1978-10-21,Frank Zappa,/wiki/Frank_Zappa,Musician,"Person,Thing",1940-12-21,"Rock,experimental,jazz,classical,pop,avant-garde",Male
+4,4,70,1978-11-04,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+4,5,71,1978-11-11,Buck Henry,/wiki/Buck_Henry,Actor,"Person,Thing",1930-12-09,,Male
+4,6,72,1978-11-18,Carrie Fisher,/wiki/Carrie_Fisher,Actress,"Person,Thing",1956-10-21,,Female
+4,7,73,1978-12-02,Walter Matthau,/wiki/Walter_Matthau,Actor,"Thing,Person",1920-10-01,,Male
+4,8,74,1978-12-09,Eric Idle,/wiki/Eric_Idle,Comedian,"Thing,Person",1943-03-29,,Male
+4,9,75,1978-12-16,Elliott Gould,/wiki/Elliott_Gould,Actor,"Thing,Person",1938-08-29,,Male
+4,10,76,1979-01-27,Michael Palin,/wiki/Michael_Palin,Comedian,"Thing,Person",1943-05-05,,Male
+4,11,77,1979-02-10,Cicely Tyson,/wiki/Cicely_Tyson,Actress,"Person,Thing",1924-12-18,,Female
+4,12,78,1979-02-17,Ricky Nelson,/wiki/Ricky_Nelson,Actor,"Person,Thing",1940-05-08,"Rockabilly,rock 'n' roll,pop,folk,country",Male
+4,13,79,1979-02-24,Kate Jackson,/wiki/Kate_Jackson,Actress,"Person,Thing",1948-10-29,,Female
+4,14,80,1979-03-10,Gary Busey,/wiki/Gary_Busey,Actor,"Person,Thing",1944-06-29,,Male
+4,15,81,1979-03-17,Margot Kidder,/wiki/Margot_Kidder,Actress,"Person,Thing",1948-10-17,,Female
+4,16,82,1979-04-07,Richard Benjamin,/wiki/Richard_Benjamin,Actor,"Thing,Person",1938-05-22,,Male
+4,17,83,1979-04-14,Milton Berle,/wiki/Milton_Berle,Comedian,"Person,Thing",1908-07-12,,Male
+4,18,84,1979-05-12,Michael Palin,/wiki/Michael_Palin,Comedian,"Thing,Person",1943-05-05,,Male
+4,19,85,1979-05-19,Maureen Stapleton,/wiki/Maureen_Stapleton,Actress,"Person,Thing",1925-06-21,,Female
+4,20,86,1979-05-26,Buck Henry,/wiki/Buck_Henry,Actor,"Person,Thing",1930-12-09,,Male
+5,1,87,1979-10-13,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+5,2,88,1979-10-20,Eric Idle,/wiki/Eric_Idle,Comedian,"Thing,Person",1943-03-29,,Male
+5,3,89,1979-11-03,Bill Russell,/wiki/Bill_Russell_(basketball),Basketball player,"Person,Thing",1934-02-12,,Male
+5,4,90,1979-11-10,Buck Henry,/wiki/Buck_Henry,Actor,"Person,Thing",1930-12-09,,Male
+5,5,91,1979-11-17,Bea Arthur,/wiki/Bea_Arthur,Actress,"Thing,Person",1922-05-13,,Female
+5,6,92,1979-12-08,Howard Hesseman,/wiki/Howard_Hesseman,Actor,"Thing,Person",1940-02-27,,Male
+5,7,93,1979-12-15,Martin Sheen,/wiki/Martin_Sheen,Actor,"Person,Thing",1940-08-03,,Male
+5,8,94,1979-12-22,Ted Knight,/wiki/Ted_Knight,Actor,"Thing,Person",1923-12-07,,Male
+5,9,95,1980-01-26,Teri Garr,/wiki/Teri_Garr,Actress,"Thing,Person",1947-12-11,,Female
+5,10,96,1980-02-09,Chevy Chase,/wiki/Chevy_Chase,Actor,"Person,Thing",1943-10-08,"Sketch comedy,improvisational comedy,physical comedy,slapstick",Male
+5,11,97,1980-02-16,Elliott Gould,/wiki/Elliott_Gould,Actor,"Thing,Person",1938-08-29,,Male
+5,12,98,1980-02-23,Kirk Douglas,/wiki/Kirk_Douglas,Actor,"Thing,Person",1916-12-09,,Male
+5,13,99,1980-03-08,Rodney Dangerfield,/wiki/Rodney_Dangerfield,Comedian,"Thing,Person",1921-11-22,"Depression,human sexuality,aging,deadpan,self-deprecation,dick jokes,fat jokes,alcoholism",Male
+5,15,101,1980-04-05,Richard Benjamin,/wiki/Richard_Benjamin,Actor,"Thing,Person",1938-05-22,,Male
+5,15,101,1980-04-05,Paula Prentiss,/wiki/Paula_Prentiss,Actress,"Person,Thing",1938-03-04,,Female
+5,16,102,1980-04-12,Burt Reynolds,/wiki/Burt_Reynolds,Actor,"Thing,Person",1936-02-11,,Male
+5,17,103,1980-04-19,Strother Martin,/wiki/Strother_Martin,Character actor,"Person,Thing",1919-03-26,,Male
+5,18,104,1980-05-10,Bob Newhart,/wiki/Bob_Newhart,Stand-up comedian,"Person,Thing",1929-09-05,"Deadpan,satire",Male
+5,19,105,1980-05-17,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+5,20,106,1980-05-24,Buck Henry,/wiki/Buck_Henry,Actor,"Person,Thing",1930-12-09,,Male
+6,1,107,1980-11-15,Elliott Gould,/wiki/Elliott_Gould,Actor,"Thing,Person",1938-08-29,,Male
+6,2,108,1980-11-22,Malcolm McDowell,/wiki/Malcolm_McDowell,Actor,"Person,Thing",1943-06-13,,Male
+6,3,109,1980-12-06,Ellen Burstyn,/wiki/Ellen_Burstyn,Actress,"Thing,Person",1932-12-07,,Female
+6,4,110,1980-12-13,Jamie Lee Curtis,/wiki/Jamie_Lee_Curtis,Actress,"Person,Thing",1958-11-22,,Female
+6,5,111,1980-12-20,David Carradine,/wiki/David_Carradine,Actor,"Person,Thing",1936-12-08,,Male
+6,6,112,1981-01-10,Ray Sharkey,/wiki/Ray_Sharkey,Film actor,"Thing,Person",1952-11-14,,Male
+6,7,113,1981-01-17,Karen Black,/wiki/Karen_Black,Actress,"Person,Thing",1939-07-01,,Female
+6,8,114,1981-01-24,Robert Hays,/wiki/Robert_Hays,Actor,"Thing,Person",1947-07-24,,Male
+6,9,115,1981-02-07,Sally Kellerman,/wiki/Sally_Kellerman,Actress,"Person,Thing",1937-06-02,,Female
+6,10,116,1981-02-14,Deborah Harry,/wiki/Debbie_Harry,Singer-songwriter,"Thing,Person",1945-07-01,"Rock,new wave,punk rock,disco,pop",Female
+6,11,117,1981-02-21,Charlene Tilton,/wiki/Charlene_Tilton,Actress,"Person,Thing",1958-12-01,,Female
+6,12,118,1981-03-07,Bill Murray,/wiki/Bill_Murray,Actor,"Thing,Person",1950-09-21,,Male
+7,2,121,1981-10-10,Susan Saint James,/wiki/Susan_Saint_James,Actress,"Person,Thing",1946-08-14,,Female
+7,3,122,1981-10-17,George Kennedy,/wiki/George_Kennedy,Actor,"Person,Thing",1925-02-18,,Male
+7,4,123,1981-10-31,Donald Pleasence,/wiki/Donald_Pleasence,Film actor,"Person,Thing",1919-10-05,,Male
+7,5,124,1981-11-07,Lauren Hutton,/wiki/Lauren_Hutton,Model,"Thing,Person",1943-11-17,,Female
+7,6,125,1981-11-14,Bernadette Peters,/wiki/Bernadette_Peters,Actress,"Person,Thing",1948-02-28,,Female
+7,7,126,1981-12-05,Tim Curry,/wiki/Tim_Curry,Actor,"Person,Thing",1946-04-19,,Male
+7,8,127,1981-12-12,Bill Murray,/wiki/Bill_Murray,Actor,"Thing,Person",1950-09-21,,Male
+7,9,128,1982-01-23,Robert Conrad,/wiki/Robert_Conrad,Film actor,"Thing,Person",1935-03-01,,Male
+7,10,129,1982-01-30,John Madden,/wiki/John_Madden,Football coach,"Thing,Person",1936-04-10,,Male
+7,11,130,1982-02-06,James Coburn,/wiki/James_Coburn,Actor,"Person,Thing",1928-08-31,,Male
+7,12,131,1982-02-20,Bruce Dern,/wiki/Bruce_Dern,Actor,"Thing,Person",1936-06-04,,Male
+7,13,132,1982-02-27,Elizabeth Ashley,/wiki/Elizabeth_Ashley,Actress,"Person,Thing",1939-08-30,,Female
+7,14,133,1982-03-20,Robert Urich,/wiki/Robert_Urich,Film actor,"Person,Thing",1946-12-19,,Male
+7,15,134,1982-03-27,Blythe Danner,/wiki/Blythe_Danner,Actress,"Person,Thing",1943-02-03,,Female
+7,16,135,1982-04-10,Daniel J. Travanti,/wiki/Daniel_J._Travanti,Actor,"Person,Thing",1940-03-07,,Male
+7,17,136,1982-04-17,Johnny Cash,/wiki/Johnny_Cash,Singer-songwriter,"Thing,Person",1932-02-26,"Country,rock and roll,folk,gospel,rockabilly,western,southern gothic",Male
+7,18,137,1982-04-24,Robert Culp,/wiki/Robert_Culp,Actor,"Person,Thing",1930-08-16,,Male
+7,19,138,1982-05-15,Danny DeVito,/wiki/Danny_DeVito,Actor,"Thing,Person",1944-11-17,,Male
+7,20,139,1982-05-22,Olivia Newton-John,/wiki/Olivia_Newton-John,Singer,"Thing,Person",1948-09-26,"Pop,country,soft rock,pop rock",Female
+8,1,140,1982-09-25,Chevy Chase,/wiki/Chevy_Chase,Actor,"Person,Thing",1943-10-08,"Sketch comedy,improvisational comedy,physical comedy,slapstick",Male
+8,2,141,1982-10-02,"Louis Gossett, Jr.","/wiki/Louis_Gossett,_Jr.",Actor,"Thing,Person",1936-05-27,,Male
+8,3,142,1982-10-09,Ron Howard,/wiki/Ron_Howard,Actor,"Thing,Person",1954-03-01,,Male
+8,4,143,1982-10-23,Howard Hesseman,/wiki/Howard_Hesseman,Actor,"Thing,Person",1940-02-27,,Male
+8,5,144,1982-10-30,Michael Keaton,/wiki/Michael_Keaton,Actor,"Person,Thing",1951-09-05,,Male
+8,6,145,1982-11-13,Robert Blake,/wiki/Robert_Blake_(actor),Actor,"Person,Thing",1933-09-18,,Male
+8,7,146,1982-11-20,Drew Barrymore,/wiki/Drew_Barrymore,Actress,"Thing,Person",1975-02-22,,Female
+8,8,147,1982-12-04,The Smothers Brothers,/wiki/The_Smothers_Brothers,One-man act,"MusicGroup,Thing",1967-02-05,,
+8,9,148,1982-12-11,Eddie Murphy,/wiki/Eddie_Murphy,Comedian,"Person,Thing",1961-04-03,"Observational comedy,musical comedy,blue comedy,black comedy,political satire,physical comedy,dance-pop,insult comedy",Male
+8,10,149,1983-01-22,Lily Tomlin,/wiki/Lily_Tomlin,Actress,"Person,Thing",1939-09-01,"Observational comedy,Improvisational comedy",Female
+8,11,150,1983-01-29,Rick Moranis,/wiki/Rick_Moranis,Actor,"Person,Thing",1953-04-18,,Male
+8,11,150,1983-01-29,Dave Thomas,/wiki/Dave_Thomas_(actor),Businessperson,"Thing,Person",1949-05-20,,Male
+8,12,151,1983-02-05,Sid Caesar,/wiki/Sid_Caesar,Comic,"Person,Thing",1922-09-08,,Male
+8,13,152,1983-02-19,Howard Hesseman,/wiki/Howard_Hesseman,Actor,"Thing,Person",1940-02-27,,Male
+8,14,153,1983-02-26,Beau Bridges,/wiki/Beau_Bridges,Actor,"Thing,Person",1941-12-09,,Male
+8,14,153,1983-02-26,Jeff Bridges,/wiki/Jeff_Bridges,Actor,"Thing,Person",1949-12-04,,Male
+8,15,154,1983-03-12,Bruce Dern,/wiki/Bruce_Dern,Actor,"Thing,Person",1936-06-04,,Male
+8,16,155,1983-03-19,Robert Guillaume,/wiki/Robert_Guillaume,Television actor,Thing,1927-11-30,,
+8,17,156,1983-04-09,Joan Rivers,/wiki/Joan_Rivers,Comedian,"Person,Thing",1933-06-08,"Observational comedy,insult comedy,shock humor,black comedy,ribaldry,improvisational comedy",Female
+8,18,157,1983-04-16,Susan Saint James,/wiki/Susan_Saint_James,Actress,"Person,Thing",1946-08-14,,Female
+8,19,158,1983-05-07,Stevie Wonder,/wiki/Stevie_Wonder,Musician,"Thing,Person",1950-05-13,"Soul,pop,R&B,funk,jazz",Male
+8,20,159,1983-05-14,Ed Koch,/wiki/Ed_Koch,Former United States Representative,"Person,Thing",1924-12-12,,Male
+9,1,160,1983-10-08,Brandon Tartikoff,/wiki/Brandon_Tartikoff,Executive,"Person,Thing",1949-01-13,,Male
+9,2,161,1983-10-15,Danny DeVito,/wiki/Danny_DeVito,Actor,"Thing,Person",1944-11-17,,Male
+9,2,161,1983-10-15,Rhea Perlman,/wiki/Rhea_Perlman,Actress,"Thing,Person",1948-03-31,,Female
+9,3,162,1983-10-22,John Candy,/wiki/John_Candy,Actor,"Person,Thing",1950-10-31,,Male
+9,4,163,1983-11-05,Betty Thomas,/wiki/Betty_Thomas,Actress,"Person,Thing",1947-07-27,,Female
+9,5,164,1983-11-12,Teri Garr,/wiki/Teri_Garr,Actress,"Thing,Person",1947-12-11,,Female
+9,6,165,1983-11-19,Jerry Lewis,/wiki/Jerry_Lewis,Actor,"Thing,Person",1926-03-16,"Character comedy,physical comedy",Male
+9,7,166,1983-12-03,The Smothers Brothers,/wiki/The_Smothers_Brothers,One-man act,"MusicGroup,Thing",1967-02-05,,
+9,8,167,1983-12-10,Flip Wilson,/wiki/Flip_Wilson,Comedian,"Person,Thing",1933-12-08,,Male
+9,9,168,1984-01-14,Father Guido Sarducci,/wiki/Father_Guido_Sarducci,Fictional Character,Thing,,,
+9,9,168,1984-01-14,Don Novello,/wiki/Don_Novello,Writer,"Thing,Person",1943-01-01,,Male
+9,10,169,1984-01-21,Michael Palin,/wiki/Michael_Palin,Comedian,"Thing,Person",1943-05-05,,Male
+9,11,170,1984-01-28,Don Rickles,/wiki/Don_Rickles,Comedian,"Thing,Person",1926-05-08,"Insult comedy,observational comedy,musical comedy,improvisational comedy",Male
+9,12,171,1984-02-11,Robin Williams,/wiki/Robin_Williams,Stand-up comedian,"Thing,Person",1951-07-21,"Observational comedy,improvisational comedy,character comedy,self-deprecation,surreal humor",Male
+9,13,172,1984-02-18,Jamie Lee Curtis,/wiki/Jamie_Lee_Curtis,Actress,"Person,Thing",1958-11-22,,Female
+9,14,173,1984-02-25,Edwin Newman,/wiki/Edwin_Newman,Newscaster,"Person,Thing",1919-01-25,,Male
+9,15,174,1984-03-17,Billy Crystal,/wiki/Billy_Crystal,Actor,"Person,Thing",1948-03-14,"Observational comedy,musical comedy,sketch comedy,surreal humor,sarcasm,satire",Male
+9,16,175,1984-04-07,Michael Douglas,/wiki/Michael_Douglas,Actor,"Person,Thing",1944-09-25,,Male
+9,17,176,1984-04-14,George McGovern,/wiki/George_McGovern,Historian,"Thing,Person",1922-07-19,,Male
+9,18,177,1984-05-05,Barry Bostwick,/wiki/Barry_Bostwick,Actor,"Thing,Person",1945-02-24,,Male
+9,19,178,1984-05-12,Billy Crystal,/wiki/Billy_Crystal,Actor,"Person,Thing",1948-03-14,"Observational comedy,musical comedy,sketch comedy,surreal humor,sarcasm,satire",Male
+9,19,178,1984-05-12,Ed Koch,/wiki/Ed_Koch,Former United States Representative,"Person,Thing",1924-12-12,,Male
+9,19,178,1984-05-12,Edwin Newman,/wiki/Edwin_Newman,Newscaster,"Person,Thing",1919-01-25,,Male
+9,19,178,1984-05-12,Don Novello,/wiki/Don_Novello,Writer,"Thing,Person",1943-01-01,,Male
+9,19,178,1984-05-12,Betty Thomas,/wiki/Betty_Thomas,Actress,"Person,Thing",1947-07-27,,Female
+10,2,180,1984-10-13,Bob Uecker,/wiki/Bob_Uecker,Baseball player,"Person,Thing",1934-01-26,,Male
+10,3,181,1984-10-20,Jesse Jackson,/wiki/Jesse_Jackson,Civil rights activist,"Person,Thing",1941-10-08,,Male
+10,4,182,1984-11-03,Michael McKean,/wiki/Michael_McKean,Actor,"Person,Thing",1947-10-17,,Male
+10,5,183,1984-11-10,George Carlin,/wiki/George_Carlin,Comedian,"Person,Thing",1937-05-12,"Character comedy,observational comedy,word play,satire,political satire,black comedy,surreal humor,sarcasm,blue comedy",Male
+10,6,184,1984-11-17,Ed Asner,/wiki/Ed_Asner,Actor,"Thing,Person",1929-11-15,,Male
+10,7,185,1984-12-01,"Ed Begley, Jr.","/wiki/Ed_Begley,_Jr.",Actor,"Thing,Person",1949-09-16,,Male
+10,8,186,1984-12-08,Ringo Starr,/wiki/Ringo_Starr,Musician,"Thing,Person",1940-07-07,"Rock,pop",Male
+10,9,187,1984-12-15,Eddie Murphy,/wiki/Eddie_Murphy,Comedian,"Person,Thing",1961-04-03,"Observational comedy,musical comedy,blue comedy,black comedy,political satire,physical comedy,dance-pop,insult comedy",Male
+10,10,188,1985-01-12,Kathleen Turner,/wiki/Kathleen_Turner,Film actress,"Person,Thing",1954-06-19,,Female
+10,11,189,1985-01-19,Roy Scheider,/wiki/Roy_Scheider,Actor,"Person,Thing",1932-11-10,,Male
+10,12,190,1985-02-02,Alex Karras,/wiki/Alex_Karras,Football player,"Thing,Person",1935-07-15,,Male
+10,13,191,1985-02-09,Harry Anderson,/wiki/Harry_Anderson,Actor,"Thing,Person",1952-10-14,,Male
+10,14,192,1985-02-16,Pamela Sue Martin,/wiki/Pamela_Sue_Martin,Actress,"Thing,Person",1953-01-05,,Female
+10,15,193,1985-03-30,Mr. T,/wiki/Mr._T,Actor,"Thing,Person",1952-05-21,,Male
+10,15,193,1985-03-30,Hulk Hogan,/wiki/Hulk_Hogan,Professional wrestler,"Thing,Person",1953-08-11,,Male
+10,16,194,1985-04-06,Christopher Reeve,/wiki/Christopher_Reeve,Actor,"Thing,Person",1952-09-25,,Male
+10,17,195,1985-04-13,Howard Cosell,/wiki/Howard_Cosell,Journalist,"Thing,Person",1918-03-25,,Male
+11,1,196,1985-11-09,Madonna,/wiki/Madonna_(entertainer),Singer-songwriter,"Thing,Person",1958-08-16,"Pop,dance,electronic,rock",Female
+11,2,197,1985-11-16,Chevy Chase,/wiki/Chevy_Chase,Actor,"Person,Thing",1943-10-08,"Sketch comedy,improvisational comedy,physical comedy,slapstick",Male
+11,3,198,1985-11-23,Paul Reubens,/wiki/Paul_Reubens,Actor,"Thing,Person",1952-08-27,,Male
+11,3,198,1985-11-23,Pee-wee Herman,/wiki/Pee-wee_Herman,Actor,"Thing,Person",,,Male
+11,4,199,1985-12-07,John Lithgow,/wiki/John_Lithgow,Actor,"Person,Thing",1945-10-19,,Male
+11,5,200,1985-12-14,Tom Hanks,/wiki/Tom_Hanks,Actor,"Thing,Person",1956-07-09,,Male
+11,6,201,1985-12-21,Teri Garr,/wiki/Teri_Garr,Actress,"Thing,Person",1947-12-11,,Female
+11,7,202,1986-01-18,Harry Dean Stanton,/wiki/Harry_Dean_Stanton,Actor,"Thing,Person",1926-07-14,,Male
+11,8,203,1986-01-25,Dudley Moore,/wiki/Dudley_Moore,Actor,"Thing,Person",1935-04-19,,Male
+11,9,204,1986-02-08,Ron Reagan,/wiki/Ron_Reagan,Radio host,"Person,Thing",1958-05-20,,Male
+11,10,205,1986-02-15,Jerry Hall,/wiki/Jerry_Hall,Model,"Person,Thing",1956-07-02,,Female
+11,11,206,1986-02-22,Jay Leno,/wiki/Jay_Leno,Comedian,"Person,Thing",1950-04-28,,Male
+11,12,207,1986-03-15,Griffin Dunne,/wiki/Griffin_Dunne,Actor,"Person,Thing",1955-06-08,,Male
+11,13,208,1986-03-22,George Wendt,/wiki/George_Wendt,Actor,"Person,Thing",1948-10-17,,Male
+11,13,208,1986-03-22,Francis Ford Coppola,/wiki/Francis_Ford_Coppola,Film director,"Person,Thing",1939-04-07,,Male
+11,14,209,1986-04-12,Oprah Winfrey,/wiki/Oprah_Winfrey,Media proprietor,"Thing,Person",1954-01-29,,Female
+11,15,210,1986-04-19,Tony Danza,/wiki/Tony_Danza,Actor,"Thing,Person",1951-04-21,,Male
+11,16,211,1986-05-10,Catherine Oxenberg,/wiki/Catherine_Oxenberg,Actress,"Thing,Person",1961-09-22,,Female
+11,16,211,1986-05-10,Paul Simon,/wiki/Paul_Simon,Musician,"Person,Thing",1941-10-13,"Folk,rock,pop,world",Male
+11,17,212,1986-05-17,Jimmy Breslin,/wiki/Jimmy_Breslin,Journalist,"Person,Thing",1928-10-17,,Male
+11,18,213,1986-05-24,Anjelica Huston,/wiki/Anjelica_Huston,Actress,"Person,Thing",1951-07-08,,Female
+11,18,213,1986-05-24,Billy Martin,/wiki/Billy_Martin,Baseball Manager,"Thing,Person",1928-05-16,,Male
+12,1,214,1986-10-11,Sigourney Weaver,/wiki/Sigourney_Weaver,Actress,"Thing,Person",1949-10-08,,Female
+12,2,215,1986-10-18,Malcolm-Jamal Warner,/wiki/Malcolm-Jamal_Warner,Actor,"Person,Thing",1970-08-18,,Male
+12,3,216,1986-11-08,Rosanna Arquette,/wiki/Rosanna_Arquette,Actress,"Thing,Person",1959-08-10,,Female
+12,4,217,1986-11-15,Sam Kinison,/wiki/Sam_Kinison,Comedian,"Person,Thing",1953-12-08,"Black comedy,satire,observational comedy",Male
+12,5,218,1986-11-22,Robin Williams,/wiki/Robin_Williams,Stand-up comedian,"Thing,Person",1951-07-21,"Observational comedy,improvisational comedy,character comedy,self-deprecation,surreal humor",Male
+12,6,219,1986-12-06,Chevy Chase,/wiki/Chevy_Chase,Actor,"Person,Thing",1943-10-08,"Sketch comedy,improvisational comedy,physical comedy,slapstick",Male
+12,6,219,1986-12-06,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+12,6,219,1986-12-06,Martin Short,/wiki/Martin_Short,Actor,"Thing,Person",1950-03-26,"Improvisational comedy,surreal humour,musical comedy,physical comedy,sketch comedy,character comedy,satire",Male
+12,7,220,1986-12-13,Steve Guttenberg,/wiki/Steve_Guttenberg,Actor,"Person,Thing",1958-08-24,,Male
+12,8,221,1986-12-20,William Shatner,/wiki/William_Shatner,Actor,"Thing,Person",1931-03-22,,Male
+12,9,222,1987-01-24,Joe Montana,/wiki/Joe_Montana,Football quarterback,"Thing,Person",1956-06-11,,Male
+12,9,222,1987-01-24,Walter Payton,/wiki/Walter_Payton,Football running back,"Thing,Person",1954-07-25,,Male
+12,10,223,1987-01-31,Paul Shaffer,/wiki/Paul_Shaffer,Singer,"Thing,MusicGroup,Person",1949-11-28,"Rock,pop rock,jazz",Male
+12,11,224,1987-02-14,Bronson Pinchot,/wiki/Bronson_Pinchot,Actor,"Person,Thing",1959-05-20,,Male
+12,12,225,1987-02-21,Willie Nelson,/wiki/Willie_Nelson,Musician,"Thing,Person",1933-04-29,"Country,outlaw country,rock",Male
+12,13,226,1987-02-28,Valerie Bertinelli,/wiki/Valerie_Bertinelli,Actress,"Thing,Person",1960-04-23,,Female
+12,14,227,1987-03-21,Bill Murray,/wiki/Bill_Murray,Actor,"Thing,Person",1950-09-21,,Male
+12,15,228,1987-03-28,Charlton Heston,/wiki/Charlton_Heston,Actor,"Person,Thing",1923-10-04,,Male
+12,16,229,1987-04-11,John Lithgow,/wiki/John_Lithgow,Actor,"Person,Thing",1945-10-19,,Male
+12,17,230,1987-04-18,John Larroquette,/wiki/John_Larroquette,Actor,"Thing,Person",1947-11-25,,Male
+12,18,231,1987-05-09,Mark Harmon,/wiki/Mark_Harmon,Television actor,"Thing,Person",1951-09-02,,Male
+12,19,232,1987-05-16,Garry Shandling,/wiki/Garry_Shandling,Comedian,"Thing,Person",1949-11-29,"Observational comedy,cringe comedy",Male
+12,20,233,1987-05-23,Dennis Hopper,/wiki/Dennis_Hopper,Actor,"Person,Thing",1936-05-17,,Male
+13,1,234,1987-10-17,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+13,2,235,1987-10-24,Sean Penn,/wiki/Sean_Penn,Actor,"Thing,Person",1960-08-17,,Male
+13,3,236,1987-10-31,Dabney Coleman,/wiki/Dabney_Coleman,Actor,"Person,Thing",1932-01-03,,Male
+13,4,237,1987-11-14,Robert Mitchum,/wiki/Robert_Mitchum,Film actor,"Person,Thing",1917-08-06,,Male
+13,5,238,1987-11-21,Candice Bergen,/wiki/Candice_Bergen,Actress,"Thing,Person",1946-05-09,,Female
+13,6,239,1987-12-05,Danny DeVito,/wiki/Danny_DeVito,Actor,"Thing,Person",1944-11-17,,Male
+13,7,240,1987-12-12,Angie Dickinson,/wiki/Angie_Dickinson,Actress,"Person,Thing",1931-09-30,,Female
+13,8,241,1987-12-19,Paul Simon,/wiki/Paul_Simon,Musician,"Person,Thing",1941-10-13,"Folk,rock,pop,world",Male
+13,9,242,1988-01-23,Robin Williams,/wiki/Robin_Williams,Stand-up comedian,"Thing,Person",1951-07-21,"Observational comedy,improvisational comedy,character comedy,self-deprecation,surreal humor",Male
+13,10,243,1988-01-30,Carl Weathers,/wiki/Carl_Weathers,Actor,"Thing,Person",1948-01-14,,Male
+13,11,244,1988-02-13,Justine Bateman,/wiki/Justine_Bateman,Writer,"Thing,Person",1966-02-19,,Female
+13,12,245,1988-02-20,Tom Hanks,/wiki/Tom_Hanks,Actor,"Thing,Person",1956-07-09,,Male
+13,13,246,1988-02-27,Judge Reinhold,/wiki/Judge_Reinhold,Actor,"Thing,Person",1957-05-21,,Male
+14,1,247,1988-10-08,Tom Hanks,/wiki/Tom_Hanks,Actor,"Thing,Person",1956-07-09,,Male
+14,2,248,1988-10-15,Matthew Broderick,/wiki/Matthew_Broderick,Actor,"Thing,Person",1962-03-21,,Male
+14,3,249,1988-10-22,John Larroquette,/wiki/John_Larroquette,Actor,"Thing,Person",1947-11-25,,Male
+14,4,250,1988-11-05,Matthew Modine,/wiki/Matthew_Modine,Film actor,"Person,Thing",1959-03-22,,Male
+14,5,251,1988-11-12,Demi Moore,/wiki/Demi_Moore,Actress,"Person,Thing",1962-11-11,,Female
+14,6,252,1988-11-19,John Lithgow,/wiki/John_Lithgow,Actor,"Person,Thing",1945-10-19,,Male
+14,7,253,1988-12-03,Danny DeVito,/wiki/Danny_DeVito,Actor,"Thing,Person",1944-11-17,,Male
+14,8,254,1988-12-10,Kevin Kline,/wiki/Kevin_Kline,Film actor,"Thing,Person",1947-10-24,,Male
+14,9,255,1988-12-17,Melanie Griffith,/wiki/Melanie_Griffith,Actress,"Thing,Person",1957-08-09,,Female
+14,10,256,1989-01-21,John Malkovich,/wiki/John_Malkovich,Actor,"Thing,Person",1953-12-09,,Male
+14,11,257,1989-01-28,Tony Danza,/wiki/Tony_Danza,Actor,"Thing,Person",1951-04-21,,Male
+14,12,258,1989-02-11,Ted Danson,/wiki/Ted_Danson,Actor,"Thing,Person",1947-12-29,,Male
+14,13,259,1989-02-18,Leslie Nielsen,/wiki/Leslie_Nielsen,Actor,"Person,Thing",1926-02-11,,Male
+14,14,260,1989-02-25,Glenn Close,/wiki/Glenn_Close,Actress,"Person,Thing",1947-03-19,,Female
+14,15,261,1989-03-25,Mary Tyler Moore,/wiki/Mary_Tyler_Moore,Actress,"Person,Thing",1936-12-29,,Female
+14,16,262,1989-04-01,Mel Gibson,/wiki/Mel_Gibson,Actor,"Thing,Person",1956-01-03,,Male
+14,17,263,1989-04-15,Dolly Parton,/wiki/Dolly_Parton,Singer-songwriter,"Person,Thing",1946-01-19,"Country,country pop,pop,bluegrass,gospel",Female
+14,18,264,1989-04-22,Geena Davis,/wiki/Geena_Davis,Actress,"Person,Thing",1956-01-21,,Female
+14,19,265,1989-05-13,Wayne Gretzky,/wiki/Wayne_Gretzky,Ice hockey player,"Thing,Person",1961-01-26,,Male
+14,20,266,1989-05-20,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+15,1,267,1989-09-30,Bruce Willis,/wiki/Bruce_Willis,Actor,"Thing,Person",1955-03-19,,Male
+15,2,268,1989-10-07,Rick Moranis,/wiki/Rick_Moranis,Actor,"Person,Thing",1953-04-18,,Male
+15,3,269,1989-10-21,Kathleen Turner,/wiki/Kathleen_Turner,Film actress,"Person,Thing",1954-06-19,,Female
+15,4,270,1989-10-28,James Woods,/wiki/James_Woods,Actor,"Thing,Person",1947-04-18,,Male
+15,5,271,1989-11-11,Chris Evert,/wiki/Chris_Evert,Tennis player,"Person,Thing",1954-12-21,,Female
+15,6,272,1989-11-18,Woody Harrelson,/wiki/Woody_Harrelson,Actor,"Thing,Person",1961-07-23,,Male
+15,7,273,1989-12-02,John Goodman,/wiki/John_Goodman,Actor,"Thing,Person",1952-06-20,,Male
+15,8,274,1989-12-09,Robert Wagner,/wiki/Robert_Wagner,Actor,"Thing,Person",1930-02-10,,Male
+15,9,275,1989-12-16,Andie MacDowell,/wiki/Andie_MacDowell,Actress,"Person,Thing",1958-04-21,,Female
+15,10,276,1990-01-13,Ed O'Neill,/wiki/Ed_O%27Neill,Actor,"Person,Thing",1946-04-12,,Male
+15,11,277,1990-01-20,Christopher Walken,/wiki/Christopher_Walken,Film actor,"Person,Thing",1943-03-31,,Male
+15,12,278,1990-02-10,Quincy Jones,/wiki/Quincy_Jones,Record producer,"Thing,Person",1933-03-14,"Rhythm and blues,funk,soul,big band,swing,bossa nova,jazz,hip hop,rock and roll,pop",Male
+15,13,279,1990-02-17,Tom Hanks,/wiki/Tom_Hanks,Actor,"Thing,Person",1956-07-09,,Male
+15,14,280,1990-02-24,Fred Savage,/wiki/Fred_Savage,Actor,"Person,Thing",1976-07-09,,Male
+15,15,281,1990-03-17,Rob Lowe,/wiki/Rob_Lowe,Actor,"Person,Thing",1964-03-17,,Male
+15,16,282,1990-03-24,Debra Winger,/wiki/Debra_Winger,Actress,"Thing,Person",1955-05-16,,Female
+15,17,283,1990-04-14,Corbin Bernsen,/wiki/Corbin_Bernsen,Actor,"Thing,Person",1954-09-07,,Male
+15,18,284,1990-04-21,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+15,19,285,1990-05-12,Andrew Dice Clay,/wiki/Andrew_Dice_Clay,Comedian,"Person,Thing",1957-09-29,"Character comedy,Observational comedy,Improvisational comedy,Political satire,Insult comedy,Blue comedy,Black comedy",Male
+15,20,286,1990-05-19,Candice Bergen,/wiki/Candice_Bergen,Actress,"Thing,Person",1946-05-09,,Female
+16,1,287,1990-09-29,Kyle MacLachlan,/wiki/Kyle_MacLachlan,Actor,"Thing,Person",1959-02-22,,Male
+16,2,288,1990-10-06,Susan Lucci,/wiki/Susan_Lucci,Actress,"Thing,Person",1946-12-23,,Female
+16,3,289,1990-10-20,George Steinbrenner,/wiki/George_Steinbrenner,Businessman,"Person,Thing",1930-07-04,,Male
+16,4,290,1990-10-27,Patrick Swayze,/wiki/Patrick_Swayze,Actor,"Person,Thing",1952-08-18,,Male
+16,5,291,1990-11-10,Jimmy Smits,/wiki/Jimmy_Smits,Actor,"Person,Thing",1955-07-09,,Male
+16,6,292,1990-11-17,Dennis Hopper,/wiki/Dennis_Hopper,Actor,"Person,Thing",1936-05-17,,Male
+16,7,293,1990-12-01,John Goodman,/wiki/John_Goodman,Actor,"Thing,Person",1952-06-20,,Male
+16,8,294,1990-12-08,Tom Hanks,/wiki/Tom_Hanks,Actor,"Thing,Person",1956-07-09,,Male
+16,9,295,1990-12-15,Dennis Quaid,/wiki/Dennis_Quaid,Actor,"Person,Thing",1954-04-09,,Male
+16,10,296,1991-01-12,Joe Mantegna,/wiki/Joe_Mantegna,Actor,"Person,Thing",1947-11-13,,Male
+16,11,297,1991-01-19,Sting,/wiki/Sting_(musician),Musician,"Person,Thing",1951-10-02,"Rock,pop,new wave,jazz,world",Male
+16,12,298,1991-02-09,Kevin Bacon,/wiki/Kevin_Bacon,Actor,"Person,Thing",1958-07-08,,Male
+16,13,299,1991-02-16,Roseanne Barr,/wiki/Roseanne_Barr,Actress,"Thing,Person",1952-11-03,,Female
+16,14,300,1991-02-23,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+16,15,301,1991-03-16,Michael J. Fox,/wiki/Michael_J._Fox,Actor,"Thing,Person",1961-06-09,,Male
+16,16,302,1991-03-23,Marsha Warfield,/wiki/Marsha_Warfield,Actress,"Person,Thing",1954-03-05,,Female
+16,17,303,1991-04-13,Catherine O'Hara,/wiki/Catherine_O%27Hara,Actress,"Person,Thing",1954-03-04,,Female
+16,18,304,1991-04-20,Steven Seagal,/wiki/Steven_Seagal,Actor,"Person,Thing",1952-04-10,,Male
+16,19,305,1991-05-11,Delta Burke,/wiki/Delta_Burke,Television actress,"Person,Thing",1956-07-30,,Female
+16,20,306,1991-05-18,George Wendt,/wiki/George_Wendt,Actor,"Person,Thing",1948-10-17,,Male
+17,1,307,1991-09-28,Michael Jordan,/wiki/Michael_Jordan,Basketball player,"Person,Thing",1963-02-17,,Male
+17,2,308,1991-10-05,Jeff Daniels,/wiki/Jeff_Daniels,Actor,"Person,Thing",1955-02-19,,Male
+17,3,309,1991-10-12,Kirstie Alley,/wiki/Kirstie_Alley,Actress,"Person,Thing",1951-01-12,,Female
+17,4,310,1991-10-26,Christian Slater,/wiki/Christian_Slater,Actor,"Person,Thing",1969-08-18,,Male
+17,5,311,1991-11-02,Kiefer Sutherland,/wiki/Kiefer_Sutherland,Actor,"Thing,Person",1966-12-21,,Male
+17,6,312,1991-11-16,Linda Hamilton,/wiki/Linda_Hamilton,Actress,"Person,Thing",1956-09-26,,Female
+17,7,313,1991-11-23,Macaulay Culkin,/wiki/Macaulay_Culkin,Actor,"Person,Thing",1980-08-26,"Comedy rock,anti-folk",Male
+17,8,314,1991-12-07,MC Hammer,/wiki/MC_Hammer,Hip-hop artist,"Person,Thing",1962-03-30,"Hip hop,gospel,dance",Male
+17,9,315,1991-12-14,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+17,10,316,1992-01-11,Rob Morrow,/wiki/Rob_Morrow,Actor,"Person,Thing",1962-09-21,,Male
+17,11,317,1992-01-18,Chevy Chase,/wiki/Chevy_Chase,Actor,"Person,Thing",1943-10-08,"Sketch comedy,improvisational comedy,physical comedy,slapstick",Male
+17,12,318,1992-02-08,Susan Dey,/wiki/Susan_Dey,Actress,"Thing,Person",1952-12-10,,Female
+17,13,319,1992-02-15,Jason Priestley,/wiki/Jason_Priestley,Actor,"Person,Thing",1969-08-28,,Male
+17,14,320,1992-02-22,Roseanne Arnold,/wiki/Roseanne_Barr,Actress,"Thing,Person",1952-11-03,,Female
+17,14,320,1992-02-22,Tom Arnold,/wiki/Tom_Arnold_(actor),Actor,"Thing,Person",1959-03-06,,Male
+17,15,321,1992-03-14,John Goodman,/wiki/John_Goodman,Actor,"Thing,Person",1952-06-20,,Male
+17,16,322,1992-03-21,Mary Stuart Masterson,/wiki/Mary_Stuart_Masterson,Actress,"Thing,Person",1966-06-28,,Female
+17,17,323,1992-04-11,Sharon Stone,/wiki/Sharon_Stone,Actress,"Thing,Person",1958-03-10,,Female
+17,18,324,1992-04-18,Jerry Seinfeld,/wiki/Jerry_Seinfeld,Comedian,"Thing,Person",1954-04-29,"Observational comedy,black comedy,political satire",Male
+17,19,325,1992-05-09,Tom Hanks,/wiki/Tom_Hanks,Actor,"Thing,Person",1956-07-09,,Male
+17,20,326,1992-05-16,Woody Harrelson,/wiki/Woody_Harrelson,Actor,"Thing,Person",1961-07-23,,Male
+18,1,327,1992-09-26,Nicolas Cage,/wiki/Nicolas_Cage,Actor,"Thing,Person",1964-01-07,,Male
+18,2,328,1992-10-03,Tim Robbins,/wiki/Tim_Robbins,Actor,"Person,Thing",1958-10-16,,Male
+18,3,329,1992-10-10,Joe Pesci,/wiki/Joe_Pesci,Actor,"Person,Thing",1943-02-09,,Male
+18,4,330,1992-10-24,Christopher Walken,/wiki/Christopher_Walken,Film actor,"Person,Thing",1943-03-31,,Male
+18,5,331,1992-10-31,Catherine O'Hara,/wiki/Catherine_O%27Hara,Actress,"Person,Thing",1954-03-04,,Female
+18,6,332,1992-11-14,Michael Keaton,/wiki/Michael_Keaton,Actor,"Person,Thing",1951-09-05,,Male
+18,7,333,1992-11-21,Sinbad,/wiki/Sinbad_(actor),Fictional Character,Thing,1956-11-10,"Observational comedy,Political satire,black comedy,Surreal humor,Character comedy",
+18,8,334,1992-12-05,Tom Arnold,/wiki/Tom_Arnold_(actor),Actor,"Thing,Person",1959-03-06,,Male
+18,9,335,1992-12-12,Glenn Close,/wiki/Glenn_Close,Actress,"Person,Thing",1947-03-19,,Female
+18,10,336,1993-01-09,Danny DeVito,/wiki/Danny_DeVito,Actor,"Thing,Person",1944-11-17,,Male
+18,11,337,1993-01-16,Harvey Keitel,/wiki/Harvey_Keitel,Actor,"Person,Thing",1939-05-13,,Male
+18,12,338,1993-02-06,Luke Perry,/wiki/Luke_Perry,Actor,"Thing,Person",1966-10-11,,Male
+18,13,339,1993-02-13,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+18,14,340,1993-02-20,Bill Murray,/wiki/Bill_Murray,Actor,"Thing,Person",1950-09-21,,Male
+18,15,341,1993-03-13,John Goodman,/wiki/John_Goodman,Actor,"Thing,Person",1952-06-20,,Male
+18,16,342,1993-03-20,Miranda Richardson,/wiki/Miranda_Richardson,Film actress,"Person,Thing",1958-03-03,,Female
+18,17,343,1993-04-10,Jason Alexander,/wiki/Jason_Alexander,Actor,"Person,Thing",1959-09-23,,Male
+18,18,344,1993-04-17,Kirstie Alley,/wiki/Kirstie_Alley,Actress,"Person,Thing",1951-01-12,,Female
+18,19,345,1993-05-08,Christina Applegate,/wiki/Christina_Applegate,Actress,"Person,Thing",1971-11-25,,Female
+18,20,346,1993-05-15,Kevin Kline,/wiki/Kevin_Kline,Film actor,"Thing,Person",1947-10-24,,Male
+19,1,347,1993-09-25,Charles Barkley,/wiki/Charles_Barkley,Basketball player,"Person,Thing",1963-02-20,,Male
+19,2,348,1993-10-02,Shannen Doherty,/wiki/Shannen_Doherty,Actress,"Thing,Person",1971-04-12,,Female
+19,3,349,1993-10-09,Jeff Goldblum,/wiki/Jeff_Goldblum,Actor,"Person,Thing",1952-10-22,,Male
+19,4,350,1993-10-23,John Malkovich,/wiki/John_Malkovich,Actor,"Thing,Person",1953-12-09,,Male
+19,5,351,1993-10-30,Christian Slater,/wiki/Christian_Slater,Actor,"Person,Thing",1969-08-18,,Male
+19,6,352,1993-11-13,Rosie O'Donnell,/wiki/Rosie_O%27Donnell,Comedian,"Person,Thing",1962-03-21,,Female
+19,7,353,1993-11-20,Nicole Kidman,/wiki/Nicole_Kidman,Actress,"Thing,Person",1967-06-20,,Female
+19,8,354,1993-12-04,Charlton Heston,/wiki/Charlton_Heston,Actor,"Person,Thing",1923-10-04,,Male
+19,9,355,1993-12-11,Sally Field,/wiki/Sally_Field,Film actress,"Person,Thing",1946-11-06,,Female
+19,10,356,1994-01-08,Jason Patric,/wiki/Jason_Patric,Film actor,"Person,Thing",1966-06-17,,Male
+19,11,357,1994-01-15,Sara Gilbert,/wiki/Sara_Gilbert,Actress,"Person,Thing",1975-01-29,,Female
+19,12,358,1994-02-05,Patrick Stewart,/wiki/Patrick_Stewart,Actor,"Thing,Person",1940-07-13,,Male
+19,13,359,1994-02-12,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+19,13,359,1994-02-12,Kim Basinger,/wiki/Kim_Basinger,Actress,"Thing,Person",1953-12-08,,Female
+19,14,360,1994-02-19,Martin Lawrence,/wiki/Martin_Lawrence,Comedian,"Thing,Person",1965-04-16,"Observational comedy,physical comedy,satire,blue comedy",Male
+19,15,361,1994-03-12,Nancy Kerrigan,/wiki/Nancy_Kerrigan,Figure skater,"Thing,Person",1969-10-13,,Female
+19,16,362,1994-03-19,Helen Hunt,/wiki/Helen_Hunt,Actress,"Thing,Person",1963-06-15,,Female
+19,17,363,1994-04-09,Kelsey Grammer,/wiki/Kelsey_Grammer,Actor,"Thing,Person",1955-02-21,,Male
+19,18,364,1994-04-16,Emilio Estevez,/wiki/Emilio_Estevez,Actor,"Person,Thing",1962-05-12,,Male
+19,19,365,1994-05-07,John Goodman,/wiki/John_Goodman,Actor,"Thing,Person",1952-06-20,,Male
+19,20,366,1994-05-14,Heather Locklear,/wiki/Heather_Locklear,Actress,"Person,Thing",1961-09-25,,Female
+20,1,367,1994-09-24,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+20,2,368,1994-10-01,Marisa Tomei,/wiki/Marisa_Tomei,Actress,"Person,Thing",1964-12-04,,Female
+20,3,369,1994-10-15,John Travolta,/wiki/John_Travolta,Actor,"Thing,Person",1954-02-18,,Male
+20,4,370,1994-10-22,Dana Carvey,/wiki/Dana_Carvey,Actor,"Thing,Person",1955-06-02,"Improvisational,Observational,Character comedy,Satire",Male
+20,5,371,1994-11-12,Sarah Jessica Parker,/wiki/Sarah_Jessica_Parker,Actress,"Person,Thing",1965-03-25,,Female
+20,6,372,1994-11-19,John Turturro,/wiki/John_Turturro,Actor,"Person,Thing",1957-02-28,,Male
+20,7,373,1994-12-03,Roseanne,/wiki/Roseanne_Barr,American sitcom,"TVSeries,Thing",1952-11-03,,
+20,8,374,1994-12-10,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+20,9,375,1994-12-17,George Foreman,/wiki/George_Foreman,Professional boxer,"Person,Thing",1949-01-10,,Male
+20,10,376,1995-01-14,Jeff Daniels,/wiki/Jeff_Daniels,Actor,"Person,Thing",1955-02-19,,Male
+20,11,377,1995-01-21,David Hyde Pierce,/wiki/David_Hyde_Pierce,Actor,"Person,Thing",1959-04-03,,Male
+20,12,378,1995-02-11,Bob Newhart,/wiki/Bob_Newhart,Stand-up comedian,"Person,Thing",1929-09-05,"Deadpan,satire",Male
+20,13,379,1995-02-18,Deion Sanders,/wiki/Deion_Sanders,Former american football player,"Person,Thing",1967-08-09,,Male
+20,14,380,1995-02-25,George Clooney,/wiki/George_Clooney,Actor,"Thing,Person",1961-05-06,,Male
+20,15,381,1995-03-18,Paul Reiser,/wiki/Paul_Reiser,Comedian,"Thing,Person",1957-03-30,,Male
+20,16,382,1995-03-25,John Goodman,/wiki/John_Goodman,Actor,"Thing,Person",1952-06-20,,Male
+20,17,383,1995-04-08,Damon Wayans,/wiki/Damon_Wayans,Actor,"Person,Thing",1960-09-04,"Observational comedy,improvisational comedy,political satire",Male
+20,18,384,1995-04-15,Courteney Cox,/wiki/Courteney_Cox,Actress,"Person,Thing",1964-06-15,,Female
+20,19,385,1995-05-06,Bob Saget,/wiki/Bob_Saget,Stand-up comedian,"Thing,Person",1956-05-17,"Character comedy,observational comedy,wit,word play,satire,political satire,black comedy,surreal humor,sarcasm,blue comedy",Male
+20,20,386,1995-05-13,David Duchovny,/wiki/David_Duchovny,Actor,"Thing,Person",1960-08-07,,Male
+21,1,387,1995-09-30,Mariel Hemingway,/wiki/Mariel_Hemingway,Actress,"Thing,Person",1961-11-22,,Female
+21,2,388,1995-10-07,Chevy Chase,/wiki/Chevy_Chase,Actor,"Person,Thing",1943-10-08,"Sketch comedy,improvisational comedy,physical comedy,slapstick",Male
+21,3,389,1995-10-21,David Schwimmer,/wiki/David_Schwimmer,Actor,"Thing,Person",1966-11-02,,Male
+21,4,390,1995-10-28,Gabriel Byrne,/wiki/Gabriel_Byrne,Actor,"Person,Thing",1950-05-12,,Male
+21,5,391,1995-11-11,Quentin Tarantino,/wiki/Quentin_Tarantino,Director,"Person,Thing",1963-03-27,,Male
+21,6,392,1995-11-18,Laura Leighton,/wiki/Laura_Leighton,Actress,"Person,Thing",1968-07-24,,Female
+21,7,393,1995-12-02,Anthony Edwards,/wiki/Anthony_Edwards,Actor,"Person,Thing",1962-07-19,,Male
+21,8,394,1995-12-09,David Alan Grier,/wiki/David_Alan_Grier,Actor,"Thing,Person",1956-06-30,,Male
+21,9,395,1995-12-16,Madeline Kahn,/wiki/Madeline_Kahn,Actress,"Person,Thing",1942-09-29,,Female
+21,10,396,1996-01-13,Christopher Walken,/wiki/Christopher_Walken,Film actor,"Person,Thing",1943-03-31,,Male
+21,11,397,1996-01-20,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+21,12,398,1996-02-10,Danny Aiello,/wiki/Danny_Aiello,Actor,"Person,Thing",1933-06-20,,Male
+21,13,399,1996-02-17,Tom Arnold,/wiki/Tom_Arnold_(actor),Actor,"Thing,Person",1959-03-06,,Male
+21,14,400,1996-02-24,Elle Macpherson,/wiki/Elle_Macpherson,Model,"Thing,Person",1964-03-29,,Female
+21,15,401,1996-03-16,John Goodman,/wiki/John_Goodman,Actor,"Thing,Person",1952-06-20,,Male
+21,16,402,1996-03-23,Phil Hartman,/wiki/Phil_Hartman,Actor,"Thing,Person",1948-09-24,,Male
+21,17,403,1996-04-13,Steve Forbes,/wiki/Steve_Forbes,Chief Executive of Forbes,"Thing,Person",1947-07-18,,Male
+21,18,404,1996-04-20,Teri Hatcher,/wiki/Teri_Hatcher,Actress,"Person,Thing",1964-12-08,,Female
+21,19,405,1996-05-11,Christine Baranski,/wiki/Christine_Baranski,Actress,"Person,Thing",1952-05-02,,Female
+21,20,406,1996-05-18,Jim Carrey,/wiki/Jim_Carrey,Actor,"Person,Thing",1962-01-17,"Observational comedy,physical comedy,surreal humor",Male
+22,1,407,1996-09-28,Tom Hanks,/wiki/Tom_Hanks,Actor,"Thing,Person",1956-07-09,,Male
+22,2,408,1996-10-05,Lisa Kudrow,/wiki/Lisa_Kudrow,Actress,"Thing,Person",1963-07-30,,Female
+22,3,409,1996-10-19,Bill Pullman,/wiki/Bill_Pullman,Actor,"Thing,Person",1953-12-17,,Male
+22,4,410,1996-10-26,Dana Carvey,/wiki/Dana_Carvey,Actor,"Thing,Person",1955-06-02,"Improvisational,Observational,Character comedy,Satire",Male
+22,5,411,1996-11-02,Chris Rock,/wiki/Chris_Rock,Comedian,"Thing,Person",1965-02-07,"Observational comedy,black comedy,sketch comedy,political satire",Male
+22,6,412,1996-11-16,"Robert Downey, Jr.","/wiki/Robert_Downey,_Jr.",Actor,"Thing,Person",1965-04-04,,Male
+22,7,413,1996-11-23,Phil Hartman,/wiki/Phil_Hartman,Actor,"Thing,Person",1948-09-24,,Male
+22,8,414,1996-12-07,Martin Short,/wiki/Martin_Short,Actor,"Thing,Person",1950-03-26,"Improvisational comedy,surreal humour,musical comedy,physical comedy,sketch comedy,character comedy,satire",Male
+22,9,415,1996-12-14,Rosie O'Donnell,/wiki/Rosie_O%27Donnell,Comedian,"Person,Thing",1962-03-21,,Female
+22,10,416,1997-01-11,Kevin Spacey,/wiki/Kevin_Spacey,Actor,"Person,Thing",1959-07-26,,Male
+22,11,417,1997-01-18,David Alan Grier,/wiki/David_Alan_Grier,Actor,"Thing,Person",1956-06-30,,Male
+22,12,418,1997-02-08,Neve Campbell,/wiki/Neve_Campbell,Actress,"Person,Thing",1973-10-03,,Female
+22,13,419,1997-02-15,Chevy Chase,/wiki/Chevy_Chase,Actor,"Person,Thing",1943-10-08,"Sketch comedy,improvisational comedy,physical comedy,slapstick",Male
+22,14,420,1997-02-22,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+22,15,421,1997-03-15,Sting,/wiki/Sting_(musician),Musician,"Person,Thing",1951-10-02,"Rock,pop,new wave,jazz,world",Male
+22,16,422,1997-03-22,Mike Myers,/wiki/Mike_Myers_(actor),Actor,"Person,Thing",1963-05-25,"Observational comedy,satire,black comedy,self-deprecation,cringe comedy,deadpan",Male
+22,17,423,1997-04-12,Rob Lowe,/wiki/Rob_Lowe,Actor,"Person,Thing",1964-03-17,,Male
+22,18,424,1997-04-19,Pamela Anderson,/wiki/Pamela_Anderson,Actress,"Thing,Person",1967-07-01,,Female
+22,19,425,1997-05-10,John Goodman,/wiki/John_Goodman,Actor,"Thing,Person",1952-06-20,,Male
+22,20,426,1997-05-17,Jeff Goldblum,/wiki/Jeff_Goldblum,Actor,"Person,Thing",1952-10-22,,Male
+23,1,427,1997-09-27,Sylvester Stallone,/wiki/Sylvester_Stallone,Actor,"Person,Thing",1946-07-06,,Male
+23,2,428,1997-10-04,Matthew Perry,/wiki/Matthew_Perry,Actor,"Person,Thing",1969-08-19,,Male
+23,3,429,1997-10-18,Brendan Fraser,/wiki/Brendan_Fraser,Actor,"Person,Thing",1968-12-03,,Male
+23,4,430,1997-10-25,Chris Farley,/wiki/Chris_Farley,Actor,"Thing,Person",1964-02-15,,Male
+23,5,431,1997-11-08,Jon Lovitz,/wiki/Jon_Lovitz,Actor,"Person,Thing",1957-07-21,Sketch comedy,Male
+23,6,432,1997-11-15,Claire Danes,/wiki/Claire_Danes,Actress,"Person,Thing",1979-04-12,,Female
+23,7,433,1997-11-22,Rudolph Giuliani,/wiki/Rudolph_Giuliani,Former Mayor of New York City,"Person,Thing",1944-05-28,,Male
+23,8,434,1997-12-06,Nathan Lane,/wiki/Nathan_Lane,Film actor,"Thing,Person",1956-02-03,,Male
+23,9,435,1997-12-13,Helen Hunt,/wiki/Helen_Hunt,Actress,"Thing,Person",1963-06-15,,Female
+23,10,436,1998-01-10,Samuel L. Jackson,/wiki/Samuel_L._Jackson,Actor,"Thing,Person",1948-12-21,,Male
+23,11,437,1998-01-17,Sarah Michelle Gellar,/wiki/Sarah_Michelle_Gellar,Actress,"Thing,Person",1977-04-14,,Female
+23,12,438,1998-02-07,John Goodman,/wiki/John_Goodman,Actor,"Thing,Person",1952-06-20,,Male
+23,13,439,1998-02-14,Roma Downey,/wiki/Roma_Downey,Actress,"Thing,Person",1960-05-06,,Female
+23,14,440,1998-02-28,Garth Brooks,/wiki/Garth_Brooks,Singer-songwriter,"Thing,Person",1962-02-07,"Country,country pop,country rock",Male
+23,15,441,1998-03-07,Scott Wolf,/wiki/Scott_Wolf,Actor,"Thing,Person",1968-06-04,,Male
+23,16,442,1998-03-14,Julianne Moore,/wiki/Julianne_Moore,Actress,"Person,Thing",1960-12-03,,Female
+23,17,443,1998-04-04,Steve Buscemi,/wiki/Steve_Buscemi,Actor,"Person,Thing",1957-12-13,,Male
+23,18,444,1998-04-11,Greg Kinnear,/wiki/Greg_Kinnear,Actor,"Thing,Person",1963-06-17,,Male
+23,19,445,1998-05-02,Matthew Broderick,/wiki/Matthew_Broderick,Actor,"Thing,Person",1962-03-21,,Male
+23,20,446,1998-05-09,David Duchovny,/wiki/David_Duchovny,Actor,"Thing,Person",1960-08-07,,Male
+24,1,447,1998-09-26,Cameron Diaz,/wiki/Cameron_Diaz,Actress,"Thing,Person",1972-08-30,,Female
+24,2,448,1998-10-03,Kelsey Grammer,/wiki/Kelsey_Grammer,Actor,"Thing,Person",1955-02-21,,Male
+24,3,449,1998-10-17,Lucy Lawless,/wiki/Lucy_Lawless,Actress,"Thing,Person",1968-03-29,,Female
+24,4,450,1998-10-24,Ben Stiller,/wiki/Ben_Stiller,Actor,"Thing,Person",1965-11-30,"Observational comedy,physical comedy,surreal humor",Male
+24,5,451,1998-11-07,David Spade,/wiki/David_Spade,Stand-up comedian,"Thing,Person",1964-07-22,Sketch comedy,Male
+24,6,452,1998-11-14,Joan Allen,/wiki/Joan_Allen,Actress,"Person,Thing",1956-08-20,,Female
+24,7,453,1998-11-21,Jennifer Love Hewitt,/wiki/Jennifer_Love_Hewitt,Actress,"Thing,Person",1979-02-21,"Pop,soul",Female
+24,8,454,1998-12-05,Vince Vaughn,/wiki/Vince_Vaughn,Actor,"Person,Thing",1970-03-28,,Male
+24,9,455,1998-12-12,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+24,10,456,1999-01-09,Bill Paxton,/wiki/Bill_Paxton,Actor,"Person,Thing",1955-05-17,,Male
+24,11,457,1999-01-16,James Van Der Beek,/wiki/James_Van_Der_Beek,Actor,"Person,Thing",1977-03-08,,Male
+24,12,458,1999-02-06,Gwyneth Paltrow,/wiki/Gwyneth_Paltrow,Actress,"Thing,Person",1972-09-27,,Female
+24,13,459,1999-02-13,Brendan Fraser,/wiki/Brendan_Fraser,Actor,"Person,Thing",1968-12-03,,Male
+24,14,460,1999-02-20,Bill Murray,/wiki/Bill_Murray,Actor,"Thing,Person",1950-09-21,,Male
+24,15,461,1999-03-13,Ray Romano,/wiki/Ray_Romano,Stand-up comedian,"Thing,Person",1957-12-21,"Observational comedy,blue comedy,slapstick",Male
+24,16,462,1999-03-20,Drew Barrymore,/wiki/Drew_Barrymore,Actress,"Thing,Person",1975-02-22,,Female
+24,17,463,1999-04-10,John Goodman,/wiki/John_Goodman,Actor,"Thing,Person",1952-06-20,,Male
+24,18,464,1999-05-08,"Cuba Gooding, Jr.","/wiki/Cuba_Gooding,_Jr.",Actor,"Person,Thing",1968-01-02,,Male
+24,19,465,1999-05-15,Sarah Michelle Gellar,/wiki/Sarah_Michelle_Gellar,Actress,"Thing,Person",1977-04-14,,Female
+25,1,466,1999-10-02,Jerry Seinfeld,/wiki/Jerry_Seinfeld,Comedian,"Thing,Person",1954-04-29,"Observational comedy,black comedy,political satire",Male
+25,2,467,1999-10-16,Heather Graham,/wiki/Heather_Graham_(actress),Actress,"Person,Thing",1970-01-29,,Female
+25,3,468,1999-10-23,Norm Macdonald,/wiki/Norm_Macdonald,Stand-up comedian,"Person,Thing",1959-10-17,"Political satire,observational comedy,anti-humor,feghoots,black comedy,surreal humour,wit",Male
+25,4,469,1999-11-06,Dylan McDermott,/wiki/Dylan_McDermott,Actor,"Person,Thing",1961-10-26,,Male
+25,5,470,1999-11-13,Garth Brooks,/wiki/Garth_Brooks,Singer-songwriter,"Thing,Person",1962-02-07,"Country,country pop,country rock",Male
+25,6,471,1999-11-20,Jennifer Aniston,/wiki/Jennifer_Aniston,Actress,"Person,Thing",1969-02-11,,Female
+25,7,472,1999-12-04,Christina Ricci,/wiki/Christina_Ricci,Actress,"Person,Thing",1980-02-12,,Female
+25,8,473,1999-12-11,Danny DeVito,/wiki/Danny_DeVito,Actor,"Thing,Person",1944-11-17,,Male
+25,9,474,2000-01-08,Jamie Foxx,/wiki/Jamie_Foxx,Actor,"Person,Thing",1967-12-13,"R&B,soul,Pop,hip hop,musical comedy",Male
+25,10,475,2000-01-15,"Freddie Prinze, Jr.","/wiki/Freddie_Prinze,_Jr.",Actor,"Person,Thing",1976-03-08,,Male
+25,11,476,2000-02-05,Alan Cumming,/wiki/Alan_Cumming,Actor,"Thing,Person",1965-01-27,,Male
+25,12,477,2000-02-12,Julianna Margulies,/wiki/Julianna_Margulies,Actress,"Person,Thing",1966-06-08,,Female
+25,13,478,2000-02-19,Ben Affleck,/wiki/Ben_Affleck,Actor,"Thing,Person",1972-08-15,,Male
+25,14,479,2000-03-11,Joshua Jackson,/wiki/Joshua_Jackson,Actor,"Person,Thing",1978-06-11,,Male
+25,15,480,2000-03-18,The Rock,/wiki/Dwayne_Johnson,1996 film,"Movie,Thing",1972-05-02,,
+25,16,481,2000-04-08,Christopher Walken,/wiki/Christopher_Walken,Film actor,"Person,Thing",1943-03-31,,Male
+25,17,482,2000-04-15,Tobey Maguire,/wiki/Tobey_Maguire,Actor,"Person,Thing",1975-06-27,,Male
+25,18,483,2000-05-06,John Goodman,/wiki/John_Goodman,Actor,"Thing,Person",1952-06-20,,Male
+25,19,484,2000-05-13,Britney Spears,/wiki/Britney_Spears,Singer,"Thing,Person",1981-12-02,"Pop,dance",Female
+25,20,485,2000-05-20,Jackie Chan,/wiki/Jackie_Chan,Martial artist,"Person,Thing",1954-04-07,,Male
+26,1,486,2000-10-07,Rob Lowe,/wiki/Rob_Lowe,Actor,"Person,Thing",1964-03-17,,Male
+26,2,487,2000-10-14,Kate Hudson,/wiki/Kate_Hudson,Actress,"Thing,Person",1979-04-19,,Female
+26,3,488,2000-10-21,Dana Carvey,/wiki/Dana_Carvey,Actor,"Thing,Person",1955-06-02,"Improvisational,Observational,Character comedy,Satire",Male
+26,4,489,2000-11-04,Charlize Theron,/wiki/Charlize_Theron,Actress,"Person,Thing",1975-08-07,,Female
+26,5,490,2000-11-11,Calista Flockhart,/wiki/Calista_Flockhart,Actress,"Person,Thing",1964-11-11,,Female
+26,6,491,2000-11-18,Tom Green,/wiki/Tom_Green,Actor,"Thing,Person",1971-07-30,,Male
+26,7,492,2000-12-09,Val Kilmer,/wiki/Val_Kilmer,Actor,"Thing,Person",1959-12-31,,Male
+26,8,493,2000-12-16,Lucy Liu,/wiki/Lucy_Liu,Actress,"Person,Thing",1968-12-02,,Female
+26,9,494,2001-01-13,Charlie Sheen,/wiki/Charlie_Sheen,Actor,"Person,Thing",1965-09-03,,Male
+26,10,495,2001-01-20,Mena Suvari,/wiki/Mena_Suvari,Actress,"Person,Thing",1979-02-13,,Female
+26,11,496,2001-02-10,Jennifer Lopez,/wiki/Jennifer_Lopez,Singer,"Person,Thing",1969-07-24,"R&B,pop,Latin,hip hop,dance",Female
+26,12,497,2001-02-17,Sean Hayes,/wiki/Sean_Hayes_(actor),Actor,"Thing,Person",1970-06-26,,Male
+26,13,498,2001-02-24,Katie Holmes,/wiki/Katie_Holmes,Actress,"Thing,Person",1978-12-18,,Female
+26,14,499,2001-03-10,Conan O'Brien,/wiki/Conan_O%27Brien,Television host,"Thing,Person",1963-04-18,"Improvisational comedy,sketch comedy,physical comedy,surreal humor,self-deprecation,black comedy,musical comedy,satire",Male
+26,15,500,2001-03-17,Julia Stiles,/wiki/Julia_Stiles,Actress,"Thing,Person",1981-03-28,,Female
+26,16,501,2001-04-07,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+26,17,502,2001-04-14,Renée Zellweger,/wiki/Ren%C3%A9e_Zellweger,Actress,"Person,Thing",1969-04-25,,Female
+26,18,503,2001-05-05,Pierce Brosnan,/wiki/Pierce_Brosnan,Actor,"Thing,Person",1953-05-16,,Male
+26,19,504,2001-05-12,Lara Flynn Boyle,/wiki/Lara_Flynn_Boyle,Actress,"Thing,Person",1970-03-24,,Female
+26,20,505,2001-05-19,Christopher Walken,/wiki/Christopher_Walken,Film actor,"Person,Thing",1943-03-31,,Male
+27,1,506,2001-09-29,Reese Witherspoon,/wiki/Reese_Witherspoon,Actress,"Person,Thing",1976-03-22,,Female
+27,2,507,2001-10-06,Seann William Scott,/wiki/Seann_William_Scott,Actor,"Person,Thing",1976-10-03,,Male
+27,3,508,2001-10-13,Drew Barrymore,/wiki/Drew_Barrymore,Actress,"Thing,Person",1975-02-22,,Female
+27,4,509,2001-11-03,John Goodman,/wiki/John_Goodman,Actor,"Thing,Person",1952-06-20,,Male
+27,5,510,2001-11-10,Gwyneth Paltrow,/wiki/Gwyneth_Paltrow,Actress,"Thing,Person",1972-09-27,,Female
+27,6,511,2001-11-17,Billy Bob Thornton,/wiki/Billy_Bob_Thornton,Actor,"Thing,Person",1955-08-04,"Country rock,blues rock",Male
+27,7,512,2001-12-01,Derek Jeter,/wiki/Derek_Jeter,Baseball player,"Person,Thing",1974-06-26,,Male
+27,8,513,2001-12-08,Hugh Jackman,/wiki/Hugh_Jackman,Actor,"Person,Thing",1968-10-12,,Male
+27,9,514,2001-12-15,Ellen DeGeneres,/wiki/Ellen_DeGeneres,Comedian,"Thing,Person",1958-01-26,"Observational comedy,satire,surreal humor,anti-humor,deadpan",Female
+27,10,515,2002-01-12,Josh Hartnett,/wiki/Josh_Hartnett,Actor,"Thing,Person",1978-07-21,,Male
+27,11,516,2002-01-19,Jack Black,/wiki/Jack_Black_(actor),Actor,"Thing,Person",1969-08-28,"Acoustic rock,comedy rock,hard rock,heavy metal",Male
+27,12,517,2002-02-02,Britney Spears,/wiki/Britney_Spears,Singer,"Thing,Person",1981-12-02,"Pop,dance",Female
+27,13,518,2002-03-02,Jonny Moseley,/wiki/Jonny_Moseley,Television presenter,"Thing,Person",1975-08-27,,Male
+27,14,519,2002-03-09,Jon Stewart,/wiki/Jon_Stewart,American talk show,"TVSeries,Thing",1962-11-28,"Political,news satire,observational comedy,physical comedy,blue comedy,insult comedy,deadpan",
+27,15,520,2002-03-16,Ian McKellen,/wiki/Ian_McKellen,Actor,"Thing,Person",1939-05-25,,Male
+27,16,521,2002-04-06,Cameron Diaz,/wiki/Cameron_Diaz,Actress,"Thing,Person",1972-08-30,,Female
+27,17,522,2002-04-13,Dwayne Johnson,/wiki/Dwayne_Johnson,Actor,"Thing,Person",1972-05-02,,Male
+27,18,523,2002-04-20,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+27,19,524,2002-05-11,Kirsten Dunst,/wiki/Kirsten_Dunst,Actress,"Person,Thing",1982-04-30,,Female
+27,20,525,2002-05-18,Winona Ryder,/wiki/Winona_Ryder,Actress,"Person,Thing",1971-10-29,,Female
+28,1,526,2002-10-05,Matt Damon,/wiki/Matt_Damon,Actor,"Thing,Person",1970-10-08,,Male
+28,2,527,2002-10-12,Sarah Michelle Gellar,/wiki/Sarah_Michelle_Gellar,Actress,"Thing,Person",1977-04-14,,Female
+28,3,528,2002-10-19,John McCain,/wiki/John_McCain,United States Senator,"Person,Thing",1936-08-29,,Male
+28,4,529,2002-11-02,Eric McCormack,/wiki/Eric_McCormack,Actor,"Thing,Person",1963-04-18,,Male
+28,5,530,2002-11-09,Nia Vardalos,/wiki/Nia_Vardalos,Actress,"Person,Thing",1962-09-24,,Female
+28,6,531,2002-11-16,Brittany Murphy,/wiki/Brittany_Murphy,Film actress,"Person,Thing",1977-11-10,,Female
+28,7,532,2002-12-07,Robert De Niro,/wiki/Robert_De_Niro,Actor,"Thing,Person",1943-08-17,,Male
+28,8,533,2002-12-14,Al Gore,/wiki/Al_Gore,Former Vice President of the United States,"Thing,Person",1948-03-31,,Male
+28,9,534,2003-01-11,Jeff Gordon,/wiki/Jeff_Gordon,Race car driver,"Person,Thing",1971-08-04,,Male
+28,10,535,2003-01-18,Ray Liotta,/wiki/Ray_Liotta,Actor,"Person,Thing",1954-12-18,,Male
+28,11,536,2003-02-08,Matthew McConaughey,/wiki/Matthew_McConaughey,Actor,"Thing,Person",1969-11-04,,Male
+28,12,537,2003-02-15,Jennifer Garner,/wiki/Jennifer_Garner,Actress,"Thing,Person",1972-04-17,,Female
+28,13,538,2003-02-22,Christopher Walken,/wiki/Christopher_Walken,Film actor,"Person,Thing",1943-03-31,,Male
+28,14,539,2003-03-08,Queen Latifah,/wiki/Queen_Latifah,Rapper,"Person,Thing",1970-03-18,"R&B,soul,jazz,hip hop,gospel,dance",Female
+28,15,540,2003-03-15,Salma Hayek,/wiki/Salma_Hayek,Film actress,"Thing,Person",1966-09-02,,Female
+28,16,541,2003-04-05,Bernie Mac,/wiki/Bernie_Mac,Comedian,"Thing,Person",1957-10-05,"Observational comedy,satire,black comedy,insult comedy",Male
+28,17,542,2003-04-12,Ray Romano,/wiki/Ray_Romano,Stand-up comedian,"Thing,Person",1957-12-21,"Observational comedy,blue comedy,slapstick",Male
+28,18,543,2003-05-03,Ashton Kutcher,/wiki/Ashton_Kutcher,Actor,"Thing,Person",1978-02-07,,Male
+28,19,544,2003-05-10,Adrien Brody,/wiki/Adrien_Brody,Actor,"Person,Thing",1973-04-14,,Male
+28,20,545,2003-05-17,Dan Aykroyd,/wiki/Dan_Aykroyd,Actor,"Person,Thing",1952-07-01,"Sketch comedy,improvisational,musical comedy",Male
+29,1,546,2003-10-04,Jack Black,/wiki/Jack_Black,Actor,"Thing,Person",1969-08-28,"Acoustic rock,comedy rock,hard rock,heavy metal",Male
+29,2,547,2003-10-11,Justin Timberlake,/wiki/Justin_Timberlake,Singer-songwriter,"Person,Thing",1981-01-31,"Pop,R&B,neo soul",Male
+29,3,548,2003-10-18,Halle Berry,/wiki/Halle_Berry,Actress,"Thing,Person",1966-08-14,,Female
+29,4,549,2003-11-01,Kelly Ripa,/wiki/Kelly_Ripa,Actress,"Thing,Person",1970-10-02,,Female
+29,5,550,2003-11-08,Andy Roddick,/wiki/Andy_Roddick,Tennis player,"Person,Thing",1982-08-30,,Male
+29,6,551,2003-11-15,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+29,7,552,2003-12-06,Al Sharpton,/wiki/Al_Sharpton,Activist,"Thing,Person",1954-10-03,,Male
+29,8,553,2003-12-13,Elijah Wood,/wiki/Elijah_Wood,Actor,"Person,Thing",1981-01-28,,Male
+29,9,554,2004-01-10,Jennifer Aniston,/wiki/Jennifer_Aniston,Actress,"Person,Thing",1969-02-11,,Female
+29,10,555,2004-01-17,Jessica Simpson,/wiki/Jessica_Simpson,Singer,"Thing,Person",1980-07-10,"Pop,dance-pop,electropop,R&B,country pop",Female
+29,10,555,2004-01-17,Nick Lachey,/wiki/Nick_Lachey,Singer,"Thing,Person",1973-11-09,"Pop rock,R&B",Male
+29,11,556,2004-02-07,Megan Mullally,/wiki/Megan_Mullally,Actress,"Person,Thing",1958-11-12,,Female
+29,12,557,2004-02-14,Drew Barrymore,/wiki/Drew_Barrymore,Actress,"Thing,Person",1975-02-22,,Female
+29,13,558,2004-02-21,Christina Aguilera,/wiki/Christina_Aguilera,Singer-songwriter,"Person,Thing",1980-12-18,"R&B,pop,dance-pop,soul",Female
+29,14,559,2004-03-06,Colin Firth,/wiki/Colin_Firth,Actor,"Thing,Person",1960-09-10,,Male
+29,15,560,2004-03-13,Ben Affleck,/wiki/Ben_Affleck,Actor,"Thing,Person",1972-08-15,,Male
+29,16,561,2004-04-03,Donald Trump,/wiki/Donald_Trump,45th U.S. President,"Person,Thing",1946-06-14,,Male
+29,17,562,2004-04-10,Janet Jackson,/wiki/Janet_Jackson,Singer-songwriter,"Person,Thing",1966-05-16,"Pop,R&B,hip hop,dance",Female
+29,18,563,2004-05-01,Lindsay Lohan,/wiki/Lindsay_Lohan,Actress,"Thing,Person",1986-07-02,"Pop rock,teen pop,dance",Female
+29,19,564,2004-05-08,Snoop Dogg,/wiki/Snoop_Dogg,Rapper,"Person,Thing",1971-10-20,"Hip hop,funk,R&B,reggae",Male
+29,20,565,2004-05-15,Mary-Kate and Ashley Olsen,/wiki/Mary-Kate_and_Ashley_Olsen,,"Thing,MusicGroup",1986-06-13,,
+30,1,566,2004-10-02,Ben Affleck,/wiki/Ben_Affleck,Actor,"Thing,Person",1972-08-15,,Male
+30,2,567,2004-10-09,Queen Latifah,/wiki/Queen_Latifah,Rapper,"Person,Thing",1970-03-18,"R&B,soul,jazz,hip hop,gospel,dance",Female
+30,3,568,2004-10-23,Jude Law,/wiki/Jude_Law,Actor,"Person,Thing",1972-12-29,,Male
+30,4,569,2004-10-30,Kate Winslet,/wiki/Kate_Winslet,Actress,"Person,Thing",1975-10-05,,Female
+30,5,570,2004-11-13,Liam Neeson,/wiki/Liam_Neeson,Actor,"Thing,Person",1952-06-07,,Male
+30,6,571,2004-11-20,Luke Wilson,/wiki/Luke_Wilson,Actor,"Person,Thing",1971-09-21,,Male
+30,7,572,2004-12-11,Colin Farrell,/wiki/Colin_Farrell,Actor,"Thing,Person",1976-05-31,,Male
+30,8,573,2004-12-18,Robert De Niro,/wiki/Robert_De_Niro,Actor,"Thing,Person",1943-08-17,,Male
+30,9,574,2005-01-15,Topher Grace,/wiki/Topher_Grace,Actor,"Thing,Person",1978-07-12,,Male
+30,10,575,2005-01-22,Paul Giamatti,/wiki/Paul_Giamatti,Character actor,"Person,Thing",1967-06-06,,Male
+30,11,576,2005-02-05,Paris Hilton,/wiki/Paris_Hilton,Businesswoman,"Person,Thing",1981-02-17,"R&B,pop,dance,hip hop",Female
+30,12,577,2005-02-12,Jason Bateman,/wiki/Jason_Bateman,Actor,"Thing,Person",1969-01-14,,Male
+30,13,578,2005-02-19,Hilary Swank,/wiki/Hilary_Swank,Actress,"Person,Thing",1974-07-30,,Female
+30,14,579,2005-03-12,David Spade,/wiki/David_Spade,Stand-up comedian,"Thing,Person",1964-07-22,Sketch comedy,Male
+30,15,580,2005-03-19,Ashton Kutcher,/wiki/Ashton_Kutcher,Actor,"Thing,Person",1978-02-07,,Male
+30,16,581,2005-04-09,Cameron Diaz,/wiki/Cameron_Diaz,Actress,"Thing,Person",1972-08-30,,Female
+30,17,582,2005-04-16,Tom Brady,/wiki/Tom_Brady,Football quarterback,"Thing,Person",1977-08-03,,Male
+30,18,583,2005-05-07,Johnny Knoxville,/wiki/Johnny_Knoxville,Actor,"Thing,Person",1971-03-11,,Male
+30,19,584,2005-05-14,Will Ferrell,/wiki/Will_Ferrell,Actor,"Thing,Person",1967-07-16,"Improvisational comedy,news satire,political satire,sketch comedy",Male
+30,20,585,2005-05-21,Lindsay Lohan,/wiki/Lindsay_Lohan,Actress,"Thing,Person",1986-07-02,"Pop rock,teen pop,dance",Female
+31,1,586,2005-10-01,Steve Carell,/wiki/Steve_Carell,Actor,"Person,Thing",1962-08-16,,Male
+31,2,587,2005-10-08,Jon Heder,/wiki/Jon_Heder,Actor,"Thing,Person",1977-10-26,,Male
+31,3,588,2005-10-22,Catherine Zeta-Jones,/wiki/Catherine_Zeta-Jones,Actress,"Thing,Person",1969-09-25,,Female
+31,4,589,2005-10-29,Lance Armstrong,/wiki/Lance_Armstrong,Professional road racing cyclist,"Thing,Person",1971-09-18,,Male
+31,5,590,2005-11-12,Jason Lee,/wiki/Jason_Lee_(actor),Actor,"Person,Thing",1970-04-25,,Male
+31,6,591,2005-11-19,Eva Longoria,/wiki/Eva_Longoria,Actress,"Thing,Person",1975-03-15,,Female
+31,7,592,2005-12-03,Dane Cook,/wiki/Dane_Cook,Comedian,"Thing,Person",1972-03-18,"Observational comedy,black comedy",Male
+31,8,593,2005-12-10,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+31,9,594,2005-12-17,Jack Black,/wiki/Jack_Black,Actor,"Thing,Person",1969-08-28,"Acoustic rock,comedy rock,hard rock,heavy metal",Male
+31,10,595,2006-01-14,Scarlett Johansson,/wiki/Scarlett_Johansson,Actress,"Person,Thing",1984-11-22,,Female
+31,11,596,2006-01-21,Peter Sarsgaard,/wiki/Peter_Sarsgaard,Actor,"Thing,Person",1971-03-07,,Male
+31,12,597,2006-02-04,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+31,13,598,2006-03-04,Natalie Portman,/wiki/Natalie_Portman,Actress,"Thing,Person",1981-06-09,,Female
+31,14,599,2006-03-11,Matt Dillon,/wiki/Matt_Dillon,Actor,"Thing,Person",1964-02-18,,Male
+31,15,600,2006-04-08,Antonio Banderas,/wiki/Antonio_Banderas,Actor,"Person,Thing",1960-08-10,,Male
+31,16,601,2006-04-15,Lindsay Lohan,/wiki/Lindsay_Lohan,Actress,"Thing,Person",1986-07-02,"Pop rock,teen pop,dance",Female
+31,17,602,2006-05-06,Tom Hanks,/wiki/Tom_Hanks,Actor,"Thing,Person",1956-07-09,,Male
+31,18,603,2006-05-13,Julia Louis-Dreyfus,/wiki/Julia_Louis-Dreyfus,Actress,"Person,Thing",1961-01-13,,Female
+31,19,604,2006-05-20,Kevin Spacey,/wiki/Kevin_Spacey,Actor,"Person,Thing",1959-07-26,,Male
+32,1,605,2006-09-30,Dane Cook,/wiki/Dane_Cook,Comedian,"Thing,Person",1972-03-18,"Observational comedy,black comedy",Male
+32,2,606,2006-10-07,Jaime Pressly,/wiki/Jaime_Pressly,Actress,"Thing,Person",1977-07-30,,Female
+32,3,607,2006-10-21,John C. Reilly,/wiki/John_C._Reilly,Actor,"Person,Thing",1965-05-24,,Male
+32,4,608,2006-10-28,Hugh Laurie,/wiki/Hugh_Laurie,Actor,"Person,Thing",1959-06-11,,Male
+32,5,609,2006-11-11,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+32,6,610,2006-11-18,Ludacris,/wiki/Ludacris,Hip-hop artist,"Thing,Person",1977-09-11,Hip hop,Male
+32,7,611,2006-12-02,Matthew Fox,/wiki/Matthew_Fox_(actor),Actor,"Person,Thing",1966-07-14,,Male
+32,8,612,2006-12-09,Annette Bening,/wiki/Annette_Bening,Actress,"Person,Thing",1958-05-29,,Female
+32,9,613,2006-12-16,Justin Timberlake,/wiki/Justin_Timberlake,Singer-songwriter,"Person,Thing",1981-01-31,"Pop,R&B,neo soul",Male
+32,10,614,2007-01-13,Jake Gyllenhaal,/wiki/Jake_Gyllenhaal,Actor,"Person,Thing",1980-12-19,,Male
+32,11,615,2007-01-20,Jeremy Piven,/wiki/Jeremy_Piven,Actor,"Person,Thing",1965-07-26,,Male
+32,12,616,2007-02-03,Drew Barrymore,/wiki/Drew_Barrymore,Actress,"Thing,Person",1975-02-22,,Female
+32,13,617,2007-02-10,Forest Whitaker,/wiki/Forest_Whitaker,Actor,"Person,Thing",1961-07-15,,Male
+32,14,618,2007-02-24,Rainn Wilson,/wiki/Rainn_Wilson,Actor,"Thing,Person",1966-01-20,,Male
+32,15,619,2007-03-17,Julia Louis-Dreyfus,/wiki/Julia_Louis-Dreyfus,Actress,"Person,Thing",1961-01-13,,Female
+32,16,620,2007-03-24,Peyton Manning,/wiki/Peyton_Manning,Football quarterback,"Person,Thing",1976-03-24,,Male
+32,17,621,2007-04-14,Shia LaBeouf,/wiki/Shia_LaBeouf,Actor,"Person,Thing",1986-06-11,,Male
+32,18,622,2007-04-21,Scarlett Johansson,/wiki/Scarlett_Johansson,Actress,"Person,Thing",1984-11-22,,Female
+32,19,623,2007-05-12,Molly Shannon,/wiki/Molly_Shannon,Comic,"Person,Thing",1964-09-16,,Female
+32,20,624,2007-05-19,Zach Braff,/wiki/Zach_Braff,Actor,"Thing,Person",1975-04-06,,Male
+33,1,625,2007-09-29,LeBron James,/wiki/LeBron_James,Basketball player,"Thing,Person",1984-12-30,,Male
+33,2,626,2007-10-06,Seth Rogen,/wiki/Seth_Rogen,Actor,"Thing,Person",1982-04-15,,Male
+33,3,627,2007-10-13,Jon Bon Jovi,/wiki/Jon_Bon_Jovi,Singer-songwriter,"Person,Thing",1962-03-02,"Rock,pop rock,hard rock,glam metal,country rock,heavy metal",Male
+33,4,628,2007-11-03,Brian Williams,/wiki/Brian_Williams,Journalist,"Person,Thing",1959-05-05,,Male
+33,5,629,2008-02-23,Tina Fey,/wiki/Tina_Fey,Actress,"Thing,Person",1970-05-18,"Improvisational comedy,news satire,political satire,satire,sketch comedy",Female
+33,6,630,2008-03-01,Ellen Page,/wiki/Ellen_Page,Actress,"Thing,Person",1987-02-21,,Female
+33,7,631,2008-03-08,Amy Adams,/wiki/Amy_Adams,Actress,"Person,Thing",1974-08-20,,Female
+33,8,632,2008-03-15,Jonah Hill,/wiki/Jonah_Hill,Actor,"Thing,Person",1983-12-20,,Male
+33,9,633,2008-04-05,Christopher Walken,/wiki/Christopher_Walken,Film actor,"Person,Thing",1943-03-31,,Male
+33,10,634,2008-04-12,Ashton Kutcher,/wiki/Ashton_Kutcher,Actor,"Thing,Person",1978-02-07,,Male
+33,11,635,2008-05-10,Shia LaBeouf,/wiki/Shia_LaBeouf,Actor,"Person,Thing",1986-06-11,,Male
+33,12,636,2008-05-17,Steve Carell,/wiki/Steve_Carell,Actor,"Person,Thing",1962-08-16,,Male
+34,1,637,2008-09-13,Michael Phelps,/wiki/Michael_Phelps,Swimmer,"Thing,Person",1985-06-30,,Male
+34,2,638,2008-09-20,James Franco,/wiki/James_Franco,Actor,"Person,Thing",1978-04-19,,Male
+34,3,639,2008-09-27,Anna Faris,/wiki/Anna_Faris,Actress,"Person,Thing",1976-11-29,,Female
+34,4,640,2008-10-04,Anne Hathaway,/wiki/Anne_Hathaway,Actress,"Person,Thing",1982-11-12,,Female
+34,5,641,2008-10-18,Josh Brolin,/wiki/Josh_Brolin,Actor,"Thing,Person",1968-02-12,,Male
+34,6,642,2008-10-25,Jon Hamm,/wiki/Jon_Hamm,Actor,"Person,Thing",1971-03-10,,Male
+34,7,643,2008-11-01,Ben Affleck,/wiki/Ben_Affleck,Actor,"Thing,Person",1972-08-15,,Male
+34,8,644,2008-11-15,Paul Rudd,/wiki/Paul_Rudd,Actor,"Thing,Person",1969-04-06,,Male
+34,9,645,2008-11-22,Tim McGraw,/wiki/Tim_McGraw,Singer,"Thing,Person",1967-05-01,Country,Male
+34,10,646,2008-12-06,John Malkovich,/wiki/John_Malkovich,Actor,"Thing,Person",1953-12-09,,Male
+34,11,647,2008-12-13,Hugh Laurie,/wiki/Hugh_Laurie,Actor,"Person,Thing",1959-06-11,,Male
+34,12,648,2009-01-10,Neil Patrick Harris,/wiki/Neil_Patrick_Harris,Actor,"Thing,Person",1973-06-15,,Male
+34,13,649,2009-01-17,Rosario Dawson,/wiki/Rosario_Dawson,Actress,"Thing,Person",1979-05-09,,Female
+34,14,650,2009-01-31,Steve Martin,/wiki/Steve_Martin,Actor,"Thing,Person",1945-08-14,"Bluegrass,folk revival,pop,country,musical comedy",Male
+34,15,651,2009-02-07,Bradley Cooper,/wiki/Bradley_Cooper,Actor,"Person,Thing",1975-01-05,,Male
+34,16,652,2009-02-14,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+34,17,653,2009-03-07,Dwayne Johnson,/wiki/Dwayne_Johnson,Actor,"Thing,Person",1972-05-02,,Male
+34,18,654,2009-03-14,Tracy Morgan,/wiki/Tracy_Morgan,Actor,"Person,Thing",1968-11-10,"Musical comedy,cringe comedy,character comedy",Male
+34,19,655,2009-04-04,Seth Rogen,/wiki/Seth_Rogen,Actor,"Thing,Person",1982-04-15,,Male
+34,20,656,2009-04-11,Zac Efron,/wiki/Zac_Efron,Actor,"Thing,Person",1987-10-18,,Male
+34,21,657,2009-05-09,Justin Timberlake,/wiki/Justin_Timberlake,Singer-songwriter,"Person,Thing",1981-01-31,"Pop,R&B,neo soul",Male
+34,22,658,2009-05-16,Will Ferrell,/wiki/Will_Ferrell,Actor,"Thing,Person",1967-07-16,"Improvisational comedy,news satire,political satire,sketch comedy",Male
+35,1,659,2009-09-26,Megan Fox,/wiki/Megan_Fox,Actress,"Thing,Person",1986-05-16,,Female
+35,2,660,2009-10-03,Ryan Reynolds,/wiki/Ryan_Reynolds,Actor,"Thing,Person",1976-10-23,,Male
+35,3,661,2009-10-10,Drew Barrymore,/wiki/Drew_Barrymore,Actress,"Thing,Person",1975-02-22,,Female
+35,4,662,2009-10-17,Gerard Butler,/wiki/Gerard_Butler,Actor,"Thing,Person",1969-11-13,,Male
+35,5,663,2009-11-07,Taylor Swift,/wiki/Taylor_Swift,Singer-songwriter,"Person,Thing",1989-12-13,"Country,pop",Female
+35,6,664,2009-11-14,January Jones,/wiki/January_Jones,Actress,"Thing,Person",1978-01-05,,Female
+35,7,665,2009-11-21,Joseph Gordon-Levitt,/wiki/Joseph_Gordon-Levitt,Actor,"Person,ItemList,Thing",1981-02-17,,Male
+35,8,666,2009-12-05,Blake Lively,/wiki/Blake_Lively,Actress,"Person,Thing",1987-08-25,,Female
+35,9,667,2009-12-12,Taylor Lautner,/wiki/Taylor_Lautner,Actor,"Thing,Person",1992-02-11,,Male
+35,10,668,2009-12-19,James Franco,/wiki/James_Franco,Actor,"Person,Thing",1978-04-19,,Male
+35,11,669,2010-01-09,Charles Barkley,/wiki/Charles_Barkley,Basketball player,"Person,Thing",1963-02-20,,Male
+35,12,670,2010-01-16,Sigourney Weaver,/wiki/Sigourney_Weaver,Actress,"Thing,Person",1949-10-08,,Female
+35,13,671,2010-01-30,Jon Hamm,/wiki/Jon_Hamm,Actor,"Person,Thing",1971-03-10,,Male
+35,14,672,2010-02-06,Ashton Kutcher,/wiki/Ashton_Kutcher,Actor,"Thing,Person",1978-02-07,,Male
+35,15,673,2010-02-27,Jennifer Lopez,/wiki/Jennifer_Lopez,Singer,"Person,Thing",1969-07-24,"R&B,pop,Latin,hip hop,dance",Female
+35,16,674,2010-03-06,Zach Galifianakis,/wiki/Zach_Galifianakis,Actor,"Thing,Person",1969-10-01,"Alternative comedy,deadpan,surreal humor,observational comedy,black comedy,insult comedy,physical comedy,musical comedy,one-liners",Male
+35,17,675,2010-03-13,Jude Law,/wiki/Jude_Law,Actor,"Person,Thing",1972-12-29,,Male
+35,18,676,2010-04-10,Tina Fey,/wiki/Tina_Fey,Actress,"Thing,Person",1970-05-18,"Improvisational comedy,news satire,political satire,satire,sketch comedy",Female
+35,19,677,2010-04-17,Ryan Phillippe,/wiki/Ryan_Phillippe,Actor,"Thing,Person",1974-09-10,,Male
+35,20,678,2010-04-24,Gabourey Sidibe,/wiki/Gabourey_Sidibe,Actress,"Person,Thing",1983-05-06,,Female
+35,21,679,2010-05-08,Betty White,/wiki/Betty_White,Actress,"Thing,Person",1922-01-17,,Female
+35,22,680,2010-05-15,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+36,1,681,2010-09-25,Amy Poehler,/wiki/Amy_Poehler,Actress,"Person,Thing",1971-09-16,"Improvisational comedy,news satire,political satire,satire,sketch comedy",Female
+36,2,682,2010-10-02,Bryan Cranston,/wiki/Bryan_Cranston,Actor,"Thing,Person",1956-03-07,,Male
+36,3,683,2010-10-09,Jane Lynch,/wiki/Jane_Lynch,Actress,"Person,Thing",1960-07-14,,Female
+36,4,684,2010-10-23,Emma Stone,/wiki/Emma_Stone,Actress,"Thing,Person",1988-11-06,,Female
+36,5,685,2010-10-30,Jon Hamm,/wiki/Jon_Hamm,Actor,"Person,Thing",1971-03-10,,Male
+36,6,686,2010-11-13,Scarlett Johansson,/wiki/Scarlett_Johansson,Actress,"Person,Thing",1984-11-22,,Female
+36,7,687,2010-11-20,Anne Hathaway,/wiki/Anne_Hathaway,Actress,"Person,Thing",1982-11-12,,Female
+36,8,688,2010-12-04,Robert De Niro,/wiki/Robert_De_Niro,Actor,"Thing,Person",1943-08-17,,Male
+36,9,689,2010-12-11,Paul Rudd,/wiki/Paul_Rudd,Actor,"Thing,Person",1969-04-06,,Male
+36,10,690,2010-12-18,Jeff Bridges,/wiki/Jeff_Bridges,Actor,"Thing,Person",1949-12-04,,Male
+36,11,691,2011-01-08,Jim Carrey,/wiki/Jim_Carrey,Actor,"Person,Thing",1962-01-17,"Observational comedy,physical comedy,surreal humor",Male
+36,12,692,2011-01-15,Gwyneth Paltrow,/wiki/Gwyneth_Paltrow,Actress,"Thing,Person",1972-09-27,,Female
+36,13,693,2011-01-29,Jesse Eisenberg,/wiki/Jesse_Eisenberg,Actor,"Person,Thing",1983-10-05,,Male
+36,14,694,2011-02-05,Dana Carvey,/wiki/Dana_Carvey,Actor,"Thing,Person",1955-06-02,"Improvisational,Observational,Character comedy,Satire",Male
+36,15,695,2011-02-12,Russell Brand,/wiki/Russell_Brand,Comedian,"Person,Thing",1975-06-04,"Observational comedy,black comedy,blue comedy,improvisational comedy",Male
+36,16,696,2011-03-05,Miley Cyrus,/wiki/Miley_Cyrus,Singer-songwriter,"Thing,Person",1992-11-23,Pop,Female
+36,17,697,2011-03-12,Zach Galifianakis,/wiki/Zach_Galifianakis,Actor,"Thing,Person",1969-10-01,"Alternative comedy,deadpan,surreal humor,observational comedy,black comedy,insult comedy,physical comedy,musical comedy,one-liners",Male
+36,18,698,2011-04-02,Elton John,/wiki/Elton_John,Singer,"Thing,Person",1947-03-25,"Rock,piano rock,pop rock,glam rock,soft rock,rhythm and blues",Male
+36,19,699,2011-04-09,Helen Mirren,/wiki/Helen_Mirren,Actor,"Thing,Person",1945-07-26,,Female
+36,20,700,2011-05-07,Tina Fey,/wiki/Tina_Fey,Actress,"Thing,Person",1970-05-18,"Improvisational comedy,news satire,political satire,satire,sketch comedy",Female
+36,21,701,2011-05-14,Ed Helms,/wiki/Ed_Helms,Actor,"Person,Thing",1974-01-24,,Male
+36,22,702,2011-05-21,Justin Timberlake,/wiki/Justin_Timberlake,Singer-songwriter,"Person,Thing",1981-01-31,"Pop,R&B,neo soul",Male
+37,1,703,2011-09-24,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+37,2,704,2011-10-01,Melissa McCarthy,/wiki/Melissa_McCarthy,Actress,"Person,Thing",1970-08-26,,Female
+37,3,705,2011-10-08,Ben Stiller,/wiki/Ben_Stiller,Actor,"Thing,Person",1965-11-30,"Observational comedy,physical comedy,surreal humor",Male
+37,4,706,2011-10-15,Anna Faris,/wiki/Anna_Faris,Actress,"Person,Thing",1976-11-29,,Female
+37,5,707,2011-11-05,Charlie Day,/wiki/Charlie_Day,Actor,"Person,Thing",1976-02-09,,Male
+37,6,708,2011-11-12,Emma Stone,/wiki/Emma_Stone,Actress,"Thing,Person",1988-11-06,,Female
+37,7,709,2011-11-19,Jason Segel,/wiki/Jason_Segel,Actor,"Person,Thing",1980-01-18,,Male
+37,8,710,2011-12-03,Steve Buscemi,/wiki/Steve_Buscemi,Actor,"Person,Thing",1957-12-13,,Male
+37,9,711,2011-12-10,Katy Perry,/wiki/Katy_Perry,Singer-songwriter,"Person,Thing",1984-10-25,"Pop,rock",Female
+37,10,712,2011-12-17,Jimmy Fallon,/wiki/Jimmy_Fallon,Comedian,"Thing,Person",1974-09-19,"Sketch comedy,observational comedy,musical comedy,political satire,social satire",Male
+37,11,713,2012-01-07,Charles Barkley,/wiki/Charles_Barkley,Basketball player,"Person,Thing",1963-02-20,,Male
+37,12,714,2012-01-14,Daniel Radcliffe,/wiki/Daniel_Radcliffe,Actor,"Person,Thing",1989-07-23,,Male
+37,13,715,2012-02-04,Channing Tatum,/wiki/Channing_Tatum,Actor,"Thing,Person",1980-04-26,,Male
+37,14,716,2012-02-11,Zooey Deschanel,/wiki/Zooey_Deschanel,Actress,"Person,Thing",1980-01-17,"Pop,folk,jazz",Female
+37,15,717,2012-02-18,Maya Rudolph,/wiki/Maya_Rudolph,Actress,"Thing,Person",1972-07-27,,Female
+37,16,718,2012-03-03,Lindsay Lohan,/wiki/Lindsay_Lohan,Actress,"Thing,Person",1986-07-02,"Pop rock,teen pop,dance",Female
+37,17,719,2012-03-10,Jonah Hill,/wiki/Jonah_Hill,Actor,"Thing,Person",1983-12-20,,Male
+37,18,720,2012-04-07,Sofía Vergara,/wiki/Sof%C3%ADa_Vergara,Actress,"Person,Thing",1972-07-10,,Female
+37,19,721,2012-04-14,Josh Brolin,/wiki/Josh_Brolin,Actor,"Thing,Person",1968-02-12,,Male
+37,20,722,2012-05-05,Eli Manning,/wiki/Eli_Manning,Football quarterback,"Person,Thing",1981-01-03,,Male
+37,21,723,2012-05-12,Will Ferrell,/wiki/Will_Ferrell,Actor,"Thing,Person",1967-07-16,"Improvisational comedy,news satire,political satire,sketch comedy",Male
+37,22,724,2012-05-19,Mick Jagger,/wiki/Mick_Jagger,Singer,"Person,Thing",1943-07-26,"Rock,blues,pop",Male
+38,1,725,2012-09-15,Seth MacFarlane,/wiki/Seth_MacFarlane,Television producer,"Person,Thing",1973-10-26,"Traditional pop,easy listening,jazz,vocal,vocal jazz,show tunes,swing,big band,musical comedy",Male
+38,2,726,2012-09-22,Joseph Gordon-Levitt,/wiki/Joseph_Gordon-Levitt,Actor,"Person,ItemList,Thing",1981-02-17,,Male
+38,3,727,2012-10-06,Daniel Craig,/wiki/Daniel_Craig,Actor,"Thing,Person",1968-03-02,,Male
+38,4,728,2012-10-13,Christina Applegate,/wiki/Christina_Applegate,Actress,"Person,Thing",1971-11-25,,Female
+38,5,729,2012-10-20,Bruno Mars,/wiki/Bruno_Mars,Singer-songwriter,"Person,Thing",1985-10-08,"R&B,funk,pop,soul",Male
+38,6,730,2012-11-03,Louis C.K.,/wiki/Louis_C.K.,Comedian,"Person,Thing",1967-09-12,"Observational comedy,black comedy,blue comedy,insult comedy,cringe comedy,surreal humor,satire,deadpan",Male
+38,7,731,2012-11-10,Anne Hathaway,/wiki/Anne_Hathaway,Actress,"Person,Thing",1982-11-12,,Female
+38,8,732,2012-11-17,Jeremy Renner,/wiki/Jeremy_Renner,Actor,"Thing,Person",1971-01-07,,Male
+38,9,733,2012-12-08,Jamie Foxx,/wiki/Jamie_Foxx,Actor,"Person,Thing",1967-12-13,"R&B,soul,Pop,hip hop,musical comedy",Male
+38,10,734,2012-12-15,Martin Short,/wiki/Martin_Short,Actor,"Thing,Person",1950-03-26,"Improvisational comedy,surreal humour,musical comedy,physical comedy,sketch comedy,character comedy,satire",Male
+38,11,735,2013-01-19,Jennifer Lawrence,/wiki/Jennifer_Lawrence,Actress,"Person,Thing",1990-08-15,,Female
+38,12,736,2013-01-26,Adam Levine,/wiki/Adam_Levine,Singer-songwriter,"Person,Thing",1979-03-18,"Pop rock,alternative rock,neo soul,funk rock,soft rock",Male
+38,13,737,2013-02-09,Justin Bieber,/wiki/Justin_Bieber,Singer-songwriter,"Person,Thing",1994-03-01,"Pop,R&B",Male
+38,14,738,2013-02-16,Christoph Waltz,/wiki/Christoph_Waltz,Actor,"Thing,Person",1956-10-04,,Male
+38,15,739,2013-03-02,Kevin Hart,/wiki/Kevin_Hart,Actor,"Person,Thing",1979-07-06,"Observational comedy,black humor,surreal humor,satire,self-deprecation",Male
+38,16,740,2013-03-09,Justin Timberlake,/wiki/Justin_Timberlake,Singer-songwriter,"Person,Thing",1981-01-31,"Pop,R&B,neo soul",Male
+38,17,741,2013-04-06,Melissa McCarthy,/wiki/Melissa_McCarthy,Actress,"Person,Thing",1970-08-26,,Female
+38,18,742,2013-04-13,Vince Vaughn,/wiki/Vince_Vaughn,Actor,"Person,Thing",1970-03-28,,Male
+38,19,743,2013-05-04,Zach Galifianakis,/wiki/Zach_Galifianakis,Actor,"Thing,Person",1969-10-01,"Alternative comedy,deadpan,surreal humor,observational comedy,black comedy,insult comedy,physical comedy,musical comedy,one-liners",Male
+38,20,744,2013-05-11,Kristen Wiig,/wiki/Kristen_Wiig,Actress,"Thing,Person",1973-08-22,"Satire,political satire,news satire,improvisational comedy,sketch comedy",Female
+38,21,745,2013-05-18,Ben Affleck,/wiki/Ben_Affleck,Actor,"Thing,Person",1972-08-15,,Male
+39,1,746,"September 28, 2013",Tina Fey,/wiki/Tina_Fey,Actress,"Thing,Person",1970-05-18,"Improvisational comedy,news satire,political satire,satire,sketch comedy",Female
+39,2,747,2013-10-05,Miley Cyrus,/wiki/Miley_Cyrus,Singer-songwriter,"Thing,Person",1992-11-23,Pop,Female
+39,3,748,2013-10-12,Bruce Willis,/wiki/Bruce_Willis,Actor,"Thing,Person",1955-03-19,,Male
+39,4,749,2013-10-26,Edward Norton,/wiki/Edward_Norton,Actor,"Person,Thing",1969-08-18,,Male
+39,5,750,2013-11-02,Kerry Washington,/wiki/Kerry_Washington,Actress,"Person,Thing",1977-01-31,,Female
+39,6,751,2013-11-16,Lady Gaga,/wiki/Lady_Gaga,Singer-songwriter,"Thing,Person",1986-03-28,"Electropop,dance-pop",Female
+39,7,752,2013-11-23,Josh Hutcherson,/wiki/Josh_Hutcherson,Actor,"Thing,Person",1992-10-12,,Male
+39,8,753,2013-12-07,Paul Rudd,/wiki/Paul_Rudd,Actor,"Thing,Person",1969-04-06,,Male
+39,9,754,2013-12-14,John Goodman,/wiki/John_Goodman,Actor,"Thing,Person",1952-06-20,,Male
+39,10,755,2013-12-21,Jimmy Fallon,/wiki/Jimmy_Fallon,Comedian,"Thing,Person",1974-09-19,"Sketch comedy,observational comedy,musical comedy,political satire,social satire",Male
+39,11,756,2014-01-18,Drake,/wiki/Drake_(rapper),Rapper,"Person,Thing",1986-10-24,"Hip hop,R&B",Male
+39,12,757,2014-01-25,Jonah Hill,/wiki/Jonah_Hill,Actor,"Thing,Person",1983-12-20,,Male
+39,13,758,2014-02-01,Melissa McCarthy,/wiki/Melissa_McCarthy,Actress,"Person,Thing",1970-08-26,,Female
+39,14,759,2014-03-01,Jim Parsons,/wiki/Jim_Parsons,Actor,"Thing,Person",1973-03-24,,Male
+39,15,760,2014-03-08,Lena Dunham,/wiki/Lena_Dunham,Actress,"Person,Thing",1986-05-13,,Female
+39,16,761,2014-03-29,Louis C.K.,/wiki/Louis_C.K.,Comedian,"Person,Thing",1967-09-12,"Observational comedy,black comedy,blue comedy,insult comedy,cringe comedy,surreal humor,satire,deadpan",Male
+39,17,762,2014-04-05,Anna Kendrick,/wiki/Anna_Kendrick,Actress,"Thing,Person",1985-08-09,,Female
+39,18,763,2014-04-12,Seth Rogen,/wiki/Seth_Rogen,Actor,"Thing,Person",1982-04-15,,Male
+39,19,764,2014-05-03,Andrew Garfield,/wiki/Andrew_Garfield,Actor,"Person,Thing",1983-08-20,,Male
+39,20,765,2014-05-10,Charlize Theron,/wiki/Charlize_Theron,Actress,"Person,Thing",1975-08-07,,Female
+39,21,766,2014-05-17,Andy Samberg,/wiki/Andy_Samberg,Actor,"Thing,Person",1978-08-18,"Improvisational comedy,sketch comedy,physical comedy,anti-humor,musical comedy",Male
+40,1,767,2014-09-27,Chris Pratt,/wiki/Chris_Pratt,Actor,"Thing,Person",1979-06-21,,Male
+40,2,768,2014-10-04,Sarah Silverman,/wiki/Sarah_Silverman,Stand-up comedian,"Person,Thing",1970-12-01,"Blue comedy,black comedy,political satire,insult comedy,musical comedy,character comedy",Female
+40,3,769,2014-10-11,Bill Hader,/wiki/Bill_Hader,Comedian,"Person,Thing",1978-06-07,"Improvisational comedy,character comedy,sketch comedy,satire",Male
+40,4,770,2014-10-25,Jim Carrey,/wiki/Jim_Carrey,Actor,"Person,Thing",1962-01-17,"Observational comedy,physical comedy,surreal humor",Male
+40,5,771,2014-11-01,Chris Rock,/wiki/Chris_Rock,Comedian,"Thing,Person",1965-02-07,"Observational comedy,black comedy,sketch comedy,political satire",Male
+40,6,772,2014-11-15,Woody Harrelson,/wiki/Woody_Harrelson,Actor,"Thing,Person",1961-07-23,,Male
+40,7,773,2014-11-22,Cameron Diaz,/wiki/Cameron_Diaz,Actress,"Thing,Person",1972-08-30,,Female
+40,8,774,2014-12-06,James Franco,/wiki/James_Franco,Actor,"Person,Thing",1978-04-19,,Male
+40,9,775,2014-12-13,Martin Freeman,/wiki/Martin_Freeman,Actor,"Person,Thing",1971-09-08,,Male
+40,10,776,2014-12-20,Amy Adams,/wiki/Amy_Adams,Actress,"Person,Thing",1974-08-20,,Female
+40,11,777,2015-01-17,Kevin Hart,/wiki/Kevin_Hart,Actor,"Person,Thing",1979-07-06,"Observational comedy,black humor,surreal humor,satire,self-deprecation",Male
+40,12,778,2015-01-24,Blake Shelton,/wiki/Blake_Shelton,Singer,"Thing,Person",1976-06-18,"Country,bro-country",Male
+40,13,779,2015-01-31,J. K. Simmons,/wiki/J._K._Simmons,Actor,"Person,Thing",1955-01-09,,Male
+40,14,780,2015-02-28,Dakota Johnson,/wiki/Dakota_Johnson,Actress,"Person,Thing",1989-10-04,,Female
+40,15,781,2015-03-07,Chris Hemsworth,/wiki/Chris_Hemsworth,Actor,"Thing,Person",1983-08-11,,Male
+40,16,782,2015-03-28,Dwayne Johnson,/wiki/Dwayne_Johnson,Actor,"Thing,Person",1972-05-02,,Male
+40,17,783,2015-04-04,Michael Keaton,/wiki/Michael_Keaton,Actor,"Person,Thing",1951-09-05,,Male
+40,18,784,2015-04-11,Taraji P. Henson,/wiki/Taraji_P._Henson,Actress,"Thing,Person",1970-09-11,,Female
+40,19,785,2015-05-02,Scarlett Johansson,/wiki/Scarlett_Johansson,Actress,"Person,Thing",1984-11-22,,Female
+40,20,786,2015-05-09,Reese Witherspoon,/wiki/Reese_Witherspoon,Actress,"Person,Thing",1976-03-22,,Female
+40,21,787,2015-05-16,Louis C.K.,/wiki/Louis_C.K.,Comedian,"Person,Thing",1967-09-12,"Observational comedy,black comedy,blue comedy,insult comedy,cringe comedy,surreal humor,satire,deadpan",Male
+41,1,788,2015-10-03,Miley Cyrus,/wiki/Miley_Cyrus,Singer-songwriter,"Thing,Person",1992-11-23,Pop,Female
+41,2,789,2015-10-10,Amy Schumer,/wiki/Amy_Schumer,Stand-up comedian,"Thing,Person",1981-06-01,"Observational comedy,blue comedy,sketch comedy,insult comedy",Female
+41,3,790,2015-10-17,Tracy Morgan,/wiki/Tracy_Morgan,Actor,"Person,Thing",1968-11-10,"Musical comedy,cringe comedy,character comedy",Male
+41,4,791,2015-11-07,Donald Trump,/wiki/Donald_Trump,45th U.S. President,"Person,Thing",1946-06-14,,Male
+41,5,792,2015-11-14,Elizabeth Banks,/wiki/Elizabeth_Banks,Actress,"Person,Thing",1974-02-10,,Female
+41,6,793,2015-11-21,Matthew McConaughey,/wiki/Matthew_McConaughey,Actor,"Thing,Person",1969-11-04,,Male
+41,7,794,2015-12-05,Ryan Gosling,/wiki/Ryan_Gosling,Actor,"Thing,Person",1980-11-12,"Indie rock,folk rock",Male
+41,8,795,2015-12-12,Chris Hemsworth,/wiki/Chris_Hemsworth,Actor,"Thing,Person",1983-08-11,,Male
+41,9,796,2015-12-19,Tina Fey,/wiki/Tina_Fey,Actress,"Thing,Person",1970-05-18,"Improvisational comedy,news satire,political satire,satire,sketch comedy",Female
+41,9,796,2015-12-19,Amy Poehler,/wiki/Amy_Poehler,Actress,"Person,Thing",1971-09-16,"Improvisational comedy,news satire,political satire,satire,sketch comedy",Female
+41,10,797,2016-01-16,Adam Driver,/wiki/Adam_Driver,Actor,"Person,Thing",1983-11-19,,Male
+41,11,798,2016-01-23,Ronda Rousey,/wiki/Ronda_Rousey,Mixed martial artist,"Thing,Person",1987-02-01,,Female
+41,12,799,2016-02-06,Larry David,/wiki/Larry_David,Comedian,"Person,Thing",1947-07-02,"Observational comedy,improvisational comedy,black comedy,blue comedy,political satire,deadpan",Male
+41,13,800,2016-02-13,Melissa McCarthy,/wiki/Melissa_McCarthy,Actress,"Person,Thing",1970-08-26,,Female
+41,14,801,2016-03-05,Jonah Hill,/wiki/Jonah_Hill,Actor,"Thing,Person",1983-12-20,,Male
+41,15,802,2016-03-12,Ariana Grande,/wiki/Ariana_Grande,Singer,"Thing,Person",1993-06-26,"Pop,R&B",Female
+41,16,803,2016-04-02,Peter Dinklage,/wiki/Peter_Dinklage,Actor,"Person,Thing",1969-06-11,,Male
+41,17,804,2016-04-09,Russell Crowe,/wiki/Russell_Crowe,Actor,"Person,Thing",1964-04-07,,Male
+41,18,805,2016-04-16,Julia Louis-Dreyfus,/wiki/Julia_Louis-Dreyfus,Actress,"Person,Thing",1961-01-13,,Female
+41,19,806,2016-05-07,Brie Larson,/wiki/Brie_Larson,Actress,"Thing,Person",1989-10-01,"Pop,pop rock",Female
+41,20,807,2016-05-14,Drake,/wiki/Drake_(rapper),Rapper,"Person,Thing",1986-10-24,"Hip hop,R&B",Male
+41,21,808,2016-05-21,Fred Armisen,/wiki/Fred_Armisen,Actor,"Person,Thing",1966-12-04,"Character comedy,sketch comedy",Male
+42,1,809,2016-10-01,Margot Robbie,/wiki/Margot_Robbie,Actress,"Person,Thing",1990-07-02,,Female
+42,2,810,2016-10-08,Lin-Manuel Miranda,/wiki/Lin-Manuel_Miranda,Actor,"Thing,Person",1980-01-16,,Male
+42,3,811,2016-10-15,Emily Blunt,/wiki/Emily_Blunt,Film actress,"Thing,Person",1983-02-23,,Female
+42,4,812,2016-10-22,Tom Hanks,/wiki/Tom_Hanks,Actor,"Thing,Person",1956-07-09,,Male
+42,5,813,2016-11-05,Benedict Cumberbatch,/wiki/Benedict_Cumberbatch,Actor,"Person,Thing",1976-07-19,,Male
+42,6,814,2016-11-12,Dave Chappelle,/wiki/Dave_Chappelle,Comedian,"Person,Thing",1973-08-24,"Satire,political satire,improvisational comedy,character comedy,observational comedy,surreal humor,sketch comedy,black comedy,blue comedy",Male
+42,7,815,2016-11-19,Kristen Wiig,/wiki/Kristen_Wiig,Actress,"Thing,Person",1973-08-22,"Satire,political satire,news satire,improvisational comedy,sketch comedy",Female
+42,8,816,2016-12-03,Emma Stone,/wiki/Emma_Stone,Actress,"Thing,Person",1988-11-06,,Female
+42,9,817,2016-12-10,John Cena,/wiki/John_Cena,Professional wrestler,"Thing,Person",1977-04-23,,Male
+42,10,818,2016-12-17,Casey Affleck,/wiki/Casey_Affleck,Actor,"Thing,Person",1975-08-12,,Male
+42,11,819,2017-01-14,Felicity Jones,/wiki/Felicity_Jones,Actress,"Person,Thing",1983-10-17,,Female
+42,12,820,2017-01-21,Aziz Ansari,/wiki/Aziz_Ansari,Actor,"Person,Thing",1983-02-23,"Observational comedy,Improvisational comedy,Self-deprecation",Male
+42,13,821,2017-02-04,Kristen Stewart,/wiki/Kristen_Stewart,Actress,"Person,Thing",1990-04-09,,Female
+42,14,822,2017-02-11,Alec Baldwin,/wiki/Alec_Baldwin,Actor,"Thing,Person",1958-04-03,,Male
+42,15,823,2017-03-04,Octavia Spencer,/wiki/Octavia_Spencer,Actress,"Person,Thing",1972-05-25,,Female
+42,16,824,2017-03-11,Scarlett Johansson,/wiki/Scarlett_Johansson,Actress,"Person,Thing",1984-11-22,,Female
+42,17,825,2017-04-08,Louis C.K.,/wiki/Louis_C.K.,Comedian,"Person,Thing",1967-09-12,"Observational comedy,black comedy,blue comedy,insult comedy,cringe comedy,surreal humor,satire,deadpan",Male
+42,18,826,2017-04-15,Jimmy Fallon,/wiki/Jimmy_Fallon,Comedian,"Thing,Person",1974-09-19,"Sketch comedy,observational comedy,musical comedy,political satire,social satire",Male
+42,19,827,2017-05-06,Chris Pine,/wiki/Chris_Pine,Actor,"Thing,Person",1980-08-26,,Male
+42,20,828,2017-05-13,Melissa McCarthy,/wiki/Melissa_McCarthy,Actress,"Person,Thing",1970-08-26,,Female
+42,21,829,2017-05-20,Dwayne Johnson,/wiki/Dwayne_Johnson,Actor,"Thing,Person",1972-05-02,,Male

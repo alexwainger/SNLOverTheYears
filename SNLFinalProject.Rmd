@@ -1,0 +1,119 @@
+---
+output: html_notebook
+---
+![](coverImage/snl.001.jpeg)
+
+## 1. Introduction
+Since its inception in 1975, Saturday Night Live (SNL) has encapsulated the state of pop-culture in that moment. From Eddie Murphy and Will Ferrell launching their careers in the 80's and 90's to Tina Fey, Alec Baldwin and Melissa McCarthy unleasing iconic impressions, SNL's time on-air has spanned 5 decades and is a treasure trove for analysis. Each episode features a guest host (usually a comic or actor) and a musical guest that performs at the end of the episode. Inspired by a [FiveThirtyEight article](https://fivethirtyeight.com/datalab/every-guest-jon-stewart-ever-had-on-the-daily-show/) on Jon Stewart's guests over the years, I wanted to take a closer look at who has been featured on SNL over the last 40+ years, and how the makeup of the guests have changed over time. 
+<br>
+
+Like they did at FiveThirtyEight, I scraped [3](https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_episodes_(seasons_1%E2%80%9315)#Episodes) [Wikipedia](https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_episodes_(seasons_16%E2%80%9330)#Episodes) [articles](https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_episodes) to get a listing of the name, date, season, and episode number of every host and musical guest SNL has ever had. I then used Google's Knowledge Graph API to get a one-word description of what each person or group does. The Wikipedia tables of hosts and musical guests also had links to the person or group's own Wikipedia page, so I also went to each of those and scraped birthdays, genres and genders, when applicable (i.e. bands don't have birthdays or genders and politicians don't have genres). The data, as well as the scraper programs can be found in the [github repo](google.com).
+
+
+## 2. Team
+
+
+## 3. Analysis of Data Quality
+
+
+## 4. Executive Summary
+
+
+## 5. Main Analysis
+
+
+## 6. Conclusion
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+hosts = read.csv("data/hosts3.csv")
+musical_guests = read.csv("data/musical_guests3.csv")
+```
+
+```{r}
+hosts$year <- strtoi(format(as.Date(hosts$date, format='%Y-%m-%d'), '%Y'))
+hosts$decade <- floor(hosts$year / 10) * 10
+hosts_with_gender <- hosts %>% filter(gender != "")
+hosts_gender_percents_decade <- hosts_with_gender %>% group_by(decade) %>% 
+  summarise(male = sum(ifelse(gender=='Male',1,0)) / n(), female=sum(ifelse(gender=='Female',1,0)) / n())
+hosts_gender_percents_season <- hosts_with_gender %>% group_by(season) %>%
+  summarise(male = sum(ifelse(gender=='Male',1,0)) / n(), female=sum(ifelse(gender=='Female',1,0)) / n())
+ggplot() + geom_col(data = hosts_gender_percents_decade, aes(x=decade, y=female), fill='#440154FF')
+ggplot(data = hosts_gender_percents_season, aes(x=season, y=female)) + geom_point(color='#440154FF') + geom_smooth(method = "lm", color='#FDE725FF') +
+  annotate("text", x=6.5, y=.5, label="Jean Doumanian's season", hjust=0) +
+  annotate("text", x=34, y=.138, label="Tina Fey as Sarah Palin", hjust=1.05)
+```
+A few seasons standout as particularly interesting. Season 6, an outlier of its time, was produced by a woman, leading to more women. Season 34 was an outlier on the opposite end. That year was the 2008 election, when Tina Fey killed it as Sarah Palin. Perhaps Fey's dominating presence on the show led to more male-heavy hosting.
+
+```{r}
+birthdays <- as.POSIXct(hosts$bday, format='%Y-%m-%d')
+show_dates <- as.POSIXct(hosts$date, format='%Y-%m-%d')
+hosts$ages <- difftime(show_dates,birthdays,units="days") / 365
+ggplot(data = hosts, aes(x=ages)) +
+  geom_density(data=hosts %>% filter(gender == "Female"), fill="#440154FF", alpha=.5) +
+  geom_density(data=hosts %>% filter(gender == "Male"), fill="#FDE725FF", alpha=.5)
+```
+
+```{r}
+ggplot(hosts %>% filter(gender != "" & !is.na(ages)), aes(x=factor(decade), y=ages, fill=factor(gender))) + 
+  geom_boxplot(notch = TRUE) + scale_fill_viridis(discrete = TRUE) +
+  annotate("text", x=factor(2010), y=88.5, label="Betty White (88)", hjust=1.25) +
+  annotate("text", x=factor(1990), y=7.8, label="Drew Barrymore (7)", hjust=.85) +
+  annotate("text", x=factor(1980), y=80.5, label="Miskel Spillman (80)", hjust=.85)
+#hosts %>% filter(ages > 80 | ages < 15) %>% select(name, ages, season, epnum)
+
+```
+
+```{r}
+musical_guests$year <- strtoi(format(as.Date(musical_guests$date, format='%Y-%m-%d'), '%Y'))
+musical_guests$decade <- floor(musical_guests$year / 10) * 10
+musical_guests$bins <- cut(musical_guests$year, breaks=seq(1974,2020,4))
+musician_types_decade <- musical_guests %>% group_by(decade) %>%
+  summarise(Individual = sum(ifelse(types=='Person',1,0)) / n(),
+            Band=sum(ifelse(types=='MusicGroup',1,0)) / n())
+
+musician_types_year <- musical_guests %>% group_by(year) %>%
+  summarise(Individual = sum(ifelse(types=='Person',1,0)) / n(),
+            Band=sum(ifelse(types=='MusicGroup',1,0)) / n())
+
+ggplot(musician_types_year,aes(x=year, y=Band)) + geom_col(alpha=.5, fill='#440154FF') +
+  geom_point(data=musician_types_decade, aes(x=decade + 5, y=Band), color='#FDE725FF', size=2)
+
+```
+
+
+```{r}
+library(viridis)
+
+unnested_genres <- musical_guests %>% mutate(genres = strsplit(as.character(genres), ",")) %>%
+  unnest(genres)
+top_genres <- unnested_genres %>% group_by(genres) %>% summarise(Freq = n()) %>% filter(Freq > 75) %>% select(genres)
+
+top_unnested_genres <- unnested_genres %>% filter(genres %in% top_genres$genres)
+tab <- table(top_unnested_genres$decade, top_unnested_genres$genres)
+genre_decade_frequency <- data.frame(tab / rowSums(tab))
+
+ggplot(genre_decade_frequency) + geom_area(aes(x=Var1, y=Freq, group=Var2, fill=Var2)) + scale_fill_viridis(discrete = TRUE)
+
+```
+
+```{r}
+library(vcd)
+library(ggmosaic)
+tab2 <- table(top_unnested_genres$types, top_unnested_genres$genres)
+genre_type_frequency <- data.frame(tab2 / rowSums(tab2))
+x <- genre_type_frequency$Var1
+levels(x)[levels(x)=="Person"] <- "Individual"
+levels(x)[levels(x)=="MusicGroup"] <- "Band"
+genre_type_frequency$Var1 <- x
+
+ggplot(data=genre_type_frequency) + geom_mosaic(aes(weight=Freq, x=product(Var2), fill=Var1)) + 
+  guides(fill=guide_legend(title = "Musical Guest Type", reverse = TRUE)) +
+  theme(axis.text.y=element_blank(),
+        axis.ticks.y=element_blank()) + 
+  scale_fill_viridis(discrete = TRUE)
+```
+

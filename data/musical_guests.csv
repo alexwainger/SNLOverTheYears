@@ -1,0 +1,907 @@
+season,epnumInSeason,epnum,date,name,wikilink,description,types,bday,genres,gender
+1,1,1,1975-10-11,Billy Preston,/wiki/Billy_Preston,Musician,"Thing,Person",1946-09-02,"R&B,rock,soul,funk,gospel",Male
+1,1,1,1975-10-11,Janis Ian,/wiki/Janis_Ian,Singer-songwriter,"Person,Thing",1951-04-07,Folk,Female
+1,2,2,1975-10-18,Randy Newman,/wiki/Randy_Newman,Singer-songwriter,"Thing,Person",1943-11-28,"Rock,pop",Male
+1,2,2,1975-10-18,Phoebe Snow,/wiki/Phoebe_Snow_(singer),Singer-songwriter,"Thing,Person",1950-07-17,"Folk,blues,gospel,jazz,pop,rock,rock and roll,soft rock,soul,adult contemporary",Female
+1,2,2,1975-10-18,Art Garfunkel,/wiki/Art_Garfunkel,Singer,"Thing,Person",1941-11-05,"Folk,rock,pop",Male
+1,2,2,1975-10-18,Jessy Dixon Singers,/wiki/Jessy_Dixon_Singers,Singer-songwriter,"Person,Thing",1938-03-12,"Gospel,Christian,R&B",Male
+1,4,4,1975-11-08,Esther Phillips,/wiki/Esther_Phillips,Singer,"Thing,Person",1935-12-23,"R&B,blues,pop,country,jazz,soul",Female
+1,5,5,1975-11-15,ABBA,/wiki/ABBA,Pop group,"MusicGroup,Thing",,"Pop,europop,disco,pop rock",
+1,5,5,1975-11-15,Loudon Wainwright III,/wiki/Loudon_Wainwright_III,Songwriter,"Person,Thing",1946-09-05,"Folk,rock,blues,comedy",Male
+1,6,6,1975-11-22,Howard Shore & the All Nurse Band,/wiki/Howard_Shore,Composer,"Person,Thing",1946-10-18,,Male
+1,7,7,1975-12-13,Gil Scott-Heron,/wiki/Gil_Scott-Heron,Poet,"Thing,Person",1949-04-01,"Soul,jazz poetry,jazz,blues,jazz-funk,proto-rap",Male
+1,8,8,1975-12-20,Martha Reeves,/wiki/Martha_Reeves,Vocal group,"MusicGroup,Thing",1941-07-18,"Pop,R&B,rock and roll,soul",
+1,8,8,1975-12-20,The Stylistics,/wiki/The_Stylistics,Musical Group,"Thing,MusicGroup",,"R&B,soul",
+1,9,9,1976-01-10,Anne Murray,/wiki/Anne_Murray,Singer,"Person,Thing",1945-06-20,"Country,pop,adult contemporary,soft rock",Female
+1,10,10,1976-01-17,Bill Withers,/wiki/Bill_Withers,Singer-songwriter,"Person,Thing",1938-07-04,"Soul,R&B,smooth soul,blues,funk",Male
+1,10,10,1976-01-17,Toni Basil,/wiki/Toni_Basil,Singer,"Person,Thing",1943-09-22,"Pop,new wave",Female
+1,11,11,1976-01-24,Neil Sedaka,/wiki/Neil_Sedaka,Singer,"Person,Thing",1939-03-13,"Pop,Brill Building",Male
+1,12,12,1976-01-31,Jimmy Cliff,/wiki/Jimmy_Cliff,Musician,"Person,Thing",1948-04-01,"Ska,reggae",Male
+1,13,13,1976-02-14,Al Jarreau,/wiki/Al_Jarreau,Singer,"Thing,Person",1940-03-12,"Jazz,R&B,Soul",Male
+1,14,14,1976-02-21,Desi Arnaz,/wiki/Desi_Arnaz,Musician,"Person,Thing",1917-03-02,,Male
+1,14,14,1976-02-21,"Desi Arnaz, Jr.","/wiki/Desi_Arnaz,_Jr.",Actor,"Person,Thing",1953-01-19,,Male
+1,15,15,1976-02-28,Leon Redbone,/wiki/Leon_Redbone,Singer,"Person,Thing",1949-08-26,"Vaudevillian,ragtime,jazz,blues",Male
+1,15,15,1976-02-28,The Idlers,/wiki/The_Idlers,Musical ensemble,"Thing,MusicGroup",,,
+1,16,16,1976-03-13,Betty Carter,/wiki/Betty_Carter,Singer,"Person,Thing",1929-05-16,"Jazz,post-bop",Female
+1,17,17,1976-04-17,Patti Smith,/wiki/Patti_Smith,Singer-songwriter,"Thing,Person",1946-12-30,"Punk rock,art punk,proto-punk,art rock",Female
+1,18,18,1976-04-24,Phoebe Snow,/wiki/Phoebe_Snow_(singer),Singer-songwriter,"Thing,Person",1950-07-17,"Folk,blues,gospel,jazz,pop,rock,rock and roll,soft rock,soul,adult contemporary",Female
+1,18,18,1976-04-24,John Sebastian,/wiki/John_Sebastian,Singer-songwriter,"Person,Thing",1944-03-17,"folk,blues",Male
+1,19,19,1976-05-08,Carly Simon,/wiki/Carly_Simon,Singer-songwriter,"Person,Thing",1945-06-25,"Pop rock,soft rock,folk",Female
+1,20,20,1976-05-15,Leon and Mary Russell,/wiki/Leon_and_Mary_Russell,Musician,"Person,Thing",1942-04-02,"Country,rock,folk,rhythm and blues,folk rock,blues rock",Male
+1,21,21,1976-05-22,Gordon Lightfoot,/wiki/Gordon_Lightfoot,Singer-songwriter,"Thing,Person",1938-11-17,"Folk,folk rock,country",Male
+1,21,21,1976-05-22,Garrett Morris,/wiki/Garrett_Morris,Comedian,"Person,Thing",1937-02-01,,Male
+1,22,22,1976-05-29,Leon Redbone,/wiki/Leon_Redbone,Singer,"Person,Thing",1949-08-26,"Vaudevillian,ragtime,jazz,blues",Male
+1,22,22,1976-05-29,Harlan Collins,/wiki/Harlan_Collins,Composer,"Person,Thing",,,Male
+1,23,23,1976-07-24,Preservation Hall Jazz Band,/wiki/Preservation_Hall_Jazz_Band,Band,"Thing,MusicGroup",,Jazz,
+1,24,24,1976-07-31,Rita Coolidge,/wiki/Rita_Coolidge,Songwriter,"Thing,Person",1945-05-01,"Pop,adult contemporary,country,Native American,soft rock",Female
+2,1,25,1976-09-18,James Taylor,/wiki/James_Taylor,Singer-songwriter,"Person,Thing",1948-03-12,"Folk rock,rock,pop,soft rock,blues,country",Male
+2,2,26,1976-09-25,Boz Scaggs,/wiki/Boz_Scaggs,Singer,"Person,Thing",1944-06-08,"Blue-eyed soul,rock,blues rock,soft rock,jazz rock",Male
+2,3,27,1976-10-02,Joe Cocker,/wiki/Joe_Cocker,Singer,"Person,Thing",1944-05-20,"Rock,blues,soul,pop",Male
+2,3,27,1976-10-02,Stuff,/wiki/Stuff_(band),Video game,"VideoGame,Thing",,Jazz-funk,
+2,4,28,1976-10-16,John Prine,/wiki/John_Prine,Singer-songwriter,"Person,Thing",1946-10-10,"Country,Folk,Progressive bluegrass,Americana",Male
+2,5,29,1976-10-23,Kinky Friedman,/wiki/Kinky_Friedman,Singer,"Thing,Person",1944-11-01,,Male
+2,6,30,1976-10-30,The Band,/wiki/The_Band,Rock band,"MusicGroup,Thing",1968,"Roots rock,Americana,folk rock,country rock",
+2,7,31,1976-11-13,Ry Cooder,/wiki/Ry_Cooder,Musician,"Thing,Person",1947-03-15,"Americana,roots rock,folk,blues,Tex-Mex,country,gospel,world music",Male
+2,8,32,1976-11-20,George Harrison,/wiki/George_Harrison,Guitarist,"Thing,Person",1943-02-25,"Rock,pop,Indian classical,experimental",Male
+2,9,33,1976-11-27,Brian Wilson,/wiki/Brian_Wilson,Musician,"Person,Thing",1942-06-20,"Rock,pop,art rock,avant-pop,outsider",Male
+2,10,34,1976-12-11,Frank Zappa,/wiki/Frank_Zappa,Musician,"Person,Thing",1940-12-21,"Rock,experimental,jazz,classical,pop,avant-garde",Male
+2,10,34,1976-12-11,Don Pardo,/wiki/Don_Pardo,Announcer,"Thing,Person",1918-02-22,,Male
+2,11,35,1977-01-15,George Benson,/wiki/George_Benson,Musician,"Person,Thing",1943-03-22,"Jazz,R&B,Soul,Funk",Male
+2,12,36,1977-01-22,Chuck Berry,/wiki/Chuck_Berry,Guitarist,"Thing,Person",1926-10-18,Rock and roll,Male
+2,13,37,1977-01-29,Leo Sayer,/wiki/Leo_Sayer,Singer-songwriter,"Thing,Person",1948-05-21,"Soft rock,disco",Male
+2,14,38,1977-02-26,The Kinks,/wiki/The_Kinks,Rock band,"MusicGroup,Thing",,"Rock,pop",
+2,15,39,1977-03-12,Richard Baskin,/wiki/Richard_Baskin,Film composer,"Thing,Person",1948-12-01,,Male
+2,16,40,1977-03-19,Levon Helm,/wiki/Levon_Helm,Musician,"Person,Thing",1940-05-26,"Rock,Americana",Male
+2,16,40,1977-03-19,Dr. John,/wiki/Dr._John,Singer-songwriter,"Thing,Person",1940-11-21,"Jazz,blues,rock,boogie woogie,zydeco",Male
+2,16,40,1977-03-19,The Meters,/wiki/The_Meters,Band,"MusicGroup,Thing",,"New Orleans R&B,funk",
+2,17,41,1977-03-26,Santana,/wiki/Santana_(band),Rock band,"MusicGroup,Thing",,"Latin rock,blues rock,psychedelic rock,acid rock,Chicano rock",
+2,18,42,1977-04-09,Tom Waits,/wiki/Tom_Waits,Singer-songwriter,"Person,Thing",1949-12-07,"Rock,experimental",Male
+2,18,42,1977-04-09,Brick,/wiki/Brick_(band),Retail company,"Corporation,Organization,Thing",,"Funk,R&B,disco",
+2,19,43,1977-04-16,McGarrigle Sisters,/wiki/Kate_and_Anna_McGarrigle,Singer,Thing,,Folk rock,
+2,19,43,1977-04-16,Roslyn Kind,/wiki/Roslyn_Kind,Actress,"Person,Thing",1951-01-09,,Female
+2,20,44,1977-04-23,Alan Price,/wiki/Alan_Price,Musician,"Thing,Person",1942-04-19,"Rock,blues rock,psychedelic rock,pop",Male
+2,20,44,1977-04-23,Neil Innes,/wiki/Neil_Innes,Writer,"Person,Thing",1944-12-09,"Parody,comedy rock",Male
+2,21,45,1977-05-14,Joan Armatrading,/wiki/Joan_Armatrading,Singer-songwriter,"Person,Thing",1950-12-09,"Rock,pop,folk rock,blues",Female
+2,22,46,1977-05-21,Jennifer Warnes,/wiki/Jennifer_Warnes,Singer,"Thing,Person",1947-03-03,"Country rock,pop",Female
+2,22,46,1977-05-21,Kenny Vance,/wiki/Kenny_Vance,Singer,"Person,Thing",,,Male
+3,1,47,1977-09-24,Jackson Browne,/wiki/Jackson_Browne,Singer-songwriter,"Thing,Person",1948-10-09,"Rock,folk,country rock,soft rock",Male
+3,2,48,1977-10-08,Taj Mahal,/wiki/Taj_Mahal_(musician),Mausoleum,"CivicStructure,Thing,Place,LandmarksOrHistoricalBuildings,Cemetery,TouristAttraction",1942-05-17,"Blues,blues rock,R&B,reggae,jazz,country blues,world music",
+3,3,49,1977-10-15,Libby Titus,/wiki/Libby_Titus,Singer,"Thing,Person",,,Female
+3,4,50,1977-10-29,Paul Simon,/wiki/Paul_Simon,Musician,"Person,Thing",1941-10-13,"Folk,rock,pop,world",Male
+3,5,51,1977-11-12,Ray Charles,/wiki/Ray_Charles,Singer-songwriter,"Thing,Person",1930-09-23,"R&B,soul,blues,gospel,country,jazz,pop,rock and roll",Male
+3,6,52,1977-11-19,Leon Redbone,/wiki/Leon_Redbone,Singer,"Person,Thing",1949-08-26,"Vaudevillian,ragtime,jazz,blues",Male
+3,7,53,1977-12-10,Willie Nelson,/wiki/Willie_Nelson,Musician,"Thing,Person",1933-04-29,"Country,outlaw country,rock",Male
+3,8,54,1977-12-17,Elvis Costello,/wiki/Elvis_Costello,Musician,"Person,Thing",1954-08-25,"New wave,punk rock,pub rock",Male
+3,9,55,1978-01-21,Randy Newman,/wiki/Randy_Newman,Singer-songwriter,"Thing,Person",1943-11-28,"Rock,pop",Male
+3,9,55,1978-01-21,The Nitty Gritty Dirt Band,/wiki/The_Nitty_Gritty_Dirt_Band,Rock band,"Thing,MusicGroup",,"Folk,country,folk rock,bluegrass",
+3,10,56,1978-01-28,Bonnie Raitt,/wiki/Bonnie_Raitt,Singer-songwriter,"Thing,Person",1949-11-08,"Blues,blue-eyed soul,blues rock,roots rock,Americana",Female
+3,11,57,1978-02-18,Billy Joel,/wiki/Billy_Joel,Singer-songwriter,"Thing,Person",1949-05-09,"Rock,soft rock,piano rock,pop",Male
+3,12,58,1978-02-25,Ashford and Simpson,/wiki/Ashford_and_Simpson,Songwriter,"Thing,MusicGroup",,"R&B,soul,funk,disco,gospel",
+3,13,59,1978-03-11,Stephen Bishop,/wiki/Stephen_Bishop_(musician),Singer-songwriter,"Thing,Person",1951-11-14,"Blues rock,pop rock,soft rock",Male
+3,14,60,1978-03-18,Eddie Money,/wiki/Eddie_Money,Singer-songwriter,"Thing,Person",1949-03-21,"Rock,pop rock,hard rock",Male
+3,15,61,1978-03-25,Meat Loaf,/wiki/Meat_Loaf,Musician,"Thing,Person",1947-09-27,"Rock,hard rock,heavy metal,progressive rock,Wagnerian rock",Male
+3,16,62,1978-04-08,Eugene Record,/wiki/Eugene_Record,Vocalist,"Person,Thing",,,Male
+3,17,63,1978-04-15,Keith Jarrett,/wiki/Keith_Jarrett,Jazz pianist,"Person,Thing",1945-05-08,"Jazz,classical,jazz fusion,free improvisation",Male
+3,18,64,1978-04-22,The Blues Brothers,/wiki/The_Blues_Brothers,Band,"MusicGroup,Thing",,"Blues,rhythm and blues",
+3,19,65,1978-05-13,Jimmy Buffett,/wiki/Jimmy_Buffett,Musician,"Person,Thing",1946-12-25,"country,country pop,folk,easy listening,rock",Male
+3,20,66,1978-05-20,Sun Ra,/wiki/Sun_Ra,Composer,"Thing,Person",1914-05-22,"Avant-garde jazz,free jazz,jazz fusion,experimental,bebop,space music",Male
+4,1,67,1978-10-07,The Rolling Stones,/wiki/The_Rolling_Stones,Rock band,"MusicGroup,Thing",,"Rock,blues",
+4,2,68,1978-10-14,Devo,/wiki/Devo,Rock band,"MusicGroup,Thing",,"New wave,synth-pop,art punk,post-punk,art pop,electronic rock,industrial,neo-psychedelia",
+4,3,69,1978-10-21,Frank Zappa,/wiki/Frank_Zappa,Musician,"Person,Thing",1940-12-21,"Rock,experimental,jazz,classical,pop,avant-garde",Male
+4,4,70,1978-11-04,Van Morrison,/wiki/Van_Morrison,Singer-songwriter,"Thing,Person",1945-08-31,"Rock,rhythm and blues,folk,blues,soul,celtic,jazz,country,gospel",Male
+4,5,71,1978-11-11,Grateful Dead,/wiki/Grateful_Dead,Rock band,"MusicGroup,Thing",,Rock,
+4,6,72,1978-11-18,The Blues Brothers,/wiki/The_Blues_Brothers,Band,"MusicGroup,Thing",,"Blues,rhythm and blues",
+4,8,74,1978-12-09,Kate Bush,/wiki/Kate_Bush,Singer-songwriter,"Thing,Person",1958-07-30,"Art rock,art pop,avant-pop,pop rock,experimental pop,baroque pop",Female
+4,9,75,1978-12-16,Peter Tosh,/wiki/Peter_Tosh,Musician,"Person,Thing",1944-10-19,"Reggae,ska,rocksteady,R&B",Male
+4,9,75,1978-12-16,Mick Jagger,/wiki/Mick_Jagger,Singer,"Person,Thing",1943-07-26,"Rock,blues,pop",Male
+4,10,76,1979-01-27,The Doobie Brothers,/wiki/The_Doobie_Brothers,Rock band,"MusicGroup,Thing",1970,"Rock,soft rock,pop,blue-eyed soul",
+4,11,77,1979-02-10,Talking Heads,/wiki/Talking_Heads,Rock band,"MusicGroup,Thing",,"New wave,post-punk,art pop,avant-funk,worldbeat,art punk",
+4,12,78,1979-02-17,Judy Collins,/wiki/Judy_Collins,Singer,"Person,Thing",1939-05-01,"Folk,country,rock and roll,pop",Female
+4,13,79,1979-02-24,Delbert McClinton,/wiki/Delbert_McClinton,Singer-songwriter,"Thing,Person",1940-11-04,"Americana,blues rock,electric blues,roots rock,country",Male
+4,14,80,1979-03-10,Eubie Blake,/wiki/Eubie_Blake,Composer,"Person,Thing",1887-02-07,"Jazz,popular,ragtime",Male
+4,14,80,1979-03-10,Gregory Hines,/wiki/Gregory_Hines,Dancer,"Thing,Person",1946-02-14,,Male
+4,14,80,1979-03-10,Gary Busey,/wiki/Gary_Busey,Actor,"Person,Thing",1944-06-29,,Male
+4,14,80,1979-03-10,Rick Danko,/wiki/Rick_Danko,Musician,"Person,Thing",1943-12-29,"Rock,americana",Male
+4,14,80,1979-03-10,Paul Butterfield,/wiki/Paul_Butterfield,Singer,"Thing,Person",1942-12-17,"Blues rock,Chicago blues,blue-eyed soul",Male
+4,15,81,1979-03-17,The Chieftains,/wiki/The_Chieftains,Band,"MusicGroup,Thing",,"Traditional Irish,Irish folk,Celtic",
+4,16,82,1979-04-07,Rickie Lee Jones,/wiki/Rickie_Lee_Jones,Vocalist,"Thing,Person",1954-11-08,"Rock,jazz,R&B,pop",Female
+4,17,83,1979-04-14,Ornette Coleman,/wiki/Ornette_Coleman,Saxophonist,"Person,Thing",1930-03-09,"Avant-garde jazz,free jazz,jazz-fusion,free funk",Male
+4,18,84,1979-05-12,James Taylor,/wiki/James_Taylor,Singer-songwriter,"Person,Thing",1948-03-12,"Folk rock,rock,pop,soft rock,blues,country",Male
+4,19,85,1979-05-19,Linda Ronstadt,/wiki/Linda_Ronstadt,Singer,"Thing,Person",1946-07-15,"Rock,rock and roll,folk,country rock,soft rock,jazz,big band,art rock,Latin",Female
+4,19,85,1979-05-19,Phoebe Snow,/wiki/Phoebe_Snow_(singer),Singer-songwriter,"Thing,Person",1950-07-17,"Folk,blues,gospel,jazz,pop,rock,rock and roll,soft rock,soul,adult contemporary",Female
+4,20,86,1979-05-26,Bette Midler,/wiki/Bette_Midler,Singer-songwriter,"Thing,Person",1945-12-01,"Traditional pop,vocal,pop,musical comedy",Female
+5,1,87,1979-10-13,Blondie,/wiki/Blondie_(band),Comic Strip,Thing,,"New wave,pop rock",
+5,2,88,1979-10-20,Bob Dylan,/wiki/Bob_Dylan,Songwriter,"Thing,Person",1941-05-24,"Folk,blues,rock,country,gospel,Great American Songbook",Male
+5,3,89,1979-11-03,Chicago,/wiki/Chicago_(band),City in Illinois,"Thing,AdministrativeArea,Place,City",,"Rock,soft rock,jazz rock",
+5,4,90,1979-11-10,Tom Petty and the Heartbreakers,/wiki/Tom_Petty_and_the_Heartbreakers,Rock band,"MusicGroup,Thing",,"Rock,heartland rock,blues rock,hard rock",
+5,5,91,1979-11-17,The Roches,/wiki/The_Roches,Vocal group,"MusicGroup,Thing",1979-11-17,"Folk rock,Folk",
+5,6,92,1979-12-08,Randy Newman,/wiki/Randy_Newman,Singer-songwriter,"Thing,Person",1943-11-28,"Rock,pop",Male
+5,7,93,1979-12-15,David Bowie,/wiki/David_Bowie,Singer-songwriter,"Thing,Person",1947-01-08,"Art rock,glam rock,pop,electronic,experimental",Male
+5,8,94,1979-12-22,Desmond Child & Rouge,/wiki/Desmond_Child,Musician,"Thing,Person",1953-10-28,"Pop rock,adult contemporary,hard rock,glam metal,disco,latin pop",Male
+5,9,95,1980-01-26,The B-52's,/wiki/The_B-52%27s,Band,"MusicGroup,Thing",,"New wave,dance-rock,art pop",
+5,10,96,1980-02-09,Marianne Faithfull,/wiki/Marianne_Faithfull,Singer,"Thing,Person",1946-12-29,"Rock,folk,alternative,blues,jazz",Female
+5,10,96,1980-02-09,Tom Scott,/wiki/Tom_Scott_(musician),Saxophonist,"Person,Thing",1948-05-19,"Jazz,blues,R&B,rock,pop",Male
+5,11,97,1980-02-16,Gary Numan,/wiki/Gary_Numan,Singer-songwriter,"Person,Thing",1958-03-08,"New wave,synthpop,post-punk,electronic,industrial rock,gothic rock",Male
+5,12,98,1980-02-23,Sam & Dave,/wiki/Sam_%26_Dave,R&amp;B duo,"MusicGroup,Thing",,"Soul,R&B,Southern soul,Rock and roll",
+5,13,99,1980-03-08,The J. Geils Band,/wiki/The_J._Geils_Band,Rock band,"MusicGroup,Thing",,"Rock,blues rock,new wave",
+5,14,100,1980-03-15,Paul Simon,/wiki/Paul_Simon,Musician,"Person,Thing",1941-10-13,"Folk,rock,pop,world",Male
+5,14,100,1980-03-15,James Taylor,/wiki/James_Taylor,Singer-songwriter,"Person,Thing",1948-03-12,"Folk rock,rock,pop,soft rock,blues,country",Male
+5,14,100,1980-03-15,David Sanborn,/wiki/David_Sanborn,Saxophonist,"Thing,Person",1945-07-30,"Jazz,jazz fusion,R&B,funk",Male
+5,15,101,1980-04-05,The Grateful Dead,/wiki/The_Grateful_Dead,Rock band,"MusicGroup,Thing",,Rock,
+5,16,102,1980-04-12,Anne Murray,/wiki/Anne_Murray,Singer,"Person,Thing",1945-06-20,"Country,pop,adult contemporary,soft rock",Female
+5,17,103,1980-04-19,The Specials,/wiki/The_Specials,Band,"MusicGroup,Thing",,"2 Tone,ska,reggae,punk rock",
+5,18,104,1980-05-10,The Amazing Rhythm Aces,/wiki/Amazing_Rhythm_Aces,Musical Group,"MusicGroup,Thing",,"Country rock,soft rock,southern rock",
+5,18,104,1980-05-10,Bruce Cockburn,/wiki/Bruce_Cockburn,Singer-songwriter,"Person,Thing",1945-05-27,"Folk,rock",Male
+5,19,105,1980-05-17,Paul McCartney,/wiki/Paul_McCartney,Singer-songwriter,"Thing,Person",1942-06-18,"Rock,pop,classical,electronic",Male
+5,19,105,1980-05-17,Linda McCartney,/wiki/Linda_McCartney,Musician,"Person,Thing",1941-09-24,,Female
+5,20,106,1980-05-24,Andrew Gold,/wiki/Andrew_Gold,Singer-songwriter,"Thing,Person",1951-08-02,"Pop,pop rock,soft rock",Male
+5,20,106,1980-05-24,Andrae Crouch & the Voices of Unity,/wiki/Andrae_Crouch,Singer,"Person,Thing",1942-07-01,"Gospel,contemporary Christian",Male
+6,1,107,1980-11-15,Kid Creole & the Coconuts,/wiki/Kid_Creole_%26_the_Coconuts,Musical Group,"MusicGroup,Thing",,"Latin,disco",
+6,2,108,1980-11-22,Captain Beefheart & His Magic Band,/wiki/Captain_Beefheart_%26_His_Magic_Band,Singer-songwriter,"Thing,Person",1941-01-15,"Experimental rock,blues rock,avant-garde,free jazz,art rock,spoken word,psychedelia",Male
+6,3,109,1980-12-06,Aretha Franklin,/wiki/Aretha_Franklin,Singer-songwriter,"Thing,Person",1942-03-25,"Soul,pop,gospel,jazz,R&B",Female
+6,4,110,1980-12-13,James Brown,/wiki/James_Brown_(musician),Singer,"Person,Thing",1933-05-03,"Funk,soul,rhythm and blues",Male
+6,4,110,1980-12-13,Ellen Shipley,/wiki/Ellen_Shipley,Musician,"Person,Thing",,,Female
+6,5,111,1980-12-20,Linda Ronstadt,/wiki/Linda_Ronstadt,Singer,"Thing,Person",1946-07-15,"Rock,rock and roll,folk,country rock,soft rock,jazz,big band,art rock,Latin",Female
+6,5,111,1980-12-20,The Pirates of Penzance,/wiki/The_Pirates_of_Penzance,Opera by Arthur Sullivan,"Thing,MusicComposition",,,
+6,6,112,1981-01-10,Jack Bruce & Friends,/wiki/Jack_Bruce_%26_Friends,Musician,"Person,Thing",1943-05-14,"Rock,jazz-rock,blues-rock,Latin",Male
+6,7,113,1981-01-17,Cheap Trick,/wiki/Cheap_Trick,Rock band,"MusicGroup,Thing",,"Rock,hard rock,power pop",
+6,7,113,1981-01-17,Stanley Clarke Trio,/wiki/Stanley_Clarke_Trio,Musician,"Thing,Person",1951-06-30,"Jazz,jazz fusion,funk,R&B",Male
+6,8,114,1981-01-24,"Joe ""King"" Carrasco & the Crowns",/wiki/Joe_Carrasco,Vocalist,"Thing,Person",,,Male
+6,9,115,1981-02-07,Jimmy Cliff,/wiki/Jimmy_Cliff,Musician,"Person,Thing",1948-04-01,"Ska,reggae",Male
+6,10,116,1981-02-14,Funky Four Plus One,/wiki/Funky_Four_Plus_One,Hip hop group,"MusicGroup,Thing",,Hip hop,
+6,11,117,1981-02-21,Todd Rundgren,/wiki/Todd_Rundgren,Multi-instrumentalist,"Thing,Person",1948-06-22,"Art rock,progressive rock,progressive pop,soul,electronic",Male
+6,11,117,1981-02-21,Prince,/wiki/Prince_(singer),Duke of Cornwall,"Person,Thing",1958-06-07,"Funk,pop,R&B,rock",Male
+6,12,118,1981-03-07,Delbert McClinton,/wiki/Delbert_McClinton,Singer-songwriter,"Thing,Person",1940-11-04,"Americana,blues rock,electric blues,roots rock,country",Male
+6,13,119,1981-04-11,Jr. Walker & the All-Stars,/wiki/Jr._Walker_%26_the_All-Stars,Musician,"Thing,Person",1931-06-14,"R&B,disco",Male
+7,1,120,1981-10-03,Rod Stewart,/wiki/Rod_Stewart,Singer-songwriter,"Person,Thing",1945-01-10,"Rock,pop,blue-eyed soul,blues rock,folk rock",Male
+7,2,121,1981-10-10,The Kinks,/wiki/The_Kinks,Rock band,"MusicGroup,Thing",,"Rock,pop",
+7,3,122,1981-10-17,Miles Davis,/wiki/Miles_Davis,Jazz trumpeter,"Thing,Person",1926-05-26,Jazz,Male
+7,4,123,1981-10-31,Fear,/wiki/Fear_(band),Book,"Book,Thing",,"Hardcore punk,punk rock",
+7,5,124,1981-11-07,Rick James,/wiki/Rick_James,Musician,"Thing,Person",1948-02-01,"R&B,soul,funk rock,doo-wop,quiet storm,dance-punk",Male
+7,6,125,1981-11-14,The Go-Go's,/wiki/The_Go-Go%27s,Rock band,"MusicGroup,Thing",,"Pop rock,new wave,punk rock",
+7,6,125,1981-11-14,Billy Joel,/wiki/Billy_Joel,Singer-songwriter,"Thing,Person",1949-05-09,"Rock,soft rock,piano rock,pop",Male
+7,7,126,1981-12-05,Meat Loaf,/wiki/Meat_Loaf,Musician,"Thing,Person",1947-09-27,"Rock,hard rock,heavy metal,progressive rock,Wagnerian rock",Male
+7,8,127,1981-12-12,The Spinners,/wiki/The_Spinners_(soul_music),Vocal group,"MusicGroup,Thing",,"R&B,smooth soul",
+7,8,127,1981-12-12,The Whiffenpoofs,/wiki/The_Whiffenpoofs,Musical Group,"MusicGroup,Thing",,,
+7,9,128,1982-01-23,The Allman Brothers Band,/wiki/The_Allman_Brothers_Band,Rock band,"MusicGroup,Thing",,"Southern rock,jam band,blues rock,country rock,jazz rock",
+7,10,129,1982-01-30,Jennifer Holliday,/wiki/Jennifer_Holliday,Actress,"Thing,Person",1960-10-19,"R&B,Soul,Pop,House,Dance,Gospel",Female
+7,11,130,1982-02-06,Lindsey Buckingham,/wiki/Lindsey_Buckingham,Musician,"Thing,Person",1949-10-03,"Rock,pop,new wave",Male
+7,12,131,1982-02-20,Luther Vandross,/wiki/Luther_Vandross,Singer-songwriter,"Person,Thing",1951-04-20,"R&B,soul,pop,quiet storm",Male
+7,13,132,1982-02-27,Hall & Oates,/wiki/Hall_%26_Oates,Musical duo,"MusicGroup,Thing",,"Pop rock,blue-eyed soul,soft rock,jazz,rhythm and blues",
+7,14,133,1982-03-20,Mink DeVille,/wiki/Mink_DeVille,Rock band,"MusicGroup,Thing",,"Rock,punk rock,soul,rhythm and blues,blues,cabaret,Cajun,Latin",
+7,15,134,1982-03-27,Rickie Lee Jones,/wiki/Rickie_Lee_Jones,Vocalist,"Thing,Person",1954-11-08,"Rock,jazz,R&B,pop",Female
+7,16,135,1982-04-10,John Cougar Mellencamp,/wiki/John_Mellencamp,Musician,"Thing,Person",1951-10-07,"Rock,heartland rock,roots rock,folk rock",Male
+7,17,136,1982-04-17,Elton John,/wiki/Elton_John,Singer,"Thing,Person",1947-03-25,"Rock,piano rock,pop rock,glam rock,soft rock,rhythm and blues",Male
+7,18,137,1982-04-24,The Charlie Daniels Band,/wiki/The_Charlie_Daniels_Band,Instrumentalist,"Person,Thing",1936-10-28,"Bluegrass,country,rock,Southern rock,outlaw country,country rock,blues rock,rock and roll,blues,gospel",Male
+7,19,138,1982-05-15,Sparks,/wiki/Sparks_(band),Pop band,"MusicGroup,Thing",,"Art rock,glam rock,new wave,synthpop,disco,power-pop",
+7,20,139,1982-05-22,Olivia Newton-John,/wiki/Olivia_Newton-John,Singer,"Thing,Person",1948-09-26,"Pop,country,soft rock,pop rock",Female
+8,1,140,1982-09-25,Queen,/wiki/Queen_(band),Queen of the United Kingdom,"Thing,Person",,Rock,Male
+8,2,141,1982-10-02,George Thorogood & the Destroyers,/wiki/George_Thorogood_%26_the_Destroyers,Musician,"Thing,Person",1950-02-24,"Blues rock,boogie rock",Male
+8,3,142,1982-10-09,The Clash,/wiki/The_Clash,Rock band,"MusicGroup,Thing",,"Punk rock,post-punk",
+8,4,143,1982-10-23,Men at Work,/wiki/Men_at_Work,Rock band,"MusicGroup,Thing",1978,"New wave,pop rock,reggae rock",
+8,5,144,1982-10-30,The New Joe Jackson Band,/wiki/The_New_Joe_Jackson_Band,Musician,"Thing,Person",1954-08-11,"Punk rock,ska,new wave,jazz pop,jazz,classical",Male
+8,6,145,1982-11-13,Kenny Loggins,/wiki/Kenny_Loggins,Singer,"Person,Thing",1948-01-07,"Rock,country,children's music,soft rock",Male
+8,7,146,1982-11-20,Squeeze,/wiki/Squeeze_(band),Band,"MusicGroup,Thing",,"New wave,pop rock,power pop,post-punk",
+8,8,147,1982-12-04,Laura Branigan,/wiki/Laura_Branigan,Singer,"Thing,Person",1952-07-03,"Pop,dance,pop rock",Female
+8,9,148,1982-12-11,Lionel Richie,/wiki/Lionel_Richie,Singer-songwriter,"Person,Thing",1949-06-20,"Soul,R&B,pop,pop rock,soft rock,country,gospel",Male
+8,10,149,1983-01-22,Pervis Hawkins,/wiki/Pervis_Hawkins,Actress,"Person,Thing",1939-09-01,"Observational comedy,Improvisational comedy",Female
+8,11,150,1983-01-29,The Bus Boys,/wiki/The_Bus_Boys,Musical Group,"MusicGroup,Thing",,"Rock and roll,soul,funk,rhythm and blues",
+8,12,151,1983-02-05,Joe Cocker,/wiki/Joe_Cocker,Singer,"Person,Thing",1944-05-20,"Rock,blues,soul,pop",Male
+8,12,151,1983-02-05,Jennifer Warnes,/wiki/Jennifer_Warnes,Singer,"Thing,Person",1947-03-03,"Country rock,pop",Female
+8,13,152,1983-02-19,Tom Petty & The Heartbreakers,/wiki/Tom_Petty_%26_The_Heartbreakers,Rock band,"MusicGroup,Thing",,"Rock,heartland rock,blues rock,hard rock",
+8,14,153,1983-02-26,Randy Newman,/wiki/Randy_Newman,Singer-songwriter,"Thing,Person",1943-11-28,"Rock,pop",Male
+8,15,154,1983-03-12,Leon Redbone,/wiki/Leon_Redbone,Singer,"Person,Thing",1949-08-26,"Vaudevillian,ragtime,jazz,blues",Male
+8,16,155,1983-03-19,Duran Duran,/wiki/Duran_Duran,Band,"MusicGroup,Thing",,"New wave,synthpop,dance-rock",
+8,17,156,1983-04-09,Musical Youth,/wiki/Musical_Youth,Band,"Thing,MusicGroup",,Reggae,
+8,18,157,1983-04-16,Michael McDonald,/wiki/Michael_McDonald_(singer),Singer,"Person,Thing",1952-02-12,"R&B,pop,rock,blue-eyed soul",Male
+8,19,158,1983-05-07,Stevie Wonder,/wiki/Stevie_Wonder,Musician,"Thing,Person",1950-05-13,"Soul,pop,R&B,funk,jazz",Male
+8,20,159,1983-05-14,Kevin Rowland,/wiki/Kevin_Rowland,Singer,"Person,Thing",1953-08-17,"Punk rock,new wave,soul,pop",Male
+8,20,159,1983-05-14,Dexys Midnight Runners,/wiki/Dexys_Midnight_Runners,Pop band,"MusicGroup,Thing",,"Pop,new wave,soul,Celtic folk,rock",
+9,1,160,1983-10-08,John Cougar Mellencamp,/wiki/John_Mellencamp,Musician,"Thing,Person",1951-10-07,"Rock,heartland rock,roots rock,folk rock",Male
+9,2,161,1983-10-15,Eddy Grant,/wiki/Eddy_Grant,Musician,"Person,Thing",1948-03-05,"Reggae,pop,ringbang",Male
+9,3,162,1983-10-22,Men at Work,/wiki/Men_at_Work,Rock band,"MusicGroup,Thing",1978,"New wave,pop rock,reggae rock",
+9,4,163,1983-11-05,Stray Cats,/wiki/Stray_Cats,Band,"MusicGroup,Thing",,"Rockabilly,rock and roll",
+9,5,164,1983-11-12,Mick Fleetwood's Zoo,/wiki/Mick_Fleetwood%27s_Zoo,Musician,"Person,Thing",1947-06-24,"Blues,rock,blues rock",Male
+9,5,164,1983-11-12,Lindsey Buckingham,/wiki/Lindsey_Buckingham,Musician,"Thing,Person",1949-10-03,"Rock,pop,new wave",Male
+9,6,165,1983-11-19,Loverboy,/wiki/Loverboy,Rock band,"Thing,MusicGroup",,"Rock,hard rock",
+9,7,166,1983-12-03,Big Country,/wiki/Big_Country,Rock band,"MusicGroup,Thing",,"Alternative rock,new wave,folk rock,Celtic rock,post-punk",
+9,8,167,1983-12-10,Stevie Nicks,/wiki/Stevie_Nicks,Singer,"Thing,Person",1948-05-26,Rock,Female
+9,9,168,1984-01-14,Huey Lewis and the News,/wiki/Huey_Lewis_and_the_News,Singer-songwriter,"Person,Thing,MusicGroup",,"Rock,pop rock,blue-eyed soul,blues rock",Male
+9,10,169,1984-01-21,The Motels,/wiki/The_Motels,Band,"MusicGroup,Thing",,"New wave,alternative rock",
+9,11,170,1984-01-28,Billy Idol,/wiki/Billy_Idol,Musician,"Thing,Person",1955-11-30,"Punk rock,hard rock,glam rock,dance-rock,new wave,post-punk",Male
+9,12,171,1984-02-11,Adam Ant,/wiki/Adam_Ant,Singer,"Person,Thing",1954-11-03,"New wave,post-punk,glam pop,alternative rock",Male
+9,13,172,1984-02-18,The Fixx,/wiki/The_Fixx,Rock band,"MusicGroup,Thing",,"Rock,new wave",
+9,14,173,1984-02-25,Kool & the Gang,/wiki/Kool_%26_the_Gang,Band,"MusicGroup,Thing",,"Funk,R&B,soul,disco",
+9,15,174,1984-03-17,Al Jarreau,/wiki/Al_Jarreau,Singer,"Thing,Person",1940-03-12,"Jazz,R&B,Soul",Male
+9,16,175,1984-04-07,Deniece Williams,/wiki/Deniece_Williams,Singer,"Thing,Person",1950-06-03,"Soul,R&B,Gospel,Pop",Female
+9,17,176,1984-04-14,Madness,/wiki/Madness_(band),Band,"MusicGroup,Thing",,"2 Tone,pop,ska,new wave",
+9,18,177,1984-05-05,Spinal Tap,/wiki/Spinal_Tap_(band),1984 film,"Thing,Movie",,"Heavy metal,hard rock,comedy rock,psychedelic rock",
+9,19,178,1984-05-12,The Cars,/wiki/The_Cars,Rock band,"MusicGroup,Thing",,"Rock,new wave,power pop",
+10,1,179,1984-10-06,Thompson Twins,/wiki/Thompson_Twins,Musical Group,"Thing,MusicGroup",,"New wave,synthpop,post-punk",
+10,2,180,1984-10-13,Peter Wolf,/wiki/Peter_Wolf,Musician,"Thing,Person",1946-03-07,"Rock and roll,blues,blue-eyed soul",Male
+10,3,181,1984-10-20,Andrae Crouch,/wiki/Andrae_Crouch,Singer,"Person,Thing",1942-07-01,"Gospel,contemporary Christian",Male
+10,3,181,1984-10-20,Wintley Phipps,/wiki/Wintley_Phipps,Vocal artist,"Person,Thing",1955-01-07,"Christian,Gospel",Male
+10,4,182,1984-11-03,Chaka Khan,/wiki/Chaka_Khan,Band,"MusicGroup,Thing",1953-03-23,"R&B,jazz,funk,soul,disco,adult contemporary,gospel",
+10,4,182,1984-11-03,The Folksmen,/wiki/The_Folksmen,Musical trio,"MusicGroup,Thing",,,
+10,5,183,1984-11-10,Frankie Goes to Hollywood,/wiki/Frankie_Goes_to_Hollywood,Band,"MusicGroup,Thing",,"Hi-NRG,dance-pop,dance-rock,synthpop,new wave",
+10,6,184,1984-11-17,The Kinks,/wiki/The_Kinks,Rock band,"MusicGroup,Thing",,"Rock,pop",
+10,7,185,1984-12-01,Billy Squier,/wiki/Billy_Squier,Rock musician,"Person,Thing",1950-05-12,"Rock,hard rock",Male
+10,8,186,1984-12-08,Herbie Hancock,/wiki/Herbie_Hancock,Pianist,"Thing,Person",1940-04-12,"Jazz,post-bop,fusion,jazz-funk,electro,classical",Male
+10,9,187,1984-12-15,Robert Plant & the Honeydrippers,/wiki/Robert_Plant_%26_the_Honeydrippers,Rock band,"MusicGroup,Thing",,"Rock and roll,jump blues,rhythm and blues",
+10,10,188,1985-01-12,John Waite,/wiki/John_Waite,Musician,"Thing,Person",1952-07-04,"Pop rock,hard rock,power pop",Male
+10,11,189,1985-01-19,Billy Ocean,/wiki/Billy_Ocean,Singer,"Thing,Person",1950-01-21,"Rhythm and blues,pop,soul",Male
+10,12,190,1985-02-02,Tina Turner,/wiki/Tina_Turner,Dancer,"Person,Thing",1939-11-26,"R&B,pop,soul,dance,rock and roll",Female
+10,13,191,1985-02-09,Bryan Adams,/wiki/Bryan_Adams,Singer-songwriter,"Person,Thing",1959-11-05,Rock,Male
+10,14,192,1985-02-16,Power Station,/wiki/Power_Station_(band),,"CivicStructure,Place,Thing",,"Pop rock,hard rock,dance-rock,new wave",
+10,15,193,1985-03-30,The Commodores,/wiki/The_Commodores,Band,"MusicGroup,Thing",,"R&B,funk,pop",
+10,16,194,1985-04-06,Santana,/wiki/Carlos_Santana,Rock band,"MusicGroup,Thing",1947-07-20,"Latin rock,blues rock,jazz fusion",
+10,17,195,1985-04-13,Greg Kihn,/wiki/Greg_Kihn,Musician,"Person,Thing",1949-07-10,Rock,Male
+11,1,196,1985-11-09,Simple Minds,/wiki/Simple_Minds,Rock band,"MusicGroup,Thing",,"Post-punk,art rock,new wave,pop rock,synthpop,alternative rock",
+11,2,197,1985-11-16,Sheila E,/wiki/Sheila_E,Singer,"Person,Thing",1957-12-12,"R&B,pop,soul,pop rock,funk,latin pop",Female
+11,3,198,1985-11-23,Queen Ida & the Bon Temps Zydeco Band,/wiki/Queen_Ida,Musical Artist,"Person,Thing",1929-01-15,Zydeco,Female
+11,4,199,1985-12-07,Mr. Mister,/wiki/Mr._Mister,Pop band,"MusicGroup,Thing",,"New wave,pop rock",
+11,5,200,1985-12-14,Sade,/wiki/Sade_Adu,Philosopher,"Person,Thing",1959-01-16,"R&B,soul",Female
+11,6,201,1985-12-21,The Dream Academy,/wiki/The_Dream_Academy,Band,"MusicGroup,Thing",1983,"Alternative pop,folk rock",
+11,6,201,1985-12-21,The Cult,/wiki/The_Cult,Rock band,"MusicGroup,Thing",1983,"Hard rock,gothic rock,post-punk,heavy metal",
+11,7,202,1986-01-18,The Replacements,/wiki/The_Replacements_(band),Rock band,"MusicGroup,Thing",,"Punk rock,alternative rock",
+11,8,203,1986-01-25,Al Green,/wiki/Al_Green,Singer,"Thing,Person",1946-04-13,"R&B,soul,smooth soul,blues,gospel",Male
+11,9,204,1986-02-08,The Nelsons,/wiki/Nelson_(band),1952 film,"Movie,Thing",,"Hard rock,glam metal",
+11,10,205,1986-02-15,Stevie Ray Vaughan,/wiki/Stevie_Ray_Vaughan,Musician,"Person,Thing",1954-10-03,"Blues rock,electric blues,Texas blues",Male
+11,10,205,1986-02-15,Double Trouble,/wiki/Double_Trouble_(band),Musician,"Person,Thing",1978,"Blues rock,electric blues,Texas blues,instrumental rock",Male
+11,11,206,1986-02-22,The Neville Brothers,/wiki/The_Neville_Brothers,Musical Group,"MusicGroup,Thing",,"R&B,soul,funk",
+11,12,207,1986-03-15,Rosanne Cash,/wiki/Rosanne_Cash,Singer-songwriter,"Person,Thing",1955-05-24,"Country,rock,folk,blues",Female
+11,13,208,1986-03-22,Philip Glass,/wiki/Philip_Glass,Composer,"Person,Thing",1937-01-31,"Minimalism,contemporary classical,film score",Male
+11,14,209,1986-04-12,Joe Jackson,/wiki/Joe_Jackson_(musician),Musician,"Thing,Person",1954-08-11,"Punk rock,ska,new wave,jazz pop,jazz,classical",Male
+11,15,210,1986-04-19,Laurie Anderson,/wiki/Laurie_Anderson,Artist,"Person,Thing",1947-06-05,"Avant-garde,experimental pop,art pop,electronic",Female
+11,16,211,1986-05-10,Ladysmith Black Mambazo,/wiki/Ladysmith_Black_Mambazo,Vocal group,"Thing,MusicGroup",,"Isicathamiya,mbube",
+11,17,212,1986-05-17,Level 42,/wiki/Level_42,Band,"Thing,MusicGroup",,"Jazz-funk,sophisti-pop,dance-rock,new wave,synthpop",
+11,17,212,1986-05-17,E.G. Daily,/wiki/Elizabeth_Daily,Actress,"Thing,Person",1961-09-11,,Female
+11,18,213,1986-05-24,George Clinton,/wiki/George_Clinton_(funk_musician),Singer,"Person,Thing",1941-07-22,"Funk,soul,psychedelic funk,R&B,disco,rock",Male
+11,18,213,1986-05-24,Parliament-Funkadelic,/wiki/Parliament-Funkadelic,Musical Group,"Thing,MusicGroup",,"Funk,psychedelic soul,funk rock,psychedelic funk,disco",
+12,2,215,1986-10-18,Run DMC,/wiki/Run_DMC,Hip hop group,"Thing,MusicGroup",,"Hip hop,rap rock",
+12,3,216,1986-11-08,Ric Ocasek,/wiki/Ric_Ocasek,Songwriter,"Thing,Person",1949-03-23,"Rock,new wave",Male
+12,4,217,1986-11-15,Lou Reed,/wiki/Lou_Reed,Musician,"Person,Thing",1942-03-02,"Rock,experimental,proto-punk,glam rock,art rock",Male
+12,5,218,1986-11-22,Paul Simon,/wiki/Paul_Simon,Musician,"Person,Thing",1941-10-13,"Folk,rock,pop,world",Male
+12,6,219,1986-12-06,Randy Newman,/wiki/Randy_Newman,Singer-songwriter,"Thing,Person",1943-11-28,"Rock,pop",Male
+12,7,220,1986-12-13,The Pretenders,/wiki/The_Pretenders,Rock band,"MusicGroup,Thing",,"Rock,punk rock,new wave",
+12,8,221,1986-12-20,Lone Justice,/wiki/Lone_Justice,Rock band,"MusicGroup,Thing",,"Country rock,roots rock,cowpunk,rockabilly",
+12,9,222,1987-01-24,Deborah Harry,/wiki/Debbie_Harry,Singer-songwriter,"Thing,Person",1945-07-01,"Rock,new wave,punk rock,disco,pop",Female
+12,10,223,1987-01-31,Bruce Hornsby & the Range,/wiki/Bruce_Hornsby_%26_the_Range,Singer,"Thing,Person",1954-11-23,"Improvisational multi-genre,jam band,rock,gospel,heartland rock,jazz,bluegrass,blues rock",Male
+12,11,224,1987-02-14,Paul Young,/wiki/Paul_Young,Singer,"Person,Thing",1956-01-17,"Pop rock,new wave,blue-eyed soul",Male
+12,12,225,1987-02-21,Willie Nelson,/wiki/Willie_Nelson,Musician,"Thing,Person",1933-04-29,"Country,outlaw country,rock",Male
+12,13,226,1987-02-28,Robert Cray Band,/wiki/Robert_Cray_Band,Guitarist,"Thing,Person",1953-08-01,"Blues,Blues Rock",Male
+12,14,227,1987-03-21,Percy Sledge,/wiki/Percy_Sledge,Singer,"Thing,Person",1940-11-25,"R&B,soul,traditional pop",Male
+12,15,228,1987-03-28,Wynton Marsalis,/wiki/Wynton_Marsalis,Trumpeter,"Person,Thing",1961-10-18,"Jazz,classical,big band,Dixieland",Male
+12,16,229,1987-04-11,Anita Baker,/wiki/Anita_Baker,Singer-songwriter,"Thing,Person",1958-01-26,"R&B,soul jazz,smooth jazz,soul,quiet storm",Female
+12,17,230,1987-04-18,Timbuk 3,/wiki/Timbuk_3,Band,"MusicGroup,Thing",,"Post-punk,new wave",
+12,18,231,1987-05-09,Suzanne Vega,/wiki/Suzanne_Vega,Singer-songwriter,"Person,Thing",1959-07-11,"Alternative rock,folk rock",Female
+12,19,232,1987-05-16,Los Lobos,/wiki/Los_Lobos,Rock band,"MusicGroup,Thing",,"Chicano rock,roots rock,Latin rock,Tex-Mex,Americana,heartland rock,cowpunk",
+12,20,233,1987-05-23,Roy Orbison,/wiki/Roy_Orbison,Singer-songwriter,"Person,Thing",1936-04-23,"Rock and roll,rock,rockabilly,country,pop",Male
+13,1,234,1987-10-17,Sting,/wiki/Sting_(musician),Musician,"Person,Thing",1951-10-02,"Rock,pop,new wave,jazz,world",Male
+13,2,235,1987-10-24,LL Cool J,/wiki/LL_Cool_J,Rapper,"Person,Thing",1968-01-14,"Hip hop,rap rock",Male
+13,2,235,1987-10-24,Michael Penn,/wiki/Michael_Penn,Singer-songwriter,"Person,Thing",1958-08-01,Alternative Pop/Rock,Male
+13,3,236,1987-10-31,The Cars,/wiki/The_Cars,Rock band,"MusicGroup,Thing",,"Rock,new wave,power pop",
+13,4,237,1987-11-14,Simply Red,/wiki/Simply_Red,Pop band,"MusicGroup,Thing",,"Pop,soul,blue-eyed soul,sophisti-pop",
+13,5,238,1987-11-21,Cher,/wiki/Cher,Singer,"Person,Thing",1946-05-20,"Pop,dance,disco,folk,rock",Female
+13,6,239,1987-12-05,Bryan Ferry,/wiki/Bryan_Ferry,Singer,"Thing,Person",1945-09-26,"Pop rock,glam rock,art rock,new wave,sophisti-pop",Male
+13,7,240,1987-12-12,Buster Poindexter,/wiki/Buster_Poindexter,Singer,"Person,Thing",1950-01-09,"Glam rock,proto-punk,hard rock,lounge,calypso",Male
+13,7,240,1987-12-12,David Gilmour,/wiki/David_Gilmour,Singer-songwriter,"Person,Thing",1946-03-06,"Progressive rock,psychedelic rock,art rock,ambient,blues rock",Male
+13,8,241,1987-12-19,Linda Ronstadt,/wiki/Linda_Ronstadt,Singer,"Thing,Person",1946-07-15,"Rock,rock and roll,folk,country rock,soft rock,jazz,big band,art rock,Latin",Female
+13,9,242,1988-01-23,James Taylor,/wiki/James_Taylor,Singer-songwriter,"Person,Thing",1948-03-12,"Folk rock,rock,pop,soft rock,blues,country",Male
+13,10,243,1988-01-30,Robbie Robertson,/wiki/Robbie_Robertson,Musician,"Person,Thing",1943-07-05,"Americana,rock",Male
+13,11,244,1988-02-13,Terence Trent D'Arby,/wiki/Sananda_Maitreya,Singer-songwriter,"Thing,Person",1962-03-15,"Pop,rock,soul,R&B,funk",Male
+13,12,245,1988-02-20,Randy Travis,/wiki/Randy_Travis,Singer-songwriter,"Person,Thing",1959-05-04,"Country,gospel",Male
+13,13,246,1988-02-27,"10,000 Maniacs","/wiki/10,000_Maniacs",Rock band,"MusicGroup,Thing",,"Alternative rock,college rock,jangle pop,folk rock,soft rock",
+14,1,247,1988-10-08,Keith Richards,/wiki/Keith_Richards,Guitarist,"Person,Thing",1943-12-18,"Rock,blues,blues rock,rock and roll,rhythm and blues",Male
+14,2,248,1988-10-15,The Sugarcubes,/wiki/The_Sugarcubes,Rock band,"MusicGroup,Thing",,"Alternative rock,avant-pop",
+14,3,249,1988-10-22,Randy Newman,/wiki/Randy_Newman,Singer-songwriter,"Thing,Person",1943-11-28,"Rock,pop",Male
+14,3,249,1988-10-22,Mark Knopfler,/wiki/Mark_Knopfler,Singer-songwriter,"Thing,Person",1949-08-12,"Rock,roots rock,Celtic rock,blues rock,country",Male
+14,4,250,1988-11-05,Edie Brickell and New Bohemians,/wiki/Edie_Brickell_and_New_Bohemians,Rock band,"Thing,MusicGroup",,"Alternative rock,folk rock,jangle pop,neo-psychedelia,southern rock,jam rock",
+14,5,251,1988-11-12,Johnny Clegg,/wiki/Johnny_Clegg_(musician),Musician,"Person,Thing",1953-06-07,"Mbaqanga,Afro-pop",Male
+14,5,251,1988-11-12,Savuka,/wiki/Savuka,Band,"MusicGroup,Thing",,"World music,afro pop,rock,zulu,maskanda,mbaqanga",
+14,6,252,1988-11-19,Tracy Chapman,/wiki/Tracy_Chapman,Singer-songwriter,"Thing,Person",1964-03-30,"Folk,blues rock,pop,soul",Female
+14,7,253,1988-12-03,The Bangles,/wiki/The_Bangles,Pop band,"MusicGroup,Thing",,,
+14,8,254,1988-12-10,Bobby McFerrin,/wiki/Bobby_McFerrin,Vocalist,"Thing,Person",1950-03-11,"Jazz,a cappella,vocal,world,classical,smooth jazz",Male
+14,9,255,1988-12-17,Little Feat,/wiki/Little_Feat,Rock band,"MusicGroup,Thing",,"Southern rock,blues rock,roots rock,funk rock,jazz rock,boogie rock,country rock,jam rock,swamp rock",
+14,10,256,1989-01-21,Anita Baker,/wiki/Anita_Baker,Singer-songwriter,"Thing,Person",1958-01-26,"R&B,soul jazz,smooth jazz,soul,quiet storm",Female
+14,11,257,1989-01-28,John Hiatt,/wiki/John_Hiatt,Guitarist,"Person,Thing",1952-08-20,"Americana,folk rock,country,blues,heartland rock",Male
+14,12,258,1989-02-11,Luther Vandross,/wiki/Luther_Vandross,Singer-songwriter,"Person,Thing",1951-04-20,"R&B,soul,pop,quiet storm",Male
+14,13,259,1989-02-18,Cowboy Junkies,/wiki/Cowboy_Junkies,Rock band,"MusicGroup,Thing",,"Americana,alternative country,country rock,folk rock,blues rock,psychedelic rock,indie rock",
+14,14,260,1989-02-25,Gipsy Kings,/wiki/Gipsy_Kings,Pop group,"MusicGroup,Thing",,"Catalan rumba,pop",
+14,15,261,1989-03-25,Elvis Costello,/wiki/Elvis_Costello,Musician,"Person,Thing",1954-08-25,"New wave,punk rock,pub rock",Male
+14,16,262,1989-04-01,Living Colour,/wiki/Living_Colour,Rock band,"MusicGroup,Thing",,"Funk metal,hard rock,alternative metal",
+14,17,263,1989-04-15,Dolly Parton,/wiki/Dolly_Parton,Singer-songwriter,"Person,Thing",1946-01-19,"Country,country pop,pop,bluegrass,gospel",Female
+14,18,264,1989-04-22,John Cougar Mellencamp,/wiki/John_Mellencamp,Musician,"Thing,Person",1951-10-07,"Rock,heartland rock,roots rock,folk rock",Male
+14,19,265,1989-05-13,Fine Young Cannibals,/wiki/Fine_Young_Cannibals,Band,"MusicGroup,Thing",,"Alternative rock,new wave",
+14,20,266,1989-05-20,Tom Petty & the Heartbreakers,/wiki/Tom_Petty_%26_the_Heartbreakers,Rock band,"MusicGroup,Thing",,"Rock,heartland rock,blues rock,hard rock",
+15,1,267,1989-09-30,Neil Young,/wiki/Neil_Young,Singer-songwriter,"Thing,Person",1945-11-12,"Rock,folk rock,hard rock,country rock,grunge",Male
+15,2,268,1989-10-07,Rickie Lee Jones,/wiki/Rickie_Lee_Jones,Vocalist,"Thing,Person",1954-11-08,"Rock,jazz,R&B,pop",Female
+15,3,269,1989-10-21,Billy Joel,/wiki/Billy_Joel,Singer-songwriter,"Thing,Person",1949-05-09,"Rock,soft rock,piano rock,pop",Male
+15,4,270,1989-10-28,Don Henley,/wiki/Don_Henley,Singer,"Person,Thing",1947-07-22,"Rock,pop rock,country rock,soft rock,folk rock,hard rock",Male
+15,5,271,1989-11-11,Eurythmics,/wiki/Eurythmics,Musical duo,"MusicGroup,Thing",,"Synthpop,new wave,pop rock,dance-rock",
+15,6,272,1989-11-18,David Byrne,/wiki/David_Byrne_(musician),Musician,"Person,Thing",1952-05-14,"New wave,post-punk,art rock,art pop,worldbeat",Male
+15,7,273,1989-12-02,k.d. lang,/wiki/K.d._lang,Singer-songwriter,"Thing,Person",1961-11-02,"Country,pop,folk,jazz",Female
+15,8,274,1989-12-09,Linda Ronstadt,/wiki/Linda_Ronstadt,Singer,"Thing,Person",1946-07-15,"Rock,rock and roll,folk,country rock,soft rock,jazz,big band,art rock,Latin",Female
+15,8,274,1989-12-09,Aaron Neville,/wiki/Aaron_Neville,Singer,"Person,Thing",1941-01-24,"R&B,soul,country,gospel,jazz,pop",Male
+15,9,275,1989-12-16,Tracy Chapman,/wiki/Tracy_Chapman,Singer-songwriter,"Thing,Person",1964-03-30,"Folk,blues rock,pop,soul",Female
+15,10,276,1990-01-13,"Harry Connick, Jr.","/wiki/Harry_Connick,_Jr.",Singer,"Thing,Person",1967-09-11,"Swing,traditional pop,big band,jazz-funk",Male
+15,11,277,1990-01-20,Bonnie Raitt,/wiki/Bonnie_Raitt,Singer-songwriter,"Thing,Person",1949-11-08,"Blues,blue-eyed soul,blues rock,roots rock,Americana",Female
+15,12,278,1990-02-10,Tevin Campbell,/wiki/Tevin_Campbell,Singer-songwriter,"Person,Thing",1976-11-12,"R&B,pop,soul,new jack swing,urban,jazz,gospel,adult contemporary",Male
+15,12,278,1990-02-10,Kool Moe Dee,/wiki/Kool_Moe_Dee,Rapper,"Thing,Person",1962-08-08,"Hip hop,new jack swing",Male
+15,12,278,1990-02-10,Big Daddy Kane,/wiki/Big_Daddy_Kane,Rapper,"Person,Thing",1968-09-10,"East Coast hip hop,hardcore hip hop",Male
+15,13,279,1990-02-17,Aerosmith,/wiki/Aerosmith,Rock band,"MusicGroup,Thing",,"Hard rock,blues rock,glam metal",
+15,14,280,1990-02-24,Technotronic,/wiki/Technotronic,Musical band,"MusicGroup,Thing",,"House,techno,electronica,hip house,tech house",
+15,15,281,1990-03-17,The Pogues,/wiki/The_Pogues,Band,"MusicGroup,Thing",,"Celtic punk,folk punk",
+15,16,282,1990-03-24,Eric Clapton,/wiki/Eric_Clapton,Guitarist,"Person,Thing",1945-03-30,"Rock,blues",Male
+15,17,283,1990-04-14,The Smithereens,/wiki/The_Smithereens,Rock band,"MusicGroup,Thing",,"Alternative rock,power pop,college rock,hard rock",
+15,18,284,1990-04-21,The B-52's,/wiki/The_B-52%27s,Band,"MusicGroup,Thing",,"New wave,dance-rock,art pop",
+15,19,285,1990-05-12,Julee Cruise,/wiki/Julee_Cruise,Singer,"Person,Thing",1956-12-01,Dream pop,Female
+15,20,286,1990-05-19,The Notting Hillbillies,/wiki/The_Notting_Hillbillies,Musical Group,"MusicGroup,Thing",1990,"Country rock,blues,Americana",
+16,1,287,1990-09-29,Sinéad O'Connor,/wiki/Sin%C3%A9ad_O%27Connor,Singer-songwriter,"Person,Thing",1966-12-08,"Alternative rock,pop rock,folk rock",Female
+16,2,288,1990-10-06,Hothouse Flowers,/wiki/Hothouse_Flowers,Musical Group,"MusicGroup,Thing",,"Alternative rock,folk rock,Celtic rock",
+16,3,289,1990-10-20,Morris Day,/wiki/Morris_Day,Rock band,"Thing,MusicGroup",1957-12-13,"Rock,pop,R&B,soul,funk,disco,funk rock,funk metal,new wave,dance,hip hop",
+16,3,289,1990-10-20,The Time,/wiki/The_Time_(Band),Rock band,"Thing,MusicGroup",,"Pop,soul,funk rock,dance,Minneapolis sound",
+16,4,290,1990-10-27,Mariah Carey,/wiki/Mariah_Carey,Singer-songwriter,"Thing,Person",1969-03-27,"R&B,pop,hip hop,soul",Female
+16,5,291,1990-11-10,World Party,/wiki/World_Party,Rock band,"MusicGroup,Thing",,"Alternative rock,indie pop,folk rock,power pop,psychedelic pop",
+16,6,292,1990-11-17,Paul Simon,/wiki/Paul_Simon,Musician,"Person,Thing",1941-10-13,"Folk,rock,pop,world",Male
+16,7,293,1990-12-01,Faith No More,/wiki/Faith_No_More,Rock band,"MusicGroup,Thing",,"Alternative metal,experimental rock,funk metal",
+16,8,294,1990-12-08,Edie Brickell & New Bohemians,/wiki/Edie_Brickell_%26_New_Bohemians,Rock band,"Thing,MusicGroup",,"Alternative rock,folk rock,jangle pop,neo-psychedelia,southern rock,jam rock",
+16,9,295,1990-12-15,The Neville Brothers,/wiki/The_Neville_Brothers,Musical Group,"MusicGroup,Thing",,"R&B,soul,funk",
+16,10,296,1991-01-12,Vanilla Ice,/wiki/Vanilla_Ice,Rapper,"Person,Thing",1967-10-31,"Hip hop,rap rock,nu metal,rap metal",Male
+16,11,297,1991-01-19,Sting,/wiki/Sting_(musician),Musician,"Person,Thing",1951-10-02,"Rock,pop,new wave,jazz,world",Male
+16,12,298,1991-02-09,INXS,/wiki/INXS,Rock band,"Thing,MusicGroup",,"Rock,new wave,alternative rock,post-punk,dance-rock",
+16,13,299,1991-02-16,Deee-Lite,/wiki/Deee-Lite,Musical Group,"Thing,MusicGroup",,"Dance-pop,house",
+16,14,300,1991-02-23,Whitney Houston,/wiki/Whitney_Houston,Singer,"Thing,Person",1963-08-09,"R&B,pop,soul,gospel",Female
+16,15,301,1991-03-16,The Black Crowes,/wiki/The_Black_Crowes,Rock band,"MusicGroup,Thing",,"Southern rock,blues rock,hard rock,jam band",
+16,16,302,1991-03-23,3rd Bass,/wiki/3rd_Bass,Hip hop group,"MusicGroup,Thing",,Hip hop,
+16,17,303,1991-04-13,R.E.M.,/wiki/R.E.M.,Rock band,"MusicGroup,Thing",1980,"Alternative rock,folk rock,college rock,jangle pop",
+16,18,304,1991-04-20,Michael Bolton,/wiki/Michael_Bolton,Singer-songwriter,"Thing,Person",1953-02-26,"Pop rock,soft rock,blue-eyed soul",Male
+16,19,305,1991-05-11,Chris Isaak,/wiki/Chris_Isaak,Musician,"Person,Thing",1956-06-26,"Rock and roll,rockabilly,roots rock,surf rock",Male
+16,20,306,1991-05-18,Elvis Costello,/wiki/Elvis_Costello,Musician,"Person,Thing",1954-08-25,"New wave,punk rock,pub rock",Male
+17,1,307,1991-09-28,Public Enemy,/wiki/Public_Enemy_(band),Hip hop group,"MusicGroup,Thing",,Hip hop,
+17,2,308,1991-10-05,Color Me Badd,/wiki/Color_Me_Badd,Trio,"Thing,MusicGroup",1985,"R&B,new jack swing",
+17,3,309,1991-10-12,Tom Petty & The Heartbreakers,/wiki/Tom_Petty_%26_The_Heartbreakers,Rock band,"MusicGroup,Thing",,"Rock,heartland rock,blues rock,hard rock",
+17,4,310,1991-10-26,Bonnie Raitt,/wiki/Bonnie_Raitt,Singer-songwriter,"Thing,Person",1949-11-08,"Blues,blue-eyed soul,blues rock,roots rock,Americana",Female
+17,5,311,1991-11-02,Skid Row,/wiki/Skid_Row_(American_band),American band,"MusicGroup,Thing",,"Heavy metal,glam metal",
+17,6,312,1991-11-16,Mariah Carey,/wiki/Mariah_Carey,Singer-songwriter,"Thing,Person",1969-03-27,"R&B,pop,hip hop,soul",Female
+17,7,313,1991-11-23,Tin Machine,/wiki/Tin_Machine,Rock band,"MusicGroup,Thing",,"Rock,hard rock",
+17,8,314,1991-12-07,MC Hammer,/wiki/MC_Hammer,Hip-hop artist,"Person,Thing",1962-03-30,"Hip hop,gospel,dance",Male
+17,9,315,1991-12-14,James Taylor,/wiki/James_Taylor,Singer-songwriter,"Person,Thing",1948-03-12,"Folk rock,rock,pop,soft rock,blues,country",Male
+17,10,316,1992-01-11,Nirvana,/wiki/Nirvana_(band),Rock band,"MusicGroup,Thing",,"Grunge,alternative rock",
+17,11,317,1992-01-18,Robbie Robertson,/wiki/Robbie_Robertson,Musician,"Person,Thing",1943-07-05,"Americana,rock",Male
+17,11,317,1992-01-18,Bruce Hornsby & the Range,/wiki/Bruce_Hornsby_%26_the_Range,Singer,"Thing,Person",1954-11-23,"Improvisational multi-genre,jam band,rock,gospel,heartland rock,jazz,bluegrass,blues rock",Male
+17,12,318,1992-02-08,C&C Music Factory,/wiki/C%26C_Music_Factory,Musical Group,"MusicGroup,Person,Thing",,Electronic dance music,Female
+17,13,319,1992-02-15,Teenage Fanclub,/wiki/Teenage_Fanclub,Rock band,"MusicGroup,Thing",,"Alternative rock,indie pop,jangle pop,power pop",
+17,14,320,1992-02-22,Red Hot Chili Peppers,/wiki/Red_Hot_Chili_Peppers,Rock band,"MusicGroup,Thing",1983,"Funk rock,alternative rock,funk metal,rap rock",
+17,15,321,1992-03-14,Garth Brooks,/wiki/Garth_Brooks,Singer-songwriter,"Thing,Person",1962-02-07,"Country,country pop,country rock",Male
+17,16,322,1992-03-21,En Vogue,/wiki/En_Vogue,Pop group,"MusicGroup,Thing",,"R&B,dance-pop,pop,soul,hip hop",
+17,17,323,1992-04-11,Pearl Jam,/wiki/Pearl_Jam,Rock band,"MusicGroup,Thing",1990,"Alternative rock,grunge,hard rock",
+17,18,324,1992-04-18,Annie Lennox,/wiki/Annie_Lennox,Singer-songwriter,"Thing,Person",1954-12-25,"Pop,pop rock,rock,soul,blue-eyed soul,new wave,R&B,synthpop,electronica,adult contemporary,jazz",Female
+17,19,325,1992-05-09,Bruce Springsteen,/wiki/Bruce_Springsteen,Singer-songwriter,"Person,Thing",1949-09-23,"Rock,heartland rock,folk rock,hard rock,rock and roll",Male
+17,20,326,1992-05-16,Vanessa Williams,/wiki/Vanessa_L._Williams,Actress,"Person,Thing",1963-03-18,"R&B,pop,soul,dance,jazz",Female
+18,1,327,1992-09-26,Bobby Brown,/wiki/Bobby_Brown,Singer-songwriter,"Person,Thing",1969-02-05,"R&B,soul,pop,dance,new jack swing",Male
+18,2,328,1992-10-03,Sinéad O'Connor,/wiki/Sin%C3%A9ad_O%27Connor,Singer-songwriter,"Person,Thing",1966-12-08,"Alternative rock,pop rock,folk rock",Female
+18,3,329,1992-10-10,The Spin Doctors,/wiki/The_Spin_Doctors,Rock band,"Thing,MusicGroup",,"Rock,blues rock,funk rock,jam rock",
+18,4,330,1992-10-24,Arrested Development,/wiki/Arrested_Development_(hip_hop_group),American sitcom,"TVSeries,Thing",,Alternative hip hop,
+18,5,331,1992-10-31,"10,000 Maniacs","/wiki/10,000_Maniacs",Rock band,"MusicGroup,Thing",,"Alternative rock,college rock,jangle pop,folk rock,soft rock",
+18,6,332,1992-11-14,Morrissey,/wiki/Morrissey,Singer-songwriter,"Person,Thing",1959-05-22,"Alternative rock,indie pop,indie rock,jangle pop",Male
+18,7,333,1992-11-21,Sade,/wiki/Sade_Adu,Philosopher,"Person,Thing",1959-01-16,"R&B,soul",Female
+18,8,334,1992-12-05,Neil Young,/wiki/Neil_Young,Singer-songwriter,"Thing,Person",1945-11-12,"Rock,folk rock,hard rock,country rock,grunge",Male
+18,9,335,1992-12-12,The Black Crowes,/wiki/The_Black_Crowes,Rock band,"MusicGroup,Thing",,"Southern rock,blues rock,hard rock,jam band",
+18,10,336,1993-01-09,Bon Jovi,/wiki/Bon_Jovi,Rock band,"MusicGroup,Thing",,"Hard rock,glam metal,arena rock,pop rock",
+18,11,337,1993-01-16,Madonna,/wiki/Madonna_(entertainer),Singer-songwriter,"Thing,Person",1958-08-16,"Pop,dance,electronic,rock",Female
+18,12,338,1993-02-06,Mick Jagger,/wiki/Mick_Jagger,Singer,"Person,Thing",1943-07-26,"Rock,blues,pop",Male
+18,13,339,1993-02-13,Paul McCartney,/wiki/Paul_McCartney,Singer-songwriter,"Thing,Person",1942-06-18,"Rock,pop,classical,electronic",Male
+18,14,340,1993-02-20,Sting,/wiki/Sting_(musician),Musician,"Person,Thing",1951-10-02,"Rock,pop,new wave,jazz,world",Male
+18,15,341,1993-03-13,Mary J. Blige,/wiki/Mary_J._Blige,Singer-songwriter,"Person,Thing",1971-01-11,"R&B,soul,hip hop soul,neo soul",Female
+18,16,342,1993-03-20,Soul Asylum,/wiki/Soul_Asylum,Rock band,"Thing,MusicGroup",,Alternative rock,
+18,17,343,1993-04-10,Peter Gabriel,/wiki/Peter_Gabriel,Singer,"Person,Thing",1950-02-13,"Progressive rock,art rock,experimental,worldbeat,pop,pop rock,art pop",Male
+18,18,344,1993-04-17,Lenny Kravitz,/wiki/Lenny_Kravitz,Singer-songwriter,"Person,Thing",1964-05-26,"Rock,funk rock,hard rock,neo-psychedelia,neo soul",Male
+18,19,345,1993-05-08,Midnight Oil,/wiki/Midnight_Oil,Rock band,"MusicGroup,Thing",,"Alternative rock,hard rock,new wave",
+18,20,346,1993-05-15,Willie Nelson,/wiki/Willie_Nelson,Musician,"Thing,Person",1933-04-29,"Country,outlaw country,rock",Male
+18,20,346,1993-05-15,Paul Simon,/wiki/Paul_Simon,Musician,"Person,Thing",1941-10-13,"Folk,rock,pop,world",Male
+19,1,347,1993-09-25,Nirvana,/wiki/Nirvana_(band),Rock band,"MusicGroup,Thing",,"Grunge,alternative rock",
+19,2,348,1993-10-02,Cypress Hill,/wiki/Cypress_Hill,Hip hop group,"Thing,MusicGroup",,"Hip hop,Latin hip hop,hardcore hip hop,Chicano Rap,nu metal,rap metal,west coast hip hop,gangsta rap",
+19,3,349,1993-10-09,Aerosmith,/wiki/Aerosmith,Rock band,"MusicGroup,Thing",,"Hard rock,blues rock,glam metal",
+19,4,350,1993-10-23,Billy Joel,/wiki/Billy_Joel,Singer-songwriter,"Thing,Person",1949-05-09,"Rock,soft rock,piano rock,pop",Male
+19,5,351,1993-10-30,The Smashing Pumpkins,/wiki/The_Smashing_Pumpkins,Rock band,"MusicGroup,Thing",,Alternative rock,
+19,6,352,1993-11-13,James Taylor,/wiki/James_Taylor,Singer-songwriter,"Person,Thing",1948-03-12,"Folk rock,rock,pop,soft rock,blues,country",Male
+19,7,353,1993-11-20,Stone Temple Pilots,/wiki/Stone_Temple_Pilots,Rock band,"MusicGroup,Thing",,"Grunge,alternative rock,hard rock,alternative metal,neo-psychedelia,funk rock",
+19,8,354,1993-12-04,Paul Westerberg,/wiki/Paul_Westerberg,Musician,"Person,Thing",1959-12-31,"Alternative rock,punk rock",Male
+19,9,355,1993-12-11,Tony! Toni! Toné!,/wiki/Tony!_Toni!_Ton%C3%A9!,Band,"MusicGroup,Thing",,"R&B,soul,neo soul,new jack swing",
+19,10,356,1994-01-08,Blind Melon,/wiki/Blind_Melon,Rock band,"MusicGroup,Thing",,"Alternative rock,folk rock,psychedelic rock,roots rock,blues rock,grunge",
+19,11,357,1994-01-15,Counting Crows,/wiki/Counting_Crows,Rock band,"MusicGroup,Thing",1991,"Rock,alternative rock,pop rock,roots rock,folk rock,indie pop",
+19,12,358,1994-02-05,Salt-N-Pepa,/wiki/Salt-N-Pepa,Hip hop trio,"Thing,MusicGroup",,"Hip hop,dance",
+19,13,359,1994-02-12,UB40,/wiki/UB40,Pop band,"MusicGroup,Thing",,"Pop,reggae,dub",
+19,14,360,1994-02-19,Crash Test Dummies,/wiki/Crash_Test_Dummies,Rock band,"MusicGroup,Thing",,"Alternative rock,folk rock,pop rock,chamber pop",
+19,15,361,1994-03-12,Aretha Franklin,/wiki/Aretha_Franklin,Singer-songwriter,"Thing,Person",1942-03-25,"Soul,pop,gospel,jazz,R&B",Female
+19,16,362,1994-03-19,Snoop Doggy Dogg,/wiki/Snoop_Dogg,Rapper,"Person,Thing",1971-10-20,"Hip hop,funk,R&B,reggae",Male
+19,17,363,1994-04-09,Dwight Yoakam,/wiki/Dwight_Yoakam,Singer-songwriter,"Person,Thing",1956-10-23,"Country,Honky Tonk,Country Rock,Bluegrass",Male
+19,18,364,1994-04-16,Pearl Jam,/wiki/Pearl_Jam,Rock band,"MusicGroup,Thing",1990,"Alternative rock,grunge,hard rock",
+19,19,365,1994-05-07,The Pretenders,/wiki/The_Pretenders,Rock band,"MusicGroup,Thing",,"Rock,punk rock,new wave",
+19,20,366,1994-05-14,Janet Jackson,/wiki/Janet_Jackson,Singer-songwriter,"Person,Thing",1966-05-16,"Pop,R&B,hip hop,dance",Female
+20,1,367,1994-09-24,Eric Clapton,/wiki/Eric_Clapton,Guitarist,"Person,Thing",1945-03-30,"Rock,blues",Male
+20,2,368,1994-10-01,Bonnie Raitt,/wiki/Bonnie_Raitt,Singer-songwriter,"Thing,Person",1949-11-08,"Blues,blue-eyed soul,blues rock,roots rock,Americana",Female
+20,3,369,1994-10-15,Seal,/wiki/Seal_(musician),,"Organization,Thing",1963-02-19,"Soul,R&B,adult contemporary,electronica",
+20,4,370,1994-10-22,Edie Brickell,/wiki/Edie_Brickell,Singer-songwriter,"Thing,Person",1966-03-10,"Alternative rock,Folk rock,Jangle pop,Jam rock,Neo-psychedelia",Female
+20,4,370,1994-10-22,Paul Simon,/wiki/Paul_Simon,Musician,"Person,Thing",1941-10-13,"Folk,rock,pop,world",Male
+20,5,371,1994-11-12,R.E.M.,/wiki/R.E.M._(band),Rock band,"MusicGroup,Thing",1980,"Alternative rock,folk rock,college rock,jangle pop",
+20,6,372,1994-11-19,Tom Petty,/wiki/Tom_Petty,Musician,"Thing,Person",1950-10-20,"Rock,rock and roll,roots rock,heartland rock,blues rock,southern rock,country rock",Male
+20,7,373,1994-12-03,Green Day,/wiki/Green_Day,Rock band,"MusicGroup,Thing",,"Punk rock,pop punk,alternative rock",
+20,8,374,1994-12-10,Beastie Boys,/wiki/Beastie_Boys,Hip hop group,"MusicGroup,Thing",,"Hip hop,rap rock,hardcore hip hop,alternative hip hop,rapcore,hardcore punk",
+20,9,375,1994-12-17,Hole,/wiki/Hole_(band),Rock band,"Thing,MusicGroup",1989,"Alternative rock,grunge,punk,noise rock",
+20,10,376,1995-01-14,Luscious Jackson,/wiki/Luscious_Jackson,Rock band,"MusicGroup,Thing",,"Alternative rock,alternative hip hop,indie rock",
+20,11,377,1995-01-21,Live,/wiki/Live_(band),2007 film,"Movie,Thing",,"Alternative rock,pop rock,post-grunge",
+20,12,378,1995-02-11,Des'ree,/wiki/Des%27ree,Record Producer,"Person,Thing",1968-11-30,"Soul,dance,R&B,pop",Female
+20,13,379,1995-02-18,Bon Jovi,/wiki/Bon_Jovi,Rock band,"MusicGroup,Thing",,"Hard rock,glam metal,arena rock,pop rock",
+20,14,380,1995-02-25,The Cranberries,/wiki/The_Cranberries,Rock band,"Thing,MusicGroup",,"Alternative rock,Celtic rock,dream pop,jangle pop",
+20,15,381,1995-03-18,Annie Lennox,/wiki/Annie_Lennox,Singer-songwriter,"Thing,Person",1954-12-25,"Pop,pop rock,rock,soul,blue-eyed soul,new wave,R&B,synthpop,electronica,adult contemporary,jazz",Female
+20,16,382,1995-03-25,The Tragically Hip,/wiki/The_Tragically_Hip,Rock band,"Thing,MusicGroup",,"Rock,alternative rock,pop rock,country",
+20,17,383,1995-04-08,Dionne Farris,/wiki/Dionne_Farris,Singer,"Person,Thing",1969-12-04,"Pop,R&B,soul,alternative hip hop,jazz",Female
+20,18,384,1995-04-15,Dave Matthews Band,/wiki/Dave_Matthews_Band,Rock band,"MusicGroup,Thing",,"Rock,jam,jazz fusion,folk rock,bluegrass,funk rock,pop rock,alternative rock",
+20,19,385,1995-05-06,TLC,/wiki/TLC_(music),Cable network,"Corporation,Organization,Thing",,"R&B,pop,hip hop,soul,funk,new jack swing",
+20,20,386,1995-05-13,Rod Stewart,/wiki/Rod_Stewart,Singer-songwriter,"Person,Thing",1945-01-10,"Rock,pop,blue-eyed soul,blues rock,folk rock",Male
+21,1,387,1995-09-30,Blues Traveler,/wiki/Blues_Traveler,Rock band,"MusicGroup,Thing",,"Rock,blues rock,psychedelic rock,jam band",
+21,2,388,1995-10-07,Lisa Loeb & Nine Stories,/wiki/Lisa_Loeb_%26_Nine_Stories,Singer-songwriter,"Thing,Person",1968-03-11,"Pop,rock",Female
+21,3,389,1995-10-21,Natalie Merchant,/wiki/Natalie_Merchant,Singer-songwriter,"Thing,Person",1963-10-26,"Alternative rock,pop,folk",Female
+21,4,390,1995-10-28,Alanis Morissette,/wiki/Alanis_Morissette,Singer-songwriter,"Person,Thing",1974-06-01,"Alternative rock,post-grunge,pop rock,electronica,dance-pop",Female
+21,5,391,1995-11-11,The Smashing Pumpkins,/wiki/The_Smashing_Pumpkins,Rock band,"MusicGroup,Thing",,Alternative rock,
+21,6,392,1995-11-18,Rancid,/wiki/Rancid_(band),Rock band,"MusicGroup,Thing",,Punk rock,
+21,7,393,1995-12-02,Foo Fighters,/wiki/Foo_Fighters,Rock band,"MusicGroup,Thing",,"Alternative rock,post-grunge,hard rock",
+21,8,394,1995-12-09,Silverchair,/wiki/Silverchair,Rock band,"Thing,MusicGroup",1992,"Grunge,post-grunge,art rock,alternative rock",
+21,9,395,1995-12-16,Bush,/wiki/Bush_(band),43rd U.S. President,"Person,Thing",,"Post-grunge,grunge,alternative rock,hard rock",Male
+21,10,396,1996-01-13,Joan Osborne,/wiki/Joan_Osborne,Singer-songwriter,"Thing,Person",1962-07-08,"Rock,folk,country rock,blues,R&B",Female
+21,11,397,1996-01-20,Tori Amos,/wiki/Tori_Amos,Singer-songwriter,"Thing,Person",1963-08-22,"Alternative rock,piano rock,baroque pop,chamber pop,pop rock,electronica,classical",Female
+21,12,398,1996-02-10,Coolio,/wiki/Coolio,Rapper,"Person,Thing",1963-08-01,"Hip hop,Gangsta rap,G-funk,West Coast hip hop",Male
+21,13,399,1996-02-17,Tupac Shakur,/wiki/Tupac_Shakur,Rapper,"Person,Thing",1971-06-16,Hip hop,Male
+21,14,400,1996-02-24,Sting,/wiki/Sting_(musician),Musician,"Person,Thing",1951-10-02,"Rock,pop,new wave,jazz,world",Male
+21,15,401,1996-03-16,Everclear,/wiki/Everclear_(band),Rock band,"MusicGroup,Thing",,"Alternative rock,post-grunge,power pop,grunge",
+21,16,402,1996-03-23,Gin Blossoms,/wiki/Gin_Blossoms,Rock band,"MusicGroup,Thing",,"Alternative rock,power pop,jangle pop,post-grunge",
+21,17,403,1996-04-13,Rage Against the Machine,/wiki/Rage_Against_the_Machine,Rock band,"MusicGroup,Thing",,"Rap metal,alternative metal,funk metal,nu metal",
+21,18,404,1996-04-20,Dave Matthews Band,/wiki/Dave_Matthews_Band,Rock band,"MusicGroup,Thing",,"Rock,jam,jazz fusion,folk rock,bluegrass,funk rock,pop rock,alternative rock",
+21,19,405,1996-05-11,The Cure,/wiki/The_Cure,Rock band,"MusicGroup,Thing",,"Post-punk,gothic rock,alternative rock,new wave",
+21,20,406,1996-05-18,Soundgarden,/wiki/Soundgarden,Rock band,"MusicGroup,Thing",,"Grunge,heavy metal,alternative metal,hard rock,alternative rock",
+22,1,407,1996-09-28,Tom Petty & the Heartbreakers,/wiki/Tom_Petty_%26_the_Heartbreakers,Rock band,"MusicGroup,Thing",,"Rock,heartland rock,blues rock,hard rock",
+22,2,408,1996-10-05,Sheryl Crow,/wiki/Sheryl_Crow,Singer-songwriter,"Person,Thing",1962-02-11,"Pop,rock,country",Female
+22,3,409,1996-10-19,New Edition,/wiki/New_Edition,Girl group,"Thing,MusicGroup",,"R&B,pop,new jack swing",
+22,4,410,1996-10-26,Dr. Dre,/wiki/Dr._Dre,Rapper,"Person,Thing",1965-02-18,"Hip hop,gangsta rap,G-funk",Male
+22,5,411,1996-11-02,The Wallflowers,/wiki/The_Wallflowers,Rock band,"MusicGroup,Thing",,"Alternative rock,roots rock",
+22,6,412,1996-11-16,Fiona Apple,/wiki/Fiona_Apple,Singer-songwriter,"Thing,Person",1977-09-13,"Art pop,baroque pop,jazz",Female
+22,7,413,1996-11-23,Bush,/wiki/Bush_(band),43rd U.S. President,"Person,Thing",,"Post-grunge,grunge,alternative rock,hard rock",Male
+22,8,414,1996-12-07,No Doubt,/wiki/No_Doubt,Rock band,"MusicGroup,Thing",,"Hip hop,Ska punk,alternative rock,new wave,dancehall,pop rock,reggae,synthpop",
+22,9,415,1996-12-14,Whitney Houston,/wiki/Whitney_Houston,Singer,"Thing,Person",1963-08-09,"R&B,pop,soul,gospel",Female
+22,10,416,1997-01-11,Beck,/wiki/Beck,Singer-songwriter,"Thing,Person",1970-07-08,"Alternative rock,anti-folk,art pop,Americana,alternative hip hop",Male
+22,11,417,1997-01-18,Snoop Doggy Dogg,/wiki/Snoop_Dogg,Rapper,"Person,Thing",1971-10-20,"Hip hop,funk,R&B,reggae",Male
+22,12,418,1997-02-08,David Bowie,/wiki/David_Bowie,Singer-songwriter,"Thing,Person",1947-01-08,"Art rock,glam rock,pop,electronic,experimental",Male
+22,13,419,1997-02-15,Live,/wiki/Live_(band),2007 film,"Movie,Thing",,"Alternative rock,pop rock,post-grunge",
+22,14,420,1997-02-22,Tina Turner,/wiki/Tina_Turner,Dancer,"Person,Thing",1939-11-26,"R&B,pop,soul,dance,rock and roll",Female
+22,15,421,1997-03-15,Veruca Salt,/wiki/Veruca_Salt_(band),Rock band,"MusicGroup,Thing",,"Alternative rock,grunge",
+22,16,422,1997-03-22,Aerosmith,/wiki/Aerosmith,Rock band,"MusicGroup,Thing",,"Hard rock,blues rock,glam metal",
+22,17,423,1997-04-12,Spice Girls,/wiki/Spice_Girls,Pop group,"MusicGroup,Thing",,"Pop,dance-pop,teen pop",
+22,18,424,1997-04-19,Rollins Band,/wiki/Rollins_Band,Rock band,"MusicGroup,Thing",,"Alternative metal,hard rock,post-hardcore,funk metal",
+22,19,425,1997-05-10,Jewel,/wiki/Jewel_(musician),Supermarket company,"Corporation,Thing,Organization",1974-05-23,"Pop,folk,pop rock,country",
+22,20,426,1997-05-17,En Vogue,/wiki/En_Vogue,Pop group,"MusicGroup,Thing",,"R&B,dance-pop,pop,soul,hip hop",
+23,1,427,1997-09-27,Jamiroquai,/wiki/Jamiroquai,Band,"Thing,MusicGroup",,"Funk,acid jazz,jazz-funk,nu-funk,pop,disco-rock",
+23,2,428,1997-10-04,Oasis,/wiki/Oasis_(band),Album by Oasis,"MusicAlbum,Thing",,"Rock,Britpop",
+23,3,429,1997-10-18,Björk,/wiki/Bj%C3%B6rk,Singer-songwriter,"Person,Thing",1965-11-21,"Art pop,experimental,electronica,avant-garde",Female
+23,4,430,1997-10-25,The Mighty Mighty Bosstones,/wiki/The_Mighty_Mighty_Bosstones,Band,"MusicGroup,Thing",,"Ska punk,ska-core,third wave ska,alternative",
+23,5,431,1997-11-08,Jane's Addiction,/wiki/Jane%27s_Addiction,Rock band,"MusicGroup,Thing",1985,"Alternative rock,alternative metal,funk metal,neo-psychedelia,hard rock",
+23,6,432,1997-11-15,Mariah Carey,/wiki/Mariah_Carey,Singer-songwriter,"Thing,Person",1969-03-27,"R&B,pop,hip hop,soul",Female
+23,7,433,1997-11-22,Sarah McLachlan,/wiki/Sarah_McLachlan,Musician,"Thing,Person",1968-01-28,"Pop,rock",Female
+23,8,434,1997-12-06,Metallica,/wiki/Metallica,Band,"MusicGroup,Thing",,"Heavy metal,thrash metal",
+23,8,434,1997-12-06,Marianne Faithfull,/wiki/Marianne_Faithfull,Singer,"Thing,Person",1946-12-29,"Rock,folk,alternative,blues,jazz",Female
+23,9,435,1997-12-13,Hanson,/wiki/Hanson_(band),Pop band,"Thing,MusicGroup",,"Pop rock,pop",
+23,10,436,1998-01-10,Ben Folds Five,/wiki/Ben_Folds_Five,Rock trio,"MusicGroup,Thing",,"Alternative rock,power pop,piano rock",
+23,11,437,1998-01-17,Portishead,/wiki/Portishead_(band),Band,"MusicGroup,Thing",,"Trip hop,experimental rock,electronica,alternative rock,downtempo",
+23,12,438,1998-02-07,Paula Cole,/wiki/Paula_Cole,Singer-songwriter,"Thing,Person",1968-04-05,"Pop,rock",Female
+23,13,439,1998-02-14,Missy Misdemeanor Elliott,/wiki/Missy_Elliott,Rapper,"Thing,Person",1971-07-01,"Hip hop,R&B",Female
+23,14,440,1998-02-28,Garth Brooks,/wiki/Garth_Brooks,Singer-songwriter,"Thing,Person",1962-02-07,"Country,country pop,country rock",Male
+23,15,441,1998-03-07,Natalie Imbruglia,/wiki/Natalie_Imbruglia,Singer-songwriter,"Person,Thing",1975-02-04,Pop rock,Female
+23,16,442,1998-03-14,Backstreet Boys,/wiki/Backstreet_Boys,Vocal group,"MusicGroup,Thing",,"Pop,dance-pop,R&B",
+23,17,443,1998-04-04,Third Eye Blind,/wiki/Third_Eye_Blind,Rock band,"Thing,MusicGroup",,"Alternative rock,pop rock,post-grunge",
+23,18,444,1998-04-11,All Saints,/wiki/All_Saints_(group),,"Person,Thing",,"Pop,R&B,electronica",Female
+23,19,445,1998-05-02,Natalie Merchant,/wiki/Natalie_Merchant,Singer-songwriter,"Thing,Person",1963-10-26,"Alternative rock,pop,folk",Female
+23,20,446,1998-05-09,Puff Daddy,/wiki/Puff_Daddy,Rapper,"Person,Thing",1969-11-04,"Hip hop,R&B",Male
+23,20,446,1998-05-09,Jimmy Page,/wiki/Jimmy_Page,Musician,"Person,Thing",1944-01-09,"Rock,blues,folk,hard rock,heavy metal",Male
+24,1,447,1998-09-26,The Smashing Pumpkins,/wiki/The_Smashing_Pumpkins,Rock band,"MusicGroup,Thing",,Alternative rock,
+24,2,448,1998-10-03,Sheryl Crow,/wiki/Sheryl_Crow,Singer-songwriter,"Person,Thing",1962-02-11,"Pop,rock,country",Female
+24,3,449,1998-10-17,Elliott Smith,/wiki/Elliott_Smith,Singer-songwriter,"Person,Thing",1969-08-06,"Indie folk,indie pop,indie rock,lo-fi",Male
+24,4,450,1998-10-24,Alanis Morissette,/wiki/Alanis_Morissette,Singer-songwriter,"Person,Thing",1974-06-01,"Alternative rock,post-grunge,pop rock,electronica,dance-pop",Female
+24,5,451,1998-11-07,Eagle-Eye Cherry,/wiki/Eagle-Eye_Cherry,Musician,"Thing,Person",1969-05-07,"Rock,post-grunge,alternative rock,acoustic",Male
+24,6,452,1998-11-14,Jewel,/wiki/Jewel_(musician),Supermarket company,"Corporation,Thing,Organization",1974-05-23,"Pop,folk,pop rock,country",
+24,7,453,1998-11-21,Beastie Boys,/wiki/Beastie_Boys,Hip hop group,"MusicGroup,Thing",,"Hip hop,rap rock,hardcore hip hop,alternative hip hop,rapcore,hardcore punk",
+24,8,454,1998-12-05,Lauryn Hill,/wiki/Lauryn_Hill,Singer-songwriter,"Person,Thing",1975-05-26,"R&B,soul,neo soul,hip hop,folk,reggae",Female
+24,9,455,1998-12-12,Luciano Pavarotti,/wiki/Luciano_Pavarotti,Music performer,"Thing,Person",1935-10-12,,Male
+24,9,455,1998-12-12,Vanessa Williams,/wiki/Vanessa_L._Williams,Actress,"Person,Thing",1963-03-18,"R&B,pop,soul,dance,jazz",Female
+24,9,455,1998-12-12,Philadelphia Boys Choir & Chorale,/wiki/Philadelphia_Boys_Choir_%26_Chorale,Choir,"MusicGroup,Thing,Organization,Corporation",,,
+24,10,456,1999-01-09,Beck,/wiki/Beck,Singer-songwriter,"Thing,Person",1970-07-08,"Alternative rock,anti-folk,art pop,Americana,alternative hip hop",Male
+24,11,457,1999-01-16,Everlast,/wiki/Everlast_(singer),Rapper,"Thing,Person",1969-08-18,"Hip hop,rock,blues",Male
+24,12,458,1999-02-06,Barenaked Ladies,/wiki/Barenaked_Ladies,Rock band,"MusicGroup,Thing",,"Alternative rock,Jangle pop,College rock,Folk rock",
+24,13,459,1999-02-13,Busta Rhymes,/wiki/Busta_Rhymes,Actor,"Person,Thing",1972-05-20,Hip hop,Male
+24,13,459,1999-02-13,The Roots,/wiki/The_Roots,Hip hop group,"Thing,MusicGroup",1987,"Hip hop,alternative hip hop,neo soul,jazz rap",
+24,14,460,1999-02-20,Lucinda Williams,/wiki/Lucinda_Williams,Singer-songwriter,"Thing,Person",1953-01-26,"Americana,Folk Rock,Country Rock,Alternative Country,Heartland Rock,Blues",Female
+24,15,461,1999-03-13,The Corrs,/wiki/The_Corrs,Band,"MusicGroup,Thing",,"Alternative rock,folk rock,Celtic,pop rock,Celtic fusion",
+24,16,462,1999-03-20,Garbage,/wiki/Garbage_(band),Rock band,"Thing,MusicGroup",,"Alternative rock,electronic rock,industrial rock,trip hop,grunge",
+24,17,463,1999-04-10,Tom Petty & the Heartbreakers,/wiki/Tom_Petty_%26_the_Heartbreakers,Rock band,"MusicGroup,Thing",,"Rock,heartland rock,blues rock,hard rock",
+24,18,464,1999-05-08,Ricky Martin,/wiki/Ricky_Martin,Singer,"Thing,Person",1971-12-24,"Pop,Latin pop,dance-pop,rock,urban pop,reggae",Male
+24,19,465,1999-05-15,Backstreet Boys,/wiki/Backstreet_Boys,Vocal group,"MusicGroup,Thing",,"Pop,dance-pop,R&B",
+25,1,466,1999-10-02,David Bowie,/wiki/David_Bowie,Singer-songwriter,"Thing,Person",1947-01-08,"Art rock,glam rock,pop,electronic,experimental",Male
+25,2,467,1999-10-16,Marc Anthony,/wiki/Marc_Anthony,Singer-songwriter,"Person,Thing",1968-09-16,"Salsa,pop,Latin pop,freestyle",Male
+25,3,468,1999-10-23,Dr. Dre,/wiki/Dr._Dre,Rapper,"Person,Thing",1965-02-18,"Hip hop,gangsta rap,G-funk",Male
+25,3,468,1999-10-23,Snoop Dogg,/wiki/Snoop_Dogg,Rapper,"Person,Thing",1971-10-20,"Hip hop,funk,R&B,reggae",Male
+25,3,468,1999-10-23,Eminem,/wiki/Eminem,Rapper,"Thing,Person",1972-10-17,Hip hop,Male
+25,4,469,1999-11-06,Foo Fighters,/wiki/Foo_Fighters,Rock band,"MusicGroup,Thing",,"Alternative rock,post-grunge,hard rock",
+25,5,470,1999-11-13,Chris Gaines,/wiki/Chris_Gaines,Singer,Thing,,"Alternative rock,rock",
+25,6,471,1999-11-20,Sting,/wiki/Sting_(musician),Musician,"Person,Thing",1951-10-02,"Rock,pop,new wave,jazz,world",Male
+25,7,472,1999-12-04,Beck,/wiki/Beck,Singer-songwriter,"Thing,Person",1970-07-08,"Alternative rock,anti-folk,art pop,Americana,alternative hip hop",Male
+25,8,473,1999-12-11,R.E.M.,/wiki/R.E.M.,Rock band,"MusicGroup,Thing",1980,"Alternative rock,folk rock,college rock,jangle pop",
+25,9,474,2000-01-08,Blink-182,/wiki/Blink-182,Rock band,"MusicGroup,Thing",,"Pop punk,alternative rock,punk rock,skate punk",
+25,10,475,2000-01-15,Macy Gray,/wiki/Macy_Gray,Singer-songwriter,"Thing,Person",1967-09-06,"R&B,soul,jazz",Female
+25,11,476,2000-02-05,Jennifer Lopez,/wiki/Jennifer_Lopez,Singer,"Person,Thing",1969-07-24,"R&B,pop,Latin,hip hop,dance",Female
+25,12,477,2000-02-12,DMX,/wiki/DMX_(rapper),Rapper,"Person,Thing",1970-12-18,Hip hop,Male
+25,13,478,2000-02-19,Fiona Apple,/wiki/Fiona_Apple,Singer-songwriter,"Thing,Person",1977-09-13,"Art pop,baroque pop,jazz",Female
+25,14,479,2000-03-11,'N Sync,/wiki/%27N_Sync,Boy band,"MusicGroup,Thing",,"Pop,dance-pop,teen pop",
+25,15,480,2000-03-18,AC/DC,/wiki/AC/DC,Rock band,"MusicGroup,Thing",1973,"Hard rock,blues rock,rock and roll",
+25,16,481,2000-04-08,Christina Aguilera,/wiki/Christina_Aguilera,Singer-songwriter,"Person,Thing",1980-12-18,"R&B,pop,dance-pop,soul",Female
+25,17,482,2000-04-15,Sisqó,/wiki/Sisq%C3%B3,Singer-songwriter,"Thing,Person",1978-11-09,"R&B,hip hop soul",Male
+25,18,483,2000-05-06,Neil Young,/wiki/Neil_Young,Singer-songwriter,"Thing,Person",1945-11-12,"Rock,folk rock,hard rock,country rock,grunge",Male
+25,19,484,2000-05-13,Britney Spears,/wiki/Britney_Spears,Singer,"Thing,Person",1981-12-02,"Pop,dance",Female
+25,20,485,2000-05-20,Kid Rock,/wiki/Kid_Rock,Singer,"Thing,Person",1971-01-17,"Rock,hip hop,rap rock,country,nu metal",Male
+26,1,486,2000-10-07,Eminem,/wiki/Eminem,Rapper,"Thing,Person",1972-10-17,Hip hop,Male
+26,2,487,2000-10-14,Radiohead,/wiki/Radiohead,Rock band,"MusicGroup,Thing",,"Art rock,alternative rock,electronica,experimental rock",
+26,3,488,2000-10-21,The Wallflowers,/wiki/The_Wallflowers,Rock band,"MusicGroup,Thing",,"Alternative rock,roots rock",
+26,4,489,2000-11-04,Paul Simon,/wiki/Paul_Simon,Musician,"Person,Thing",1941-10-13,"Folk,rock,pop,world",Male
+26,5,490,2000-11-11,Ricky Martin,/wiki/Ricky_Martin,Singer,"Thing,Person",1971-12-24,"Pop,Latin pop,dance-pop,rock,urban pop,reggae",Male
+26,6,491,2000-11-18,David Gray,/wiki/David_Gray_(musician),Singer-songwriter,"Person,Thing",1968-06-13,"Rock,folk rock,folktronica",Male
+26,7,492,2000-12-09,U2,/wiki/U2,Rock band,"Thing,MusicGroup",,"Rock,alternative rock,post-punk",
+26,8,493,2000-12-16,Jay-Z,/wiki/Jay-Z,Rapper,"Person,Thing",1969-12-04,Hip hop,Male
+26,9,494,2001-01-13,Nelly Furtado,/wiki/Nelly_Furtado,Singer-songwriter,"Thing,Person",1978-12-02,"Pop,R&B,dance-pop,folk,world,hip hop,latin",Female
+26,10,495,2001-01-20,Lenny Kravitz,/wiki/Lenny_Kravitz,Singer-songwriter,"Person,Thing",1964-05-26,"Rock,funk rock,hard rock,neo-psychedelia,neo soul",Male
+26,11,496,2001-02-10,Jennifer Lopez,/wiki/Jennifer_Lopez,Singer,"Person,Thing",1969-07-24,"R&B,pop,Latin,hip hop,dance",Female
+26,12,497,2001-02-17,Shaggy,/wiki/Shaggy_(artist),Singer,"Thing,Person",1968-10-22,Reggae fusion,Male
+26,13,498,2001-02-24,Dave Matthews Band,/wiki/Dave_Matthews_Band,Rock band,"MusicGroup,Thing",,"Rock,jam,jazz fusion,folk rock,bluegrass,funk rock,pop rock,alternative rock",
+26,14,499,2001-03-10,Don Henley,/wiki/Don_Henley,Singer,"Person,Thing",1947-07-22,"Rock,pop rock,country rock,soft rock,folk rock,hard rock",Male
+26,15,500,2001-03-17,Aerosmith,/wiki/Aerosmith,Rock band,"MusicGroup,Thing",,"Hard rock,blues rock,glam metal",
+26,16,501,2001-04-07,Coldplay,/wiki/Coldplay,Rock band,"Thing,MusicGroup",,"Alternative rock,post-Britpop,pop rock,pop,piano rock",
+26,17,502,2001-04-14,Eve,/wiki/Eve_(entertainer),Rapper,"Thing,Person",1978-11-10,Hip hop,Female
+26,18,503,2001-05-05,Destiny's Child,/wiki/Destiny%27s_Child,Girl group,"Thing,MusicGroup",1997,R&B,
+26,19,504,2001-05-12,Bon Jovi,/wiki/Bon_Jovi,Rock band,"MusicGroup,Thing",,"Hard rock,glam metal,arena rock,pop rock",
+26,20,505,2001-05-19,Weezer,/wiki/Weezer,Rock band,"MusicGroup,Thing",,"Alternative rock,power pop,pop punk,emo,indie rock",
+27,1,506,2001-09-29,Alicia Keys,/wiki/Alicia_Keys,Singer-songwriter,"Person,Thing",1981-01-25,"R&B,soul,jazz,hip hop",Female
+27,2,507,2001-10-06,Sum 41,/wiki/Sum_41,Rock band,"MusicGroup,Thing",,"Punk rock,pop punk,skate punk,alternative rock,alternative metal",
+27,3,508,2001-10-13,Macy Gray,/wiki/Macy_Gray,Singer-songwriter,"Thing,Person",1967-09-06,"R&B,soul,jazz",Female
+27,4,509,2001-11-03,Ja Rule,/wiki/Ja_Rule,Singer,"Thing,Person",1976-02-29,"Hip hop,pop rap",Male
+27,5,510,2001-11-10,Ryan Adams,/wiki/Ryan_Adams,Singer-songwriter,"Thing,Person",1974-11-05,"Rock,alternative country,folk rock",Male
+27,6,511,2001-11-17,Creed,/wiki/Creed_(band),Video game series,"VideoGameSeries,Thing",,"Post-grunge,alternative rock,hard rock,heavy metal",
+27,7,512,2001-12-01,Shakira,/wiki/Shakira,Singer-songwriter,"Person,Thing",1977-02-02,"Pop,Latin pop,rock en español,dance,folk,world",Female
+27,7,512,2001-12-01,Bubba Sparxxx,/wiki/Bubba_Sparxxx,Rapper,"Thing,Person",1977-03-06,"Southern hip hop,country rap",Male
+27,8,513,2001-12-08,Mick Jagger,/wiki/Mick_Jagger,Singer,"Person,Thing",1943-07-26,"Rock,blues,pop",Male
+27,9,514,2001-12-15,No Doubt,/wiki/No_Doubt,Rock band,"MusicGroup,Thing",,"Hip hop,Ska punk,alternative rock,new wave,dancehall,pop rock,reggae,synthpop",
+27,10,515,2002-01-12,Pink,/wiki/Pink_(singer),Rock band,"Thing,MusicGroup",1979-09-08,"pop rock,R&B,Pop",
+27,11,516,2002-01-19,The Strokes,/wiki/The_Strokes,Rock band,"MusicGroup,Thing",1998,"Indie rock,garage rock revival,post-punk revival",
+27,12,517,2002-02-02,Britney Spears,/wiki/Britney_Spears,Singer,"Thing,Person",1981-12-02,"Pop,dance",Female
+27,13,518,2002-03-02,Outkast,/wiki/Outkast,Hip hop duo,"MusicGroup,Thing",1991,Hip hop,
+27,14,519,2002-03-09,India.Arie,/wiki/India.Arie,Singer-songwriter,"Person,Thing",1975-10-03,"Soul,neo soul,folk",Female
+27,15,520,2002-03-16,Kylie Minogue,/wiki/Kylie_Minogue,Singer-songwriter,"Person,Thing",1968-05-28,"Pop,dance-pop,synthpop,nu-disco",Female
+27,16,521,2002-04-06,Jimmy Eat World,/wiki/Jimmy_Eat_World,Rock band,"MusicGroup,Thing",,"Alternative rock,emo,power pop,pop punk",
+27,17,522,2002-04-13,Andrew W.K.,/wiki/Andrew_W.K.,Singer-songwriter,"Thing,Person",1979-05-09,"Punk rock,alternative rock,nu-metal,hard rock,alternative metal,heavy metal,experimental",Male
+27,18,523,2002-04-20,P.O.D.,/wiki/P.O.D.,Band,"MusicGroup,Thing",,"Christian metal,nu metal,rap metal,alternative metal,rapcore,hard rock",
+27,19,524,2002-05-11,Eminem,/wiki/Eminem,Rapper,"Thing,Person",1972-10-17,Hip hop,Male
+27,20,525,2002-05-18,Moby,/wiki/Moby_(musician),DJ,"Person,Thing",1965-09-11,"Electronica,downtempo,trip hop,ambient,house,techno",Male
+28,1,526,2002-10-05,Bruce Springsteen,/wiki/Bruce_Springsteen,Singer-songwriter,"Person,Thing",1949-09-23,"Rock,heartland rock,folk rock,hard rock,rock and roll",Male
+28,1,526,2002-10-05,E Street Band,/wiki/E_Street_Band,Singer-songwriter,"Person,Thing",,Rock,Male
+28,2,527,2002-10-12,Faith Hill,/wiki/Faith_Hill,Singer,"Person,Thing",1967-09-21,Country,Female
+28,3,528,2002-10-19,The White Stripes,/wiki/The_White_Stripes,Rock duo,"Thing,MusicGroup",,"Blues rock,garage rock,indie rock,punk blues,post-punk revival,garage punk",
+28,4,529,2002-11-02,Jay-Z,/wiki/Jay-Z,Rapper,"Person,Thing",1969-12-04,Hip hop,Male
+28,5,530,2002-11-09,Eve,/wiki/Eve_(entertainer),Rapper,"Thing,Person",1978-11-10,Hip hop,Female
+28,6,531,2002-11-16,Nelly,/wiki/Nelly,Rapper,"Thing,Person",1974-11-02,"Hip hop,pop,R&B",Male
+28,7,532,2002-12-07,Norah Jones,/wiki/Norah_Jones,Singer-songwriter,"Person,Thing",1979-03-30,"Jazz,blue-eyed soul,blues,folk,country,adult contemporary,pop",Female
+28,8,533,2002-12-14,Phish,/wiki/Phish,Band,"MusicGroup,Thing",,"Rock,jam band",
+28,9,534,2003-01-11,Avril Lavigne,/wiki/Avril_Lavigne,Singer-songwriter,"Person,Thing",1984-09-27,"Pop punk,pop rock,alternative rock,post-grunge",Female
+28,10,535,2003-01-18,The Donnas,/wiki/The_Donnas,Rock band,"MusicGroup,Thing",1993,"Rock,hard rock,pop punk,garage punk",
+28,11,536,2003-02-08,Dixie Chicks,/wiki/Dixie_Chicks,Musical band,"MusicGroup,Thing",,"Country pop,country,Americana,alternative country,folk,bluegrass",
+28,12,537,2003-02-15,Beck,/wiki/Beck,Singer-songwriter,"Thing,Person",1970-07-08,"Alternative rock,anti-folk,art pop,Americana,alternative hip hop",Male
+28,13,538,2003-02-22,Foo Fighters,/wiki/Foo_Fighters,Rock band,"MusicGroup,Thing",,"Alternative rock,post-grunge,hard rock",
+28,14,539,2003-03-08,Ms. Dynamite,/wiki/Ms._Dynamite,Rapper,"Thing,Person",1981-04-26,"R&B,grime,hip hop,2-step garage",Female
+28,15,540,2003-03-15,Christina Aguilera,/wiki/Christina_Aguilera,Singer-songwriter,"Person,Thing",1980-12-18,"R&B,pop,dance-pop,soul",Female
+28,16,541,2003-04-05,Good Charlotte,/wiki/Good_Charlotte,Pop band,"MusicGroup,Thing",,"Alternative rock,pop punk",
+28,17,542,2003-04-12,Zwan,/wiki/Zwan,Rock band,"MusicGroup,Thing",,"Alternative rock,pop rock,power pop",
+28,18,543,2003-05-03,50 Cent,/wiki/50_Cent,Rapper,"Thing,Person",1975-07-06,Hip hop,Male
+28,19,544,2003-05-10,Sean Paul,/wiki/Sean_Paul,Hip-hop artist,"Thing,Person",1973-01-09,"Dancehall,reggae fusion,pop,reggae,ragga",Male
+28,19,544,2003-05-10,Wayne Wonder,/wiki/Wayne_Wonder,Musical Artist,"Thing,Person",1972-07-26,"Reggae fusion,dancehall,reggae,R&B",Male
+28,20,545,2003-05-17,Beyoncé,/wiki/Beyonc%C3%A9,Singer-songwriter,"Thing,Person",1981-09-04,"R&B,pop",Female
+29,1,546,2003-10-04,John Mayer,/wiki/John_Mayer,Singer-songwriter,"Person,Thing",1977-10-16,"Pop,rock,blues,folk,country,soul",Male
+29,2,547,2003-10-11,Justin Timberlake,/wiki/Justin_Timberlake,Singer-songwriter,"Person,Thing",1981-01-31,"Pop,R&B,neo soul",Male
+29,3,548,2003-10-18,Britney Spears,/wiki/Britney_Spears,Singer,"Thing,Person",1981-12-02,"Pop,dance",Female
+29,4,549,2003-11-01,Outkast,/wiki/Outkast,Hip hop duo,"MusicGroup,Thing",1991,Hip hop,
+29,5,550,2003-11-08,Dave Matthews & Friends,/wiki/Dave_Matthews_%26_Friends,Singer-songwriter,"Thing,Person",,"Rock,Jam band",Female
+29,6,551,2003-11-15,Missy Elliott,/wiki/Missy_Elliott,Rapper,"Thing,Person",1971-07-01,"Hip hop,R&B",Female
+29,7,552,2003-12-06,Pink,/wiki/Pink_(singer),Rock band,"Thing,MusicGroup",1979-09-08,"pop rock,R&B,Pop",
+29,8,553,2003-12-13,Jet,/wiki/Jet_(band),,Thing,,"Garage rock,hard rock,power pop",
+29,9,554,2004-01-10,The Black Eyed Peas,/wiki/The_Black_Eyed_Peas,Hip hop group,"Thing,MusicGroup",,"Pop,dance-pop,EDM,hip hop",
+29,10,555,2004-01-17,G-Unit,/wiki/G-Unit,Hip hop group,"Thing,MusicGroup",,Hip hop,
+29,11,556,2004-02-07,Clay Aiken,/wiki/Clay_Aiken,Singer-songwriter,"Person,Thing",1978-11-30,"Pop,soft rock,R&B,acoustic",Male
+29,12,557,2004-02-14,Kelis,/wiki/Kelis,Singer-songwriter,"Person,Thing",1979-08-21,"R&B,hip hop,soul,dance",Female
+29,13,558,2004-02-21,Maroon 5,/wiki/Maroon_5,Pop band,"MusicGroup,Thing",,"Pop rock,funk rock,dance-pop,blue-eyed soul,neo soul",
+29,14,559,2004-03-06,Norah Jones,/wiki/Norah_Jones,Singer-songwriter,"Person,Thing",1979-03-30,"Jazz,blue-eyed soul,blues,folk,country,adult contemporary,pop",Female
+29,15,560,2004-03-13,N*E*R*D,/wiki/N*E*R*D,Rock band,"MusicGroup,Thing",,"Alternative rock,avant-funk,alternative hip hop,alternative R&B,progressive pop",
+29,16,561,2004-04-03,Toots & the Maytals,/wiki/Toots_%26_the_Maytals,Musical Group,"MusicGroup,Thing",,"Ska,Rocksteady,Reggae",
+29,16,561,2004-04-03,Ben Harper,/wiki/Ben_Harper,Singer-songwriter,"Thing,Person",1969-10-28,"Folk rock,blues rock,alternative rock,soul,funk rock,gospel,reggae,jam rock,neofolk",Male
+29,16,561,2004-04-03,Jack Johnson,/wiki/Jack_Johnson_(musician),Studio album by Jack Johnson,"MusicAlbum,Thing",1975-05-18,"Folk rock,soft rock,acoustic rock,surf rock",
+29,16,561,2004-04-03,Bootsy Collins,/wiki/Bootsy_Collins,Musician,"Person,Thing",1951-10-26,"Funk,soul,rock,psychedelic soul,rhythm and blues,hip hop",Male
+29,16,561,2004-04-03,The Roots,/wiki/The_Roots,Hip hop group,"Thing,MusicGroup",1987,"Hip hop,alternative hip hop,neo soul,jazz rap",
+29,17,562,2004-04-10,Janet Jackson,/wiki/Janet_Jackson,Singer-songwriter,"Person,Thing",1966-05-16,"Pop,R&B,hip hop,dance",Female
+29,18,563,2004-05-01,Usher,/wiki/Usher_(entertainer),Singer-songwriter,"Thing,Person",1978-10-14,"R&B,pop",Male
+29,19,564,2004-05-08,Avril Lavigne,/wiki/Avril_Lavigne,Singer-songwriter,"Person,Thing",1984-09-27,"Pop punk,pop rock,alternative rock,post-grunge",Female
+29,20,565,2004-05-15,J-Kwon,/wiki/J-Kwon,Rapper,"Thing,Person",1986-03-28,Hip hop,Male
+30,1,566,2004-10-02,Nelly,/wiki/Nelly,Rapper,"Thing,Person",1974-11-02,"Hip hop,pop,R&B",Male
+30,2,567,2004-10-09,Queen Latifah,/wiki/Queen_Latifah,Rapper,"Person,Thing",1970-03-18,"R&B,soul,jazz,hip hop,gospel,dance",Female
+30,3,568,2004-10-23,Ashlee Simpson,/wiki/Ashlee_Simpson,Singer-songwriter,"Thing,Person",1984-10-03,"Pop rock,pop punk,power pop",Female
+30,4,569,2004-10-30,Eminem,/wiki/Eminem,Rapper,"Thing,Person",1972-10-17,Hip hop,Male
+30,5,570,2004-11-13,Modest Mouse,/wiki/Modest_Mouse,Rock band,"Thing,MusicGroup",,"Indie rock,alternative rock",
+30,6,571,2004-11-20,U2,/wiki/U2,Rock band,"Thing,MusicGroup",,"Rock,alternative rock,post-punk",
+30,7,572,2004-12-11,Scissor Sisters,/wiki/Scissor_Sisters,Pop group,"Thing,MusicGroup",,"Pop rock,indie pop,glam rock,nu-disco,electroclash",
+30,8,573,2004-12-18,Destiny's Child,/wiki/Destiny%27s_Child,Girl group,"Thing,MusicGroup",1997,R&B,
+30,9,574,2005-01-15,The Killers,/wiki/The_Killers,Rock band,"Thing,MusicGroup",,"Alternative rock,indie rock,post-punk revival,new wave,heartland rock",
+30,10,575,2005-01-22,Ludacris,/wiki/Ludacris,Hip-hop artist,"Thing,Person",1977-09-11,Hip hop,Male
+30,10,575,2005-01-22,Sum 41,/wiki/Sum_41,Rock band,"MusicGroup,Thing",,"Punk rock,pop punk,skate punk,alternative rock,alternative metal",
+30,11,576,2005-02-05,Keane,/wiki/Keane_(band),Pop band,"MusicGroup,Thing",,"Alternative rock,alternative pop,piano rock,pop rock",
+30,12,577,2005-02-12,Kelly Clarkson,/wiki/Kelly_Clarkson,Singer-songwriter,"Person,Thing",1982-04-24,Pop,Female
+30,13,578,2005-02-19,50 Cent,/wiki/50_Cent,Rapper,"Thing,Person",1975-07-06,Hip hop,Male
+30,14,579,2005-03-12,Jack Johnson,/wiki/Jack_Johnson_(musician),Studio album by Jack Johnson,"MusicAlbum,Thing",1975-05-18,"Folk rock,soft rock,acoustic rock,surf rock",
+30,15,580,2005-03-19,Gwen Stefani,/wiki/Gwen_Stefani,Singer-songwriter,"Person,Thing",1969-10-03,"Pop,dance-pop,synthpop,R&B,new wave,hip hop",Female
+30,16,581,2005-04-09,Green Day,/wiki/Green_Day,Rock band,"MusicGroup,Thing",,"Punk rock,pop punk,alternative rock",
+30,17,582,2005-04-16,Beck,/wiki/Beck,Singer-songwriter,"Thing,Person",1970-07-08,"Alternative rock,anti-folk,art pop,Americana,alternative hip hop",Male
+30,18,583,2005-05-07,System of a Down,/wiki/System_of_a_Down,Band,"MusicGroup,Thing",,"Alternative metal,nu metal,hard rock,progressive metal",
+30,19,584,2005-05-14,Queens of the Stone Age,/wiki/Queens_of_the_Stone_Age,Rock band,"MusicGroup,Thing",1996,"Alternative rock,stoner rock,hard rock,alternative metal",
+30,20,585,2005-05-21,Coldplay,/wiki/Coldplay,Rock band,"Thing,MusicGroup",,"Alternative rock,post-Britpop,pop rock,pop,piano rock",
+31,1,586,2005-10-01,Kanye West,/wiki/Kanye_West,Rapper,"Person,Thing",1977-06-08,Hip hop,Male
+31,2,587,2005-10-08,Ashlee Simpson,/wiki/Ashlee_Simpson,Singer-songwriter,"Thing,Person",1984-10-03,"Pop rock,pop punk,power pop",Female
+31,3,588,2005-10-22,Franz Ferdinand,/wiki/Franz_Ferdinand_(band),Archduke of Austria,"Person,Thing",,"Indie rock,post-punk revival,dance-punk,dance-rock,art rock",Male
+31,4,589,2005-10-29,Sheryl Crow,/wiki/Sheryl_Crow,Singer-songwriter,"Person,Thing",1962-02-11,"Pop,rock,country",Female
+31,5,590,2005-11-12,Foo Fighters,/wiki/Foo_Fighters,Rock band,"MusicGroup,Thing",,"Alternative rock,post-grunge,hard rock",
+31,6,591,2005-11-19,Korn,/wiki/Korn,Band,"Thing,MusicGroup",,"Nu metal,alternative metal",
+31,7,592,2005-12-03,James Blunt,/wiki/James_Blunt,Singer-songwriter,"Person,Thing",1974-02-22,"Pop rock,folk rock",Male
+31,8,593,2005-12-10,Shakira,/wiki/Shakira,Singer-songwriter,"Person,Thing",1977-02-02,"Pop,Latin pop,rock en español,dance,folk,world",Female
+31,9,594,2005-12-17,Neil Young,/wiki/Neil_Young,Singer-songwriter,"Thing,Person",1945-11-12,"Rock,folk rock,hard rock,country rock,grunge",Male
+31,10,595,2006-01-14,Death Cab for Cutie,/wiki/Death_Cab_for_Cutie,Rock band,"Thing,MusicGroup",,"Alternative rock,indie rock,indie pop",
+31,11,596,2006-01-21,The Strokes,/wiki/The_Strokes,Rock band,"MusicGroup,Thing",1998,"Indie rock,garage rock revival,post-punk revival",
+31,12,597,2006-02-04,Prince,/wiki/Prince_(musician),Duke of Cornwall,"Person,Thing",1958-06-07,"Funk,pop,R&B,rock",Male
+31,13,598,2006-03-04,Fall Out Boy,/wiki/Fall_Out_Boy,Rock band,"MusicGroup,Thing",,"Pop punk,pop rock,emo pop,emo",
+31,14,599,2006-03-11,Arctic Monkeys,/wiki/Arctic_Monkeys,Rock band,"MusicGroup,Thing",,"Indie rock,garage rock,post-punk revival",
+31,15,600,2006-04-08,Mary J. Blige,/wiki/Mary_J._Blige,Singer-songwriter,"Person,Thing",1971-01-11,"R&B,soul,hip hop soul,neo soul",Female
+31,16,601,2006-04-15,Pearl Jam,/wiki/Pearl_Jam,Rock band,"MusicGroup,Thing",1990,"Alternative rock,grunge,hard rock",
+31,17,602,2006-05-06,Red Hot Chili Peppers,/wiki/Red_Hot_Chili_Peppers,Rock band,"MusicGroup,Thing",1983,"Funk rock,alternative rock,funk metal,rap rock",
+31,18,603,2006-05-13,Paul Simon,/wiki/Paul_Simon,Musician,"Person,Thing",1941-10-13,"Folk,rock,pop,world",Male
+31,19,604,2006-05-20,Nelly Furtado,/wiki/Nelly_Furtado,Singer-songwriter,"Thing,Person",1978-12-02,"Pop,R&B,dance-pop,folk,world,hip hop,latin",Female
+32,1,605,2006-09-30,The Killers,/wiki/The_Killers,Rock band,"Thing,MusicGroup",,"Alternative rock,indie rock,post-punk revival,new wave,heartland rock",
+32,2,606,2006-10-07,Corinne Bailey Rae,/wiki/Corinne_Bailey_Rae,Singer-songwriter,"Person,Thing",1979-02-26,"Soul,neo soul,R&B,jazz",Female
+32,3,607,2006-10-21,My Chemical Romance,/wiki/My_Chemical_Romance,Rock band,"MusicGroup,Thing",,"Alternative rock,emo,pop punk,post-hardcore,punk rock",
+32,4,608,2006-10-28,Beck,/wiki/Beck,Singer-songwriter,"Thing,Person",1970-07-08,"Alternative rock,anti-folk,art pop,Americana,alternative hip hop",Male
+32,5,609,2006-11-11,Christina Aguilera,/wiki/Christina_Aguilera,Singer-songwriter,"Person,Thing",1980-12-18,"R&B,pop,dance-pop,soul",Female
+32,6,610,2006-11-18,Ludacris,/wiki/Ludacris,Hip-hop artist,"Thing,Person",1977-09-11,Hip hop,Male
+32,7,611,2006-12-02,Tenacious D,/wiki/Tenacious_D,Rock duo,"MusicGroup,Thing",,"Comedy rock,heavy metal,hard rock,acoustic rock",
+32,8,612,2006-12-09,Gwen Stefani,/wiki/Gwen_Stefani,Singer-songwriter,"Person,Thing",1969-10-03,"Pop,dance-pop,synthpop,R&B,new wave,hip hop",Female
+32,8,612,2006-12-09,Akon,/wiki/Akon,Singer,"Person,Thing",1973-04-16,"R&B,hip hop,soul",Male
+32,9,613,2006-12-16,Justin Timberlake,/wiki/Justin_Timberlake,Singer-songwriter,"Person,Thing",1981-01-31,"Pop,R&B,neo soul",Male
+32,10,614,2007-01-13,The Shins,/wiki/The_Shins,Rock band,"Thing,MusicGroup",,"Indie rock,alternative rock,folk rock,dream pop,indie pop,surf rock",
+32,11,615,2007-01-20,AFI,/wiki/AFI_(band),Nonprofit organization,"Organization,CollegeOrUniversity,Thing,EducationalOrganization,MovieTheater,Place",,"Alternative rock,emo,punk rock,hardcore punk",
+32,12,616,2007-02-03,Lily Allen,/wiki/Lily_Allen,Singer-songwriter,"Person,Thing",1985-05-02,,Female
+32,13,617,2007-02-10,Keith Urban,/wiki/Keith_Urban,Musician,"Person,Thing",1967-10-26,"Country,country pop,country rock,pop rock",Male
+32,14,618,2007-02-24,Arcade Fire,/wiki/Arcade_Fire,Rock band,"MusicGroup,Thing",,"Indie rock,art rock",
+32,15,619,2007-03-17,Snow Patrol,/wiki/Snow_Patrol,Rock band,"MusicGroup,Thing",,"Alternative rock,power pop,post-Britpop,indie rock",
+32,16,620,2007-03-24,Carrie Underwood,/wiki/Carrie_Underwood,Singer-songwriter,"Person,Thing",1983-03-10,Country,Female
+32,17,621,2007-04-14,Avril Lavigne,/wiki/Avril_Lavigne,Singer-songwriter,"Person,Thing",1984-09-27,"Pop punk,pop rock,alternative rock,post-grunge",Female
+32,18,622,2007-04-21,Björk,/wiki/Bj%C3%B6rk,Singer-songwriter,"Person,Thing",1965-11-21,"Art pop,experimental,electronica,avant-garde",Female
+32,19,623,2007-05-12,Linkin Park,/wiki/Linkin_Park,Rock band,"Thing,MusicGroup",,"Alternative rock,nu metal,alternative metal,rap rock,electronic rock",
+32,20,624,2007-05-19,Maroon 5,/wiki/Maroon_5,Pop band,"MusicGroup,Thing",,"Pop rock,funk rock,dance-pop,blue-eyed soul,neo soul",
+33,1,625,2007-09-29,Kanye West,/wiki/Kanye_West,Rapper,"Person,Thing",1977-06-08,Hip hop,Male
+33,2,626,2007-10-06,Spoon,/wiki/Spoon_(band),Rock band,"Thing,MusicGroup",,"Indie rock,indie pop,art rock,experimental rock",
+33,3,627,2007-10-13,Foo Fighters,/wiki/Foo_Fighters,Rock band,"MusicGroup,Thing",,"Alternative rock,post-grunge,hard rock",
+33,4,628,2007-11-03,Feist,/wiki/Feist_(singer),Singer-songwriter,"Thing,Person",1976-02-13,"Indie pop,folk,baroque pop",Female
+33,5,629,2008-02-23,Carrie Underwood,/wiki/Carrie_Underwood,Singer-songwriter,"Person,Thing",1983-03-10,Country,Female
+33,6,630,2008-03-01,Wilco,/wiki/Wilco,Rock band,"Thing,MusicGroup",1994,"Alternative rock,experimental rock,art rock,indie rock,alternative country",
+33,7,631,2008-03-08,Vampire Weekend,/wiki/Vampire_Weekend,Rock band,"MusicGroup,Thing",,"Indie pop,indie rock,baroque pop,worldbeat,art pop",
+33,8,632,2008-03-15,Mariah Carey,/wiki/Mariah_Carey,Singer-songwriter,"Thing,Person",1969-03-27,"R&B,pop,hip hop,soul",Female
+33,9,633,2008-04-05,Panic! at the Disco,/wiki/Panic!_at_the_Disco,Rock band,"MusicGroup,Thing",,"Pop rock,pop,pop punk,baroque pop,alternative rock",
+33,10,634,2008-04-12,Gnarls Barkley,/wiki/Gnarls_Barkley,Duo,"Thing,MusicGroup",,"Soul,psychedelic soul,neo soul,alternative rock",
+33,11,635,2008-05-10,My Morning Jacket,/wiki/My_Morning_Jacket,Rock band,"Thing,MusicGroup",,"Indie rock,art rock,psychedelic rock,alternative country,Southern rock,jam,Americana",
+33,12,636,2008-05-17,Usher,/wiki/Usher_(entertainer),Singer-songwriter,"Thing,Person",1978-10-14,"R&B,pop",Male
+34,1,637,2008-09-13,Lil Wayne,/wiki/Lil_Wayne,Hip-hop artist,"Thing,Person",1982-09-27,Hip hop,Male
+34,2,638,2008-09-20,Kings of Leon,/wiki/Kings_of_Leon,Rock band,"Thing,MusicGroup",1999,"Alternative rock,Southern rock,garage rock,pop rock",
+34,3,639,2008-09-27,Duffy,/wiki/Duffy_(singer),Singer-songwriter,"Thing,Person",1984-06-23,"Soul,blue-eyed soul,neo soul,pop,pop rock,dance-pop,blues",Female
+34,4,640,2008-10-04,The Killers,/wiki/The_Killers,Rock band,"Thing,MusicGroup",,"Alternative rock,indie rock,post-punk revival,new wave,heartland rock",
+34,5,641,2008-10-18,Adele,/wiki/Adele,Singer-songwriter,"Person,Thing",1988-05-05,"Soul,pop,blue-eyed soul,R&B",Female
+34,6,642,2008-10-25,Coldplay,/wiki/Coldplay,Rock band,"Thing,MusicGroup",,"Alternative rock,post-Britpop,pop rock,pop,piano rock",
+34,7,643,2008-11-01,David Cook,/wiki/David_Cook_(singer),Singer-songwriter,"Person,Thing",1982-12-20,"Alternative rock,post-grunge",Male
+34,8,644,2008-11-15,Beyoncé,/wiki/Beyonc%c3%a9_Knowles,Singer-songwriter,"Thing,Person",1981-09-04,"R&B,pop",Female
+34,9,645,2008-11-22,Ludacris,/wiki/Ludacris,Hip-hop artist,"Thing,Person",1977-09-11,Hip hop,Male
+34,9,645,2008-11-22,T-Pain,/wiki/T-Pain,Rapper,"Thing,Person",1985-09-30,"Hip hop,R&B",Male
+34,10,646,2008-12-06,T.I.,/wiki/T.I.,Hip-hop artist,"Person,Thing",1980-09-25,"Hip hop,Southern hip hop,trap,R&B,gangsta rap",Male
+34,11,647,2008-12-13,Kanye West,/wiki/Kanye_West,Rapper,"Person,Thing",1977-06-08,Hip hop,Male
+34,12,648,2009-01-10,Taylor Swift,/wiki/Taylor_Swift,Singer-songwriter,"Person,Thing",1989-12-13,"Country,pop",Female
+34,13,649,2009-01-17,Fleet Foxes,/wiki/Fleet_Foxes,Band,"MusicGroup,Thing",,"Indie folk,Americana",
+34,14,650,2009-01-31,Jason Mraz,/wiki/Jason_Mraz,Singer-songwriter,"Thing,Person",1977-06-23,"Pop rock,blue-eyed soul,reggae,acoustic rock,alternative rock,acoustic hip hop",Male
+34,15,651,2009-02-07,TV on the Radio,/wiki/TV_on_the_Radio,Rock band,"MusicGroup,Thing",,"Indie rock,art rock",
+34,16,652,2009-02-14,Jonas Brothers,/wiki/Jonas_Brothers,Pop band,"MusicGroup,Thing",,"Power pop,pop rock",
+34,17,653,2009-03-07,Ray LaMontagne,/wiki/Ray_LaMontagne,Singer-songwriter,"Thing,Person",1973-06-18,"Folk,rock,folk rock,folk blues,soul",Male
+34,18,654,2009-03-14,Kelly Clarkson,/wiki/Kelly_Clarkson,Singer-songwriter,"Person,Thing",1982-04-24,Pop,Female
+34,19,655,2009-04-04,Phoenix,/wiki/Phoenix_(band),City in Arizona,"Place,AdministrativeArea,City,Thing",,"Synthpop,new wave,alternative rock",
+34,20,656,2009-04-11,Yeah Yeah Yeahs,/wiki/Yeah_Yeah_Yeahs,Rock band,"MusicGroup,Thing",2000,"Garage punk,indie rock,art punk,dance-punk,post-punk revival",
+34,21,657,2009-05-09,Ciara,/wiki/Ciara,Singer,"Person,Thing",1985-10-25,"R&B,hip hop,crunk&B,pop,dance",Female
+34,22,658,2009-05-16,Green Day,/wiki/Green_Day,Rock band,"MusicGroup,Thing",,"Punk rock,pop punk,alternative rock",
+35,1,659,2009-09-26,U2,/wiki/U2,Rock band,"Thing,MusicGroup",,"Rock,alternative rock,post-punk",
+35,2,660,2009-10-03,Lady Gaga,/wiki/Lady_Gaga,Singer-songwriter,"Thing,Person",1986-03-28,"Electropop,dance-pop",Female
+35,3,661,2009-10-10,Regina Spektor,/wiki/Regina_Spektor,Singer-songwriter,"Person,Thing",1980-02-18,"Anti-folk,indie pop",Female
+35,4,662,2009-10-17,Shakira,/wiki/Shakira,Singer-songwriter,"Person,Thing",1977-02-02,"Pop,Latin pop,rock en español,dance,folk,world",Female
+35,5,663,2009-11-07,Taylor Swift,/wiki/Taylor_Swift,Singer-songwriter,"Person,Thing",1989-12-13,"Country,pop",Female
+35,6,664,2009-11-14,The Black Eyed Peas,/wiki/The_Black_Eyed_Peas,Hip hop group,"Thing,MusicGroup",,"Pop,dance-pop,EDM,hip hop",
+35,7,665,2009-11-21,Dave Matthews Band,/wiki/Dave_Matthews_Band,Rock band,"MusicGroup,Thing",,"Rock,jam,jazz fusion,folk rock,bluegrass,funk rock,pop rock,alternative rock",
+35,8,666,2009-12-05,Rihanna,/wiki/Rihanna,Singer,"Thing,Person",1988-02-20,"R&B,pop,reggae,hip hop,dance",Female
+35,9,667,2009-12-12,Bon Jovi,/wiki/Bon_Jovi,Rock band,"MusicGroup,Thing",,"Hard rock,glam metal,arena rock,pop rock",
+35,10,668,2009-12-19,Muse,/wiki/Muse_(band),Rock band,"Thing,MusicGroup",,"Alternative rock,progressive rock,hard rock,art rock,space rock,electronica",
+35,11,669,2010-01-09,Alicia Keys,/wiki/Alicia_Keys,Singer-songwriter,"Person,Thing",1981-01-25,"R&B,soul,jazz,hip hop",Female
+35,12,670,2010-01-16,The Ting Tings,/wiki/The_Ting_Tings,Pop duo,"MusicGroup,Thing",,"Indie pop,indie rock,pop rock,dance-punk,synthpop,indietronica,alternative dance,new wave,post-punk revival",
+35,13,671,2010-01-30,Michael Bublé,/wiki/Michael_Bubl%C3%A9,Singer,"Person,Thing",1975-09-09,"Traditional pop,easy listening,jazz,pop rock,vocal jazz,show tunes,swing,big band,blue-eyed soul",Male
+35,14,672,2010-02-06,Them Crooked Vultures,/wiki/Them_Crooked_Vultures,Vocal group,"Thing,MusicGroup",2009,"Hard rock,blues rock,psychedelic rock,Stoner rock",
+35,15,673,2010-02-27,Jennifer Lopez,/wiki/Jennifer_Lopez,Singer,"Person,Thing",1969-07-24,"R&B,pop,Latin,hip hop,dance",Female
+35,16,674,2010-03-06,Vampire Weekend,/wiki/Vampire_Weekend,Rock band,"MusicGroup,Thing",,"Indie pop,indie rock,baroque pop,worldbeat,art pop",
+35,17,675,2010-03-13,Pearl Jam,/wiki/Pearl_Jam,Rock band,"MusicGroup,Thing",1990,"Alternative rock,grunge,hard rock",
+35,18,676,2010-04-10,Justin Bieber,/wiki/Justin_Bieber,Singer-songwriter,"Person,Thing",1994-03-01,"Pop,R&B",Male
+35,19,677,2010-04-17,Ke$ha,/wiki/Kesha,Singer-songwriter,"Person,Thing",1987-03-01,"Synthpop,electropop,pop-rap,rock,dance",Female
+35,20,678,2010-04-24,MGMT,/wiki/MGMT,Rock band,"MusicGroup,Thing",,"Psychedelic rock,indie rock,psychedelic pop,indietronica",
+35,21,679,2010-05-08,Jay-Z,/wiki/Jay-Z,Rapper,"Person,Thing",1969-12-04,Hip hop,Male
+35,22,680,2010-05-15,Tom Petty and the Heartbreakers,/wiki/Tom_Petty_and_the_Heartbreakers,Rock band,"MusicGroup,Thing",,"Rock,heartland rock,blues rock,hard rock",
+36,1,681,2010-09-25,Katy Perry,/wiki/Katy_Perry,Singer-songwriter,"Person,Thing",1984-10-25,"Pop,rock",Female
+36,2,682,2010-10-02,Kanye West,/wiki/Kanye_West,Rapper,"Person,Thing",1977-06-08,Hip hop,Male
+36,3,683,2010-10-09,Bruno Mars,/wiki/Bruno_Mars,Singer-songwriter,"Person,Thing",1985-10-08,"R&B,funk,pop,soul",Male
+36,4,684,2010-10-23,Kings of Leon,/wiki/Kings_of_Leon,Rock band,"Thing,MusicGroup",1999,"Alternative rock,Southern rock,garage rock,pop rock",
+36,5,685,2010-10-30,Rihanna,/wiki/Rihanna,Singer,"Thing,Person",1988-02-20,"R&B,pop,reggae,hip hop,dance",Female
+36,6,686,2010-11-13,Arcade Fire,/wiki/Arcade_Fire,Rock band,"MusicGroup,Thing",,"Indie rock,art rock",
+36,7,687,2010-11-20,Florence + the Machine,/wiki/Florence_and_the_Machine,Rock band,"Thing,MusicGroup",2007,"Indie rock,indie pop,baroque pop,chamber pop,art rock,art pop,neo soul",
+36,8,688,2010-12-04,Diddy-Dirty Money,/wiki/Diddy-Dirty_Money,Boy group,"MusicGroup,Thing",,"Hip hop,R&B",
+36,9,689,2010-12-11,Paul McCartney,/wiki/Paul_McCartney,Singer-songwriter,"Thing,Person",1942-06-18,"Rock,pop,classical,electronic",Male
+36,10,690,2010-12-18,Eminem,/wiki/Eminem,Rapper,"Thing,Person",1972-10-17,Hip hop,Male
+36,10,690,2010-12-18,Lil Wayne,/wiki/Lil_Wayne,Hip-hop artist,"Thing,Person",1982-09-27,Hip hop,Male
+36,11,691,2011-01-08,The Black Keys,/wiki/The_Black_Keys,Rock band,"MusicGroup,Thing",,"Garage rock,blues rock,indie rock",
+36,12,692,2011-01-15,Cee Lo Green,/wiki/Cee_Lo_Green,Singer,"Thing,Person",1974-05-30,"R&B,hip hop,soul,funk",Male
+36,13,693,2011-01-29,Nicki Minaj,/wiki/Nicki_Minaj,Rapper,"Person,Thing",1982-12-08,"Hip hop,R&B,pop",Female
+36,14,694,2011-02-05,Linkin Park,/wiki/Linkin_Park,Rock band,"Thing,MusicGroup",,"Alternative rock,nu metal,alternative metal,rap rock,electronic rock",
+36,15,695,2011-02-12,Chris Brown,/wiki/Chris_Brown_(American_singer),Singer-songwriter,"Thing,Person",1989-05-05,"R&B,hip hop,pop",Male
+36,16,696,2011-03-05,The Strokes,/wiki/The_Strokes,Rock band,"MusicGroup,Thing",1998,"Indie rock,garage rock revival,post-punk revival",
+36,17,697,2011-03-12,Jessie J,/wiki/Jessie_J,Singer-songwriter,"Thing,Person",1988-03-27,"Pop,R&B",Female
+36,18,698,2011-04-02,Elton John,/wiki/Elton_John,Singer,"Thing,Person",1947-03-25,"Rock,piano rock,pop rock,glam rock,soft rock,rhythm and blues",Male
+36,18,698,2011-04-02,Leon Russell,/wiki/Leon_Russell,Musician,"Person,Thing",1942-04-02,"Country,rock,folk,rhythm and blues,folk rock,blues rock",Male
+36,19,699,2011-04-09,Foo Fighters,/wiki/Foo_Fighters,Rock band,"MusicGroup,Thing",,"Alternative rock,post-grunge,hard rock",
+36,20,700,2011-05-07,Ellie Goulding,/wiki/Ellie_Goulding,Singer-songwriter,"Person,Thing",1986-12-30,"Indie pop,synthpop,folktronica",Female
+36,21,701,2011-05-14,Paul Simon,/wiki/Paul_Simon,Musician,"Person,Thing",1941-10-13,"Folk,rock,pop,world",Male
+36,22,702,2011-05-21,Lady Gaga,/wiki/Lady_Gaga,Singer-songwriter,"Thing,Person",1986-03-28,"Electropop,dance-pop",Female
+37,1,703,2011-09-24,Radiohead,/wiki/Radiohead,Rock band,"MusicGroup,Thing",,"Art rock,alternative rock,electronica,experimental rock",
+37,2,704,2011-10-01,Lady Antebellum,/wiki/Lady_Antebellum,Musical Group,"Thing,MusicGroup",,"Country,pop country",
+37,3,705,2011-10-08,Foster the People,/wiki/Foster_the_People,Pop band,"Thing,MusicGroup",,"Indie pop,alternative rock,indietronica,alternative dance,neo-psychedelia",
+37,4,706,2011-10-15,Drake,/wiki/Drake_(entertainer),Rapper,"Person,Thing",1986-10-24,"Hip hop,R&B",Male
+37,5,707,2011-11-05,Maroon 5,/wiki/Maroon_5,Pop band,"MusicGroup,Thing",,"Pop rock,funk rock,dance-pop,blue-eyed soul,neo soul",
+37,6,708,2011-11-12,Coldplay,/wiki/Coldplay,Rock band,"Thing,MusicGroup",,"Alternative rock,post-Britpop,pop rock,pop,piano rock",
+37,7,709,2011-11-19,Florence + The Machine,/wiki/Florence_%2B_The_Machine,Rock band,"Thing,MusicGroup",2007,"Indie rock,indie pop,baroque pop,chamber pop,art rock,art pop,neo soul",
+37,8,710,2011-12-03,The Black Keys,/wiki/The_Black_Keys,Rock band,"MusicGroup,Thing",,"Garage rock,blues rock,indie rock",
+37,9,711,2011-12-10,Robyn,/wiki/Robyn,Singer-songwriter,"Thing,Person",1979-06-12,"Electropop,dance-pop,R&B",Female
+37,10,712,2011-12-17,Michael Bublé,/wiki/Michael_Bubl%C3%A9,Singer,"Person,Thing",1975-09-09,"Traditional pop,easy listening,jazz,pop rock,vocal jazz,show tunes,swing,big band,blue-eyed soul",Male
+37,11,713,2012-01-07,Kelly Clarkson,/wiki/Kelly_Clarkson,Singer-songwriter,"Person,Thing",1982-04-24,Pop,Female
+37,12,714,2012-01-14,Lana Del Rey,/wiki/Lana_Del_Rey,Singer-songwriter,"Thing,Person",1985-06-21,"Baroque pop,dream pop,trip hop,rock,indie pop",Female
+37,13,715,2012-02-04,Bon Iver,/wiki/Bon_Iver,Band,"MusicGroup,Thing",,"Indie folk,chamber pop,folktronica",
+37,14,716,2012-02-11,Karmin,/wiki/Karmin_(band),Pop duo,"Thing,MusicGroup",,"Pop,hip hop,pop rap",
+37,15,717,2012-02-18,Sleigh Bells,/wiki/Sleigh_Bells_(band),Pop duo,"MusicGroup,Thing",,Noise pop,
+37,16,718,2012-03-03,Jack White,/wiki/Jack_White_(musician),Musician,"Thing,Person",1975-07-09,"Rock,alternative rock,garage rock,blues rock,folk rock,blues,punk blues,country",Male
+37,17,719,2012-03-10,The Shins,/wiki/The_Shins,Rock band,"Thing,MusicGroup",,"Indie rock,alternative rock,folk rock,dream pop,indie pop,surf rock",
+37,18,720,2012-04-07,One Direction,/wiki/One_Direction,Pop band,"MusicGroup,Thing",,Pop,
+37,19,721,2012-04-14,Gotye,/wiki/Gotye,Multi-instrumentalist,"Thing,Person",1980-05-21,"Indie rock,alternative rock,indie pop,trip hop",Male
+37,20,722,2012-05-05,Rihanna,/wiki/Rihanna,Singer,"Thing,Person",1988-02-20,"R&B,pop,reggae,hip hop,dance",Female
+37,21,723,2012-05-12,Usher,/wiki/Usher_(entertainer),Singer-songwriter,"Thing,Person",1978-10-14,"R&B,pop",Male
+37,22,724,2012-05-19,Arcade Fire,/wiki/Arcade_Fire,Rock band,"MusicGroup,Thing",,"Indie rock,art rock",
+37,22,724,2012-05-19,Foo Fighters,/wiki/Foo_Fighters,Rock band,"MusicGroup,Thing",,"Alternative rock,post-grunge,hard rock",
+37,22,724,2012-05-19,Jeff Beck,/wiki/Jeff_Beck,Guitarist,"Person,Thing",1944-06-24,"Blues rock,jazz fusion,instrumental rock,hard rock,electronica,progressive rock",Male
+38,1,725,2012-09-15,Frank Ocean,/wiki/Frank_Ocean,Singer,"Thing,Person",1987-10-28,R&B,Male
+38,2,726,2012-09-22,Mumford & Sons,/wiki/Mumford_%26_Sons,Rock band,"Thing,MusicGroup",,"Folk rock,neo-folk,alternative rock",
+38,3,727,2012-10-06,Muse,/wiki/Muse_(band),Rock band,"Thing,MusicGroup",,"Alternative rock,progressive rock,hard rock,art rock,space rock,electronica",
+38,4,728,2012-10-13,Passion Pit,/wiki/Passion_Pit,Band,"MusicGroup,Thing",,"Electropop,alternative dance,indietronica,synthpop,indie pop,neo-psychedelia",
+38,5,729,2012-10-20,Bruno Mars,/wiki/Bruno_Mars,Singer-songwriter,"Person,Thing",1985-10-08,"R&B,funk,pop,soul",Male
+38,6,730,2012-11-03,fun.,/wiki/Fun_(band),Pop band,"MusicGroup,Thing",,"Indie pop,alternative rock,indie rock,baroque pop",
+38,7,731,2012-11-10,Rihanna,/wiki/Rihanna,Singer,"Thing,Person",1988-02-20,"R&B,pop,reggae,hip hop,dance",Female
+38,8,732,2012-11-17,Maroon 5,/wiki/Maroon_5,Pop band,"MusicGroup,Thing",,"Pop rock,funk rock,dance-pop,blue-eyed soul,neo soul",
+38,9,733,2012-12-08,Ne-Yo,/wiki/Ne-Yo,Singer-songwriter,"Person,Thing",,R&B,Male
+38,10,734,2012-12-15,Paul McCartney,/wiki/Paul_McCartney,Singer-songwriter,"Thing,Person",1942-06-18,"Rock,pop,classical,electronic",Male
+38,11,735,2013-01-19,The Lumineers,/wiki/The_Lumineers,Rock band,"Thing,MusicGroup",,"Indie folk,folk rock,Americana",
+38,12,736,2013-01-26,Kendrick Lamar,/wiki/Kendrick_Lamar,Rapper,"Thing,Person",1987-06-17,Hip hop,Male
+38,13,737,2013-02-09,Justin Bieber,/wiki/Justin_Bieber,Singer-songwriter,"Person,Thing",1994-03-01,"Pop,R&B",Male
+38,14,738,2013-02-16,Alabama Shakes,/wiki/Alabama_Shakes,Rock band,"Thing,MusicGroup",2009,"Blues rock,Southern rock,soul",
+38,15,739,2013-03-02,Macklemore,/wiki/Macklemore,Hip-hop artist,"Thing,Person",1983-06-19,"Hip hop,alternative hip hop",Male
+38,15,739,2013-03-02,Ryan Lewis,/wiki/Ryan_Lewis,DJ,"Person,Thing",1988-03-25,"Hip hop,alternative hip hop,hipster hop,indie hip hop,R&B",Male
+38,16,740,2013-03-09,Justin Timberlake,/wiki/Justin_Timberlake,Singer-songwriter,"Person,Thing",1981-01-31,"Pop,R&B,neo soul",Male
+38,17,741,2013-04-06,Phoenix,/wiki/Phoenix_(band),City in Arizona,"Place,AdministrativeArea,City,Thing",,"Synthpop,new wave,alternative rock",
+38,18,742,2013-04-13,Miguel,/wiki/Miguel_(singer),Basketball Team,"SportsTeam,Thing,Organization",1985-10-23,"R&B,alternative R&B,pop,funk,neo soul",
+38,19,743,2013-05-04,Of Monsters and Men,/wiki/Of_Monsters_and_Men,Band,"Thing,MusicGroup",,"Indie folk,folk-pop",
+38,20,744,2013-05-11,Vampire Weekend,/wiki/Vampire_Weekend,Rock band,"MusicGroup,Thing",,"Indie pop,indie rock,baroque pop,worldbeat,art pop",
+38,21,745,2013-05-18,Kanye West,/wiki/Kanye_West,Rapper,"Person,Thing",1977-06-08,Hip hop,Male
+39,1,746,"September 28, 2013",Arcade Fire,/wiki/Arcade_Fire,Rock band,"MusicGroup,Thing",,"Indie rock,art rock",
+39,2,747,2013-10-05,Miley Cyrus,/wiki/Miley_Cyrus,Singer-songwriter,"Thing,Person",1992-11-23,Pop,Female
+39,3,748,2013-10-12,Katy Perry,/wiki/Katy_Perry,Singer-songwriter,"Person,Thing",1984-10-25,"Pop,rock",Female
+39,4,749,2013-10-26,Janelle Monáe,/wiki/Janelle_Mon%C3%A1e,Singer-songwriter,"Person,Thing",1985-12-01,"Psychedelic soul,R&B,funk,soul,pop,art rock",Female
+39,5,750,2013-11-02,Eminem,/wiki/Eminem,Rapper,"Thing,Person",1972-10-17,Hip hop,Male
+39,6,751,2013-11-16,Lady Gaga,/wiki/Lady_Gaga,Singer-songwriter,"Thing,Person",1986-03-28,"Electropop,dance-pop",Female
+39,7,752,2013-11-23,Haim,/wiki/Haim_(band),Pop band,"MusicGroup,Thing",2007,"Pop rock,soft rock,R&B",
+39,8,753,2013-12-07,One Direction,/wiki/One_Direction,Pop band,"MusicGroup,Thing",,Pop,
+39,9,754,2013-12-14,Kings of Leon,/wiki/Kings_of_Leon,Rock band,"Thing,MusicGroup",1999,"Alternative rock,Southern rock,garage rock,pop rock",
+39,10,755,2013-12-21,Justin Timberlake,/wiki/Justin_Timberlake,Singer-songwriter,"Person,Thing",1981-01-31,"Pop,R&B,neo soul",Male
+39,11,756,2014-01-18,Drake,/wiki/Drake_(rapper),Rapper,"Person,Thing",1986-10-24,"Hip hop,R&B",Male
+39,12,757,2014-01-25,Bastille,/wiki/Bastille_(band),,"Event,Thing",,"Indie pop,electropop",
+39,13,758,2014-02-01,Imagine Dragons,/wiki/Imagine_Dragons,Rock band,"MusicGroup,Thing",,"Alternative rock,indie rock,pop rock",
+39,14,759,2014-03-01,Beck,/wiki/Beck,Singer-songwriter,"Thing,Person",1970-07-08,"Alternative rock,anti-folk,art pop,Americana,alternative hip hop",Male
+39,15,760,2014-03-08,The National,/wiki/The_National_(band),Rock band,"MusicGroup,Thing",,"Indie rock,alternative rock,post-punk revival",
+39,16,761,2014-03-29,Sam Smith,/wiki/Sam_Smith_(singer),Singer-songwriter,"Person,Thing",1992-05-19,"Soul,pop,blue-eyed soul,R&B",Male
+39,17,762,2014-04-05,Pharrell Williams,/wiki/Pharrell_Williams,Singer-songwriter,"Thing,Person",1973-04-05,"Hip hop,R&B,funk,pop",Male
+39,18,763,2014-04-12,Ed Sheeran,/wiki/Ed_Sheeran,Studio album by Ed Sheeran,"MusicAlbum,Thing",1991-02-17,"Pop,folk pop,acoustic",
+39,19,764,2014-05-03,Coldplay,/wiki/Coldplay,Rock band,"Thing,MusicGroup",,"Alternative rock,post-Britpop,pop rock,pop,piano rock",
+39,20,765,2014-05-10,The Black Keys,/wiki/The_Black_Keys,Rock band,"MusicGroup,Thing",,"Garage rock,blues rock,indie rock",
+39,21,766,2014-05-17,St. Vincent,/wiki/St._Vincent_(musician),Country,"Country,AdministrativeArea,Thing,Place",1982-09-28,"Art rock,indie rock,chamber rock",
+40,1,767,2014-09-27,Ariana Grande,/wiki/Ariana_Grande,Singer,"Thing,Person",1993-06-26,"Pop,R&B",Female
+40,2,768,2014-10-04,Maroon 5,/wiki/Maroon_5,Pop band,"MusicGroup,Thing",,"Pop rock,funk rock,dance-pop,blue-eyed soul,neo soul",
+40,3,769,2014-10-11,Hozier,/wiki/Hozier_(musician),Musician,"Person,Thing",1990-03-17,"Indie rock,soul,blues,folk,R&B",Male
+40,4,770,2014-10-25,Iggy Azalea,/wiki/Iggy_Azalea,Rapper,"Thing,Person",1990-06-07,"Hip hop,EDM",Female
+40,5,771,2014-11-01,Prince,/wiki/Prince_(musician),Duke of Cornwall,"Person,Thing",1958-06-07,"Funk,pop,R&B,rock",Male
+40,6,772,2014-11-15,Kendrick Lamar,/wiki/Kendrick_Lamar,Rapper,"Thing,Person",1987-06-17,Hip hop,Male
+40,7,773,2014-11-22,Mark Ronson,/wiki/Mark_Ronson,Musician,"Thing,Person",1975-09-04,"Electronic,funk,pop,soul,hip hop,pop rock",Male
+40,7,773,2014-11-22,Bruno Mars,/wiki/Bruno_Mars,Singer-songwriter,"Person,Thing",1985-10-08,"R&B,funk,pop,soul",Male
+40,8,774,2014-12-06,Nicki Minaj,/wiki/Nicki_Minaj,Rapper,"Person,Thing",1982-12-08,"Hip hop,R&B,pop",Female
+40,9,775,2014-12-13,Charli XCX,/wiki/Charli_XCX,Singer-songwriter,"Thing,Person",1992-08-02,"Electropop,pop punk,synthpop,dance pop",Female
+40,10,776,2014-12-20,One Direction,/wiki/One_Direction,Pop band,"MusicGroup,Thing",,Pop,
+40,11,777,2015-01-17,Sia,/wiki/Sia_(musician),Singer-songwriter,"Person,Thing",1975-12-18,"Pop,electropop,indie pop,trip hop,acid jazz",Female
+40,12,778,2015-01-24,Blake Shelton,/wiki/Blake_Shelton,Singer,"Thing,Person",1976-06-18,"Country,bro-country",Male
+40,13,779,2015-01-31,D'Angelo,/wiki/D%27Angelo,Singer-songwriter,"Person,Thing",1974-02-11,"R&B,neo soul,funk,soul,jazz fusion,psychedelic rock",Male
+40,14,780,2015-02-28,Alabama Shakes,/wiki/Alabama_Shakes,Rock band,"Thing,MusicGroup",2009,"Blues rock,Southern rock,soul",
+40,15,781,2015-03-07,Zac Brown Band,/wiki/Zac_Brown_Band,Musical band,"Thing,MusicGroup",,"Southern rock,country,country rock,folk rock",
+40,16,782,2015-03-28,George Ezra,/wiki/George_Ezra,Singer-songwriter,"Person,Thing",1993-06-07,"Rock,folk rock,blues,roots rock",Male
+40,17,783,2015-04-04,Carly Rae Jepsen,/wiki/Carly_Rae_Jepsen,Singer-songwriter,"Thing,Person",1985-11-21,Pop,Female
+40,18,784,2015-04-11,Mumford & Sons,/wiki/Mumford_%26_Sons,Rock band,"Thing,MusicGroup",,"Folk rock,neo-folk,alternative rock",
+40,19,785,2015-05-02,Wiz Khalifa,/wiki/Wiz_Khalifa,Rapper,"Person,Thing",1987-09-08,Hip hop,Male
+40,20,786,2015-05-09,Florence + the Machine,/wiki/Florence_and_the_Machine,Rock band,"Thing,MusicGroup",2007,"Indie rock,indie pop,baroque pop,chamber pop,art rock,art pop,neo soul",
+40,21,787,2015-05-16,Rihanna,/wiki/Rihanna,Singer,"Thing,Person",1988-02-20,"R&B,pop,reggae,hip hop,dance",Female
+41,1,788,2015-10-03,Miley Cyrus,/wiki/Miley_Cyrus,Singer-songwriter,"Thing,Person",1992-11-23,Pop,Female
+41,2,789,2015-10-10,The Weeknd,/wiki/The_Weeknd,Singer,"Person,Thing",1990-02-16,Alternative R&B,Male
+41,3,790,2015-10-17,Demi Lovato,/wiki/Demi_Lovato,Singer-songwriter,"Thing,Person",1992-08-20,"Pop,pop rock,R&B",Female
+41,4,791,2015-11-07,Sia,/wiki/Sia_Furler,Singer-songwriter,"Person,Thing",1975-12-18,"Pop,electropop,indie pop,trip hop,acid jazz",Female
+41,5,792,2015-11-14,Disclosure,/wiki/Disclosure_(band),Electronic duo,"MusicGroup,Thing",,"House,deep house,UK garage,synthpop,future garage,UK funky",
+41,6,793,2015-11-21,Adele,/wiki/Adele,Singer-songwriter,"Person,Thing",1988-05-05,"Soul,pop,blue-eyed soul,R&B",Female
+41,7,794,2015-12-05,Leon Bridges,/wiki/Leon_Bridges,Singer,"Person,Thing",1989-07-13,"Soul,gospel,R&B,blues",Male
+41,8,795,2015-12-12,Chance the Rapper,/wiki/Chance_the_Rapper,Rapper,"Thing,Person",1993-04-16,,Male
+41,9,796,2015-12-19,Bruce Springsteen,/wiki/Bruce_Springsteen,Singer-songwriter,"Person,Thing",1949-09-23,"Rock,heartland rock,folk rock,hard rock,rock and roll",Male
+41,9,796,2015-12-19,E Street Band,/wiki/E_Street_Band,Singer-songwriter,"Person,Thing",,Rock,Male
+41,10,797,2016-01-16,Chris Stapleton,/wiki/Chris_Stapleton,Musician,"Thing,Person",1978-04-15,"Country,bluegrass,Southern rock,outlaw country,blues",Male
+41,11,798,2016-01-23,Selena Gomez,/wiki/Selena_Gomez,Actress,"Person,Thing",1992-07-22,Dance-pop,Female
+41,12,799,2016-02-06,The 1975,/wiki/The_1975,Rock band,"MusicGroup,Thing",2002,"Indie rock,electropop,pop,pop rock",
+41,13,800,2016-02-13,Kanye West,/wiki/Kanye_West,Rapper,"Person,Thing",1977-06-08,Hip hop,Male
+41,14,801,2016-03-05,Future,/wiki/Future_(rapper),Company,"Corporation,Organization,Thing",1983-11-20,"Hip hop,trap",
+41,15,802,2016-03-12,Ariana Grande,/wiki/Ariana_Grande,Singer,"Thing,Person",1993-06-26,"Pop,R&B",Female
+41,16,803,2016-04-02,Gwen Stefani,/wiki/Gwen_Stefani,Singer-songwriter,"Person,Thing",1969-10-03,"Pop,dance-pop,synthpop,R&B,new wave,hip hop",Female
+41,17,804,2016-04-09,Margo Price,/wiki/Margo_Price,Singer-songwriter,"Thing,Person",1983-04-15,"Country,americana,honky tonk,outlaw country",Female
+41,18,805,2016-04-16,Nick Jonas,/wiki/Nick_Jonas,Singer-songwriter,"Thing,Person",1992-09-16,"Pop,pop rock,R&B",Male
+41,19,806,2016-05-07,Alicia Keys,/wiki/Alicia_Keys,Singer-songwriter,"Person,Thing",1981-01-25,"R&B,soul,jazz,hip hop",Female
+41,20,807,2016-05-14,Drake,/wiki/Drake_(rapper),Rapper,"Person,Thing",1986-10-24,"Hip hop,R&B",Male
+41,21,808,2016-05-21,Courtney Barnett,/wiki/Courtney_Barnett,Singer-songwriter,"Person,Thing",1987-11-03,"Indie rock,alternative rock,grunge,psychedelic",Female
+42,1,809,2016-10-01,The Weeknd,/wiki/The_Weeknd,Singer,"Person,Thing",1990-02-16,Alternative R&B,Male
+42,2,810,2016-10-08,Twenty One Pilots,/wiki/Twenty_One_Pilots,Musical duo,"MusicGroup,Thing",,"Alternative hip hop,electropop,indie pop,rock",
+42,3,811,2016-10-15,Bruno Mars,/wiki/Bruno_Mars,Singer-songwriter,"Person,Thing",1985-10-08,"R&B,funk,pop,soul",Male
+42,4,812,2016-10-22,Lady Gaga,/wiki/Lady_Gaga,Singer-songwriter,"Thing,Person",1986-03-28,"Electropop,dance-pop",Female
+42,5,813,2016-11-05,Solange,/wiki/Solange_Knowles,Singer-songwriter,"Thing,Person",1986-06-24,"R&B,funk,soul,pop,indie pop",Female
+42,6,814,2016-11-12,A Tribe Called Quest,/wiki/A_Tribe_Called_Quest,Hip hop group,"Thing,MusicGroup",,"Hip hop,alternative hip hop,jazz rap",
+42,7,815,2016-11-19,The xx,/wiki/The_xx,Band,"MusicGroup,Thing",,"Indie pop,indie electronic,dream pop,electronic rock",
+42,8,816,2016-12-03,Shawn Mendes,/wiki/Shawn_Mendes,Singer-songwriter,"Thing,Person",1998-08-08,"Pop,acoustic,folk pop",Male
+42,9,817,2016-12-10,Maren Morris,/wiki/Maren_Morris,Singer,"Thing,Person",1990-04-10,"Country pop,country,R&B,pop rock",Female
+42,10,818,2016-12-17,Chance the Rapper,/wiki/Chance_the_Rapper,Rapper,"Thing,Person",1993-04-16,,Male
+42,11,819,2017-01-14,Sturgill Simpson,/wiki/Sturgill_Simpson,Singer-songwriter,"Person,Thing",1978-06-08,"Country,alternative country,roots rock,soul",Male
+42,12,820,2017-01-21,Big Sean,/wiki/Big_Sean,Rapper,"Person,Thing",1988-03-25,Hip hop,Male
+42,13,821,2017-02-04,Alessia Cara,/wiki/Alessia_Cara,Singer-songwriter,"Thing,Person",1996-07-11,"Alternative R&B,R&B,pop,Alternative Hip Hop,Indie,Alternative Rock",Female
+42,14,822,2017-02-11,Ed Sheeran,/wiki/Ed_Sheeran,Studio album by Ed Sheeran,"MusicAlbum,Thing",1991-02-17,"Pop,folk pop,acoustic",
+42,15,823,2017-03-04,Father John Misty,/wiki/Joshua_Tillman,Singer-songwriter,"Person,Thing",1981-05-03,"Indie rock,indie folk,folk rock",Male
+42,16,824,2017-03-11,Lorde,/wiki/Lorde,Singer-songwriter,"Person,Thing",1996-11-07,"Art pop,dream pop,electropop,indietronica",Female
+42,17,825,2017-04-08,The Chainsmokers,/wiki/The_Chainsmokers,Duo,"Thing,MusicGroup",2012,"Electronic dance music,pop",
+42,18,826,2017-04-15,Harry Styles,/wiki/Harry_Styles,Singer,"Person,Thing",1994-02-01,,Male
